@@ -1,0 +1,1 @@
+[[https://travis-ci.org/ix-sthlm/ix-sthlm.github.io][https://api.travis-ci.org/ix-sthlm/ix-sthlm.github.io.svg?branch=source]]
