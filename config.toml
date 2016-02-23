@@ -1,4 +1,4 @@
-baseurl = "http://ix-sthlm.github.io/"
+baseurl = "https://ix-sthlm.github.io/"
 title = "IX Stockholm"
 languageCode = "sv-se"
 theme = "hyde-x"
