@@ -1,0 +1,29 @@
+baseurl = "http://ix-sthlm.github.io/"
+title = "IX Stockholm"
+languageCode = "sv-se"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "IX Sthlm"
+
+[permalinks]
+    post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+    category = "categories"
+    author = "authors"
+
+[params]
+    tagline = "Mest på UFS"
+    home = "Blogg"
+    github = "https://github.com/xil-sthlm/"
+    rss = true
+
+[[menu.main]]
+    name = "Projekt"
+    url = "/projects/"
+
+[[menu.main]]
+    name = "Om oss"
+    url = "/about/"
