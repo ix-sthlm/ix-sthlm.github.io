@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ix-sthlm.github.io/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ix-sthlm.github.io/about/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ix-sthlm.github.io/projects/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+  </url>
+  
+</urlset>
