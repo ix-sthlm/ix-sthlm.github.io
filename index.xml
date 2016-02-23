@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IX Stockholm</title>
-    <link>http://ix-sthlm.github.io/</link>
+    <link>https://ix-sthlm.github.io/</link>
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Tue, 23 Feb 2016 22:55:00 +0100</lastBuildDate>
-    <atom:link href="http://ix-sthlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ix-sthlm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Om oss</title>
-      <link>http://ix-sthlm.github.io/about/</link>
+      <link>https://ix-sthlm.github.io/about/</link>
       <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
       
-      <guid>http://ix-sthlm.github.io/about/</guid>
+      <guid>https://ix-sthlm.github.io/about/</guid>
       <description>&lt;p&gt;IRC: #ix på irc.oftc.net&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projekt</title>
-      <link>http://ix-sthlm.github.io/projects/</link>
+      <link>https://ix-sthlm.github.io/projects/</link>
       <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
       
-      <guid>http://ix-sthlm.github.io/projects/</guid>
+      <guid>https://ix-sthlm.github.io/projects/</guid>
       <description>&lt;p&gt;Mer info kommer.&lt;/p&gt;
 </description>
     </item>
