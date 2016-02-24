@@ -23,4 +23,4 @@ script:
 
 after_success:
     - echo "ix-sthlm.github.io" > ./public/CNAME
-    - ./deploy.sh
+    - ./.deploy.sh
