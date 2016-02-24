@@ -6,8 +6,10 @@ keywords = []
 title = "Om oss"
 
 +++
+IX är en Dator/Elektronik-förening med säte i Stockholm.
 
-IRC: #ix på irc.oftc.net
+### IRC
+[#ix på irc.oftc.net](irc://irc.oftc.net/ix)
 
 ### Hitta Hit
 IX håller till i [UFS](http://ufs.se/) lokal på Måndagar från klockan 18. UFS lokal ligger på *Polhemsgatan 38* nära Fridhemsplan i Stockholm.
