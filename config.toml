@@ -17,7 +17,7 @@ paginate = 10
 [params]
     tagline = "Mest på UFS"
     home = "Blogg"
-    github = "https://github.com/xil-sthlm/"
+    github = "https://github.com/ix-sthlm/"
     rss = true
 
 [[menu.main]]
