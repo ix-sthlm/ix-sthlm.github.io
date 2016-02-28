@@ -18,7 +18,7 @@ before_script:
     - go get -u -v github.com/spf13/hugo
 
 script:
-    - git clone https://github.com/zyro/hyde-x ./themes/hyde-x
+    - make install-theme
     - hugo
 
 after_success:
