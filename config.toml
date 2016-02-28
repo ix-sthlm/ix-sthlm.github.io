@@ -12,7 +12,7 @@ paginate = 10
 
 [taxonomies]
     category = "categories"
-    author = "authors"
+    author = "author"
 
 [params]
     tagline = "Mest på UFS"
