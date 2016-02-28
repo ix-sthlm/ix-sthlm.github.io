@@ -1,0 +1,6 @@
+* Pages to add:
+ - How to join
+ - Documents
+ - Upcoming events
+ - Move contact info to separate contact page, add board member list to it
+ - Link to web-IRC somewhere
