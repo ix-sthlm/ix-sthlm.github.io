@@ -20,6 +20,7 @@ before_script:
 
 script:
   - make install-theme
+  - make latex
   - hugo
 
 after_success:
