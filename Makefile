@@ -4,6 +4,13 @@
 install-theme:
 	git clone https://github.com/ix-sthlm/hyde-x ./themes/hyde-x
 
+# Make target latex
 latex:
-	echo '\documentclass{article}\begin{document}Hello, world!\end{document}' | pdflatex
-	mv article.pdf static/hello_world.pdf
+	mkdir -p static/documents
+
+	for i in `ls documents`; do        \
+        echo $$i;                       \
+		pdflatex -output-directory static/documents documents/$$i; \
+    done
+
+	rm static/documents/*aux static/documents/*log
