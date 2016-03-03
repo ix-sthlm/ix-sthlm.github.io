@@ -26,3 +26,9 @@ script:
 after_success:
   - echo "ix-sthlm.github.io" > ./public/CNAME
   - ./.deploy.sh
+
+# Build notifications in IRC
+notifications:
+  irc:
+    - "irc.oftc.net#ix"
+  use_notice: true
