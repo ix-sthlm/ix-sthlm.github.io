@@ -27,3 +27,7 @@ paginate = 10
 [[menu.main]]
     name = "Om oss"
     url = "/about/"
+
+[[menu.main]]
+    name = "Kontakta oss"
+    url = "/contact/"

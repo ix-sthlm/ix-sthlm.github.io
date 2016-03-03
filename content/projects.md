@@ -14,7 +14,7 @@ Elektronikkurs och lyftande av elektronikverksamheten med bättre material och v
 Drivande personer: [hard](/author/hard)
 
 ## Mekaniska tangentbord
-Drivande personer: [etu](/author/etu), [DOSN3rd](/author/dosn3rd)
+Drivande personer: [etu](/author/etu), [DOSn3rd](/author/dosn3rd)
 
 ## VR-hörnan
 Vi ska köpa in en dator som ska uppfylla Oculus rekommenderade specifikationer för arbete med VR-projekt. Vi ska dessutom installera utvecklingsmiljöer för att kunna jobba mot våran Oculus DK2, såsom Unreal Engine 4.
@@ -27,7 +27,7 @@ Vi är flera som sitter och jobbar på individuella spelprojekt.
 Drivande personer: [aku](/author/aku), [Conny Siponen @dapper](/author/siponen)
 
 ## Arduino-projekt
-Drivande personer: [hard](/author/hard), [aku](/author/aku), [DOSN3rd](/author/dosn3rd)
+Drivande personer: [hard](/author/hard), [aku](/author/aku), [DOSn3rd](/author/dosn3rd)
 
 ## IX-Logotypen
 Att designa och skapa en logga åt föreningen vore nice. Så vi gör det.

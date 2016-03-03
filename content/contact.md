@@ -1,0 +1,20 @@
++++
+categories = []
+date = "2016-03-03T20:17:00+01:00"
+description = ""
+keywords = []
+title = "Kontakta oss"
++++
+
+### Telefon
+Det finns en telefon i UFS lokal som går att ringa, vill man nå IX så är det
+bäst att ringa Måndag kvällar då det är då vi befinner oss i lokalen. Nummret
+dit är [08-10 77 00](tel:+468-10-77-00).
+
+### Internet Relay Chat
+IX har en kanal vid namn [#ix på irc.oftc.net](irc://irc.oftc.net/ix). Det
+går utmärkt att ansluta sig dit med valfri IRC-Klient eller använda
+webbklienten nedan.
+
+### WebbIRC
+<iframe src="https://webchat.oftc.net/?channels=ix" width="647" height="400"></iframe>
