@@ -6,8 +6,34 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 23 Feb 2016 22:55:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 20:17:00 +0100</lastBuildDate>
     <atom:link href="https://ix-sthlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kontakta oss</title>
+      <link>https://ix-sthlm.github.io/contact/</link>
+      <pubDate>Thu, 03 Mar 2016 20:17:00 +0100</pubDate>
+      
+      <guid>https://ix-sthlm.github.io/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;telefon:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Telefon&lt;/h3&gt;
+
+&lt;p&gt;Det finns en telefon i UFS lokal som går att ringa, vill man nå IX så är det
+bäst att ringa Måndag kvällar då det är då vi befinner oss i lokalen. Nummret
+dit är &lt;a href=&#34;tel:+468-10-77-00&#34;&gt;08-10 77 00&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;internet-relay-chat:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Internet Relay Chat&lt;/h3&gt;
+
+&lt;p&gt;IX har en kanal vid namn &lt;a href=&#34;irc://irc.oftc.net/ix&#34;&gt;#ix på irc.oftc.net&lt;/a&gt;. Det
+går utmärkt att ansluta sig dit med valfri IRC-Klient eller använda
+webbklienten nedan.&lt;/p&gt;
+
+&lt;h3 id=&#34;webbirc:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;WebbIRC&lt;/h3&gt;
+
+&lt;iframe src=&#34;https://webchat.oftc.net/?channels=ix&#34; width=&#34;647&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Om oss</title>
@@ -18,10 +44,6 @@
       <description>
 
 &lt;p&gt;IX är en Dator/Elektronik-förening med säte i Stockholm.&lt;/p&gt;
-
-&lt;h3 id=&#34;irc:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;IRC&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;irc://irc.oftc.net/ix&#34;&gt;#ix på irc.oftc.net&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;hitta-hit:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Hitta Hit&lt;/h3&gt;
 
@@ -65,7 +87,7 @@
 
 &lt;h2 id=&#34;arduino-projekt:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Arduino-projekt&lt;/h2&gt;
 
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix-sthlm.github.io/author/hard&#34;&gt;hard&lt;/a&gt;, &lt;a href=&#34;https://ix-sthlm.github.io/author/aku&#34;&gt;aku&lt;/a&gt;, &lt;a href=&#34;https://ix-sthlm.github.io/author/dosn3rd&#34;&gt;DOSN3rd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix-sthlm.github.io/author/hard&#34;&gt;hard&lt;/a&gt;, &lt;a href=&#34;https://ix-sthlm.github.io/author/aku&#34;&gt;aku&lt;/a&gt;, &lt;a href=&#34;https://ix-sthlm.github.io/author/dosn3rd&#34;&gt;DOSn3rd&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ix-logotypen:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;IX-Logotypen&lt;/h2&gt;
 
