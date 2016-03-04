@@ -16,4 +16,4 @@ utmärkt att ansluta sig dit med valfri IRC-Klient eller använda webbklienten
 nedan.
 
 ### WebbIRC
-<iframe src="https://webchat.oftc.net/?channels=ix" width="647" height="400"></iframe>
+<iframe src="https://webchat.oftc.net/?channels=ix" style="border: 1px solid black; width: 100%; height: 400px;"></iframe>
