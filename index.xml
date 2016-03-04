@@ -30,7 +30,7 @@ nedan.&lt;/p&gt;
 
 &lt;h3 id=&#34;webbirc:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;WebbIRC&lt;/h3&gt;
 
-&lt;iframe src=&#34;https://webchat.oftc.net/?channels=ix&#34; width=&#34;647&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://webchat.oftc.net/?channels=ix&#34; style=&#34;border: 1px solid black; width: 100%; height: 400px;&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -48,7 +48,7 @@ nedan.&lt;/p&gt;
 
 &lt;p&gt;IX håller till i &lt;a href=&#34;http://ufs.se/&#34;&gt;UFS&lt;/a&gt; lokal på Måndagar från klockan 18. UFS lokal ligger på &lt;em&gt;Polhemsgatan 38&lt;/em&gt; nära Fridhemsplan i Stockholm.&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=18.025871515274048%2C59.32980197428491%2C18.05054783821106%2C59.33683370733963&amp;amp;layer=mapnik&amp;amp;marker=59.333318022731746%2C18.038209676742554&#34; style=&#34;border: 1px solid black; height: 350px; width: 100%;&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=18.025871515274048%2C59.32980197428491%2C18.05054783821106%2C59.33683370733963&amp;amp;layer=mapnik&amp;amp;marker=59.333318022731746%2C18.038209676742554&#34; style=&#34;border: 1px solid black; width: 100%; height: 350px;&#34;&gt;&lt;/iframe&gt;
 &lt;br/&gt;
 &lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?mlat=59.33332&amp;amp;amp;mlon=18.03821#map=17/59.33332/18.03821&#34;&gt;Se större karta&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
