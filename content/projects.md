@@ -26,6 +26,9 @@ Drivande personer: [aku](/author/aku), [Conny Siponen @dapper](/author/siponen)
 ### Arduino-projekt
 Drivande personer: [hard](/author/hard), [aku](/author/aku), [DOSn3rd](/author/dosn3rd)
 
+### Quad Copters
+Drivande personer: [hard](/author/hard)
+
 ### IX-Logotypen
 Att designa och skapa en logga åt föreningen vore nice. Så vi gör det.
 
