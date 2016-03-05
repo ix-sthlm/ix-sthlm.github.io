@@ -19,6 +19,7 @@ paginate = 10
     home = "Blogg"
     github = "https://github.com/ix-sthlm/"
     rss = true
+    sidebar_license_page = false
 
 [[menu.main]]
     name = "Projekt"
