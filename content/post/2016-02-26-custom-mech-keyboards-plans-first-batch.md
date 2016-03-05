@@ -1,5 +1,5 @@
 +++
-author = "etu"
+authors = [ "etu" ]
 categories = [ "Mekaniska Tangentbord" ]
 date = "2016-02-23T22:39:09+01:00"
 title = "Planering inför Hembyggda Tangentbord"
