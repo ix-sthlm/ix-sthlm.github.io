@@ -7,4 +7,6 @@ title = "Progress på Quadden"
 Idag har det snickrats mer på vår gemensamma Quadcopter som byggs i lokalen
 på måndagar.
 
+Idag så började vi testa och kalibrera motorerna.
+
 ![Quadcopter med bur](/img/quadcopters/IMG_20160307_203554.jpg)
