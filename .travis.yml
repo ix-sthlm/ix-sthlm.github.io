@@ -33,6 +33,6 @@ notifications:
     channels:
       - "irc.oftc.net#ix"
     template:
-      - "%{repository}#%{build_number} (%{commit} on %{branch} by %{author}): %{message} Details at %{build_url}"
+      - "%{repository}#%{build_number} (%{commit} on %{branch} by %{author} with message \"%{commit_subject}\"): %{message} Details at %{build_url}"
     use_notice: true
     skip_join: true
