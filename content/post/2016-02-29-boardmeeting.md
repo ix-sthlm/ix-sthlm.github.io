@@ -3,7 +3,6 @@ authors = [ "etu" ]
 categories = [ "Styrelsen" ]
 date = "2016-02-29T20:00:00+01:00"
 title = "Konstituerande styrelsemöte"
-draft = true
 +++
 IX Styrelse hade denna dag sitt första styrelsemöte.
 
@@ -42,3 +41,6 @@ Dessa prylar tar cirka en halv lagerhylla totalt.
 
 Styrelsen beslutade att låta TB förvalta dessa prylar i väntan på att de
 kan komma till användning.
+
+### Nästa möte:
+Nästa styrelsemöte är planerat den 14:e Mars klockan 19:00.
