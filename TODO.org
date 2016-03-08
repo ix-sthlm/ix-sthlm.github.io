@@ -3,3 +3,4 @@
  - Documents
  - Upcoming events
  - Move contact info to separate contact page, add board member list to it
+ - Construct history page, with all history available, creation, naming, locations
