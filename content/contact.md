@@ -1,8 +1,5 @@
 +++
-categories = []
 date = "2016-03-03T20:17:00+01:00"
-description = ""
-keywords = []
 title = "Kontakta oss"
 +++
 
