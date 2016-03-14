@@ -1,7 +1,7 @@
 +++
 authors = [ "etu" ]
 categories = [ "Styrelsen" ]
-date = "2016-03-14T20:00:00+01:00"
+date = "2016-03-14T19:00:00+01:00"
 title = "Styrelsemöte 2"
 +++
 IX Styrelse har haft sitt andra styrelsemöte.
