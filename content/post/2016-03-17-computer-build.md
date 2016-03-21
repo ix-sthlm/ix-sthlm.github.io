@@ -2,7 +2,7 @@
 authors = [ "etu" ]
 categories = [ "Virtual Reality" ]
 date = "2016-03-17T22:00:00+01:00"
-title = "Virtual Reality labbdator-bygge"
+title = "Bygge av labbdator för Virtual Reality"
 +++
 Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality
 på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.
