@@ -7,10 +7,10 @@ Elektronikkurs och lyftande av elektronikverksamheten med bättre material och v
 
 Drivande personer: [hard](/authors/hard)
 
-### [Mekaniska tangentbord](/categories/mekaniska-tangentbord/)
+### Mekaniska tangentbord
 Drivande personer: [etu](/authors/etu), [DOSn3rd](/authors/dosn3rd)
 
-### [VR-hörnan](/categories/virtual-reality/)
+### VR-hörnan
 Vi ska köpa in en dator som ska uppfylla Oculus rekommenderade specifikationer för arbete med VR-projekt. Vi ska dessutom installera utvecklingsmiljöer för att kunna jobba mot våran Oculus DK2, såsom Unreal Engine 4.
 
 Drivande personer: [aku](/authors/aku), [Conny Siponen @dapper](/authors/siponen), [kira](/authors/kira)
@@ -23,7 +23,7 @@ Drivande personer: [aku](/authors/aku), [Conny Siponen @dapper](/authors/siponen
 ### Arduino-projekt
 Drivande personer: [hard](/authors/hard), [aku](/authors/aku), [DOSn3rd](/authors/dosn3rd)
 
-### [Quadcopters](/categories/quadcopters/)
+### Quadcopters
 Drivande personer: [hard](/authors/hard)
 
 ### IX-Logotypen
