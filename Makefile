@@ -8,8 +8,8 @@ install-theme:
 latex:
 	mkdir -p static/documents
 
-	for i in `ls documents`; do                                        \
-		pdflatex -output-directory static/documents documents/$$i; \
+	for i in `ls documents`; do                                                \
+		pdflatex -output-directory static/documents documents/$$i;             \
 	done
 
 	rm static/documents/*aux static/documents/*log
