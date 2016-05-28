@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on IX Stockholm</title>
-    <link>https://ix-sthlm.github.io/authors/</link>
+    <link>http://ix.ufs.se/authors/</link>
     <description>Recent content in Authors on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <atom:link href="https://ix-sthlm.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ix.ufs.se/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aku</title>
-      <link>https://ix-sthlm.github.io/authors/aku/</link>
+      <link>http://ix.ufs.se/authors/aku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/aku/</guid>
+      <guid>http://ix.ufs.se/authors/aku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conny Siponen @dapper</title>
-      <link>https://ix-sthlm.github.io/authors/siponen/</link>
+      <link>http://ix.ufs.se/authors/siponen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/siponen/</guid>
+      <guid>http://ix.ufs.se/authors/siponen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DOSn3rd</title>
-      <link>https://ix-sthlm.github.io/authors/dosn3rd/</link>
+      <link>http://ix.ufs.se/authors/dosn3rd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/dosn3rd/</guid>
+      <guid>http://ix.ufs.se/authors/dosn3rd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hård</title>
-      <link>https://ix-sthlm.github.io/authors/hard/</link>
+      <link>http://ix.ufs.se/authors/hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/hard/</guid>
+      <guid>http://ix.ufs.se/authors/hard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kira</title>
-      <link>https://ix-sthlm.github.io/authors/kira/</link>
+      <link>http://ix.ufs.se/authors/kira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/kira/</guid>
+      <guid>http://ix.ufs.se/authors/kira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>etu</title>
-      <link>https://ix-sthlm.github.io/authors/etu/</link>
+      <link>http://ix.ufs.se/authors/etu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix-sthlm.github.io/authors/etu/</guid>
+      <guid>http://ix.ufs.se/authors/etu/</guid>
       <description>&lt;p&gt;Info lär dyka upp någon gång. Här nedan har du mina bloggposter.&lt;/p&gt;
 </description>
     </item>

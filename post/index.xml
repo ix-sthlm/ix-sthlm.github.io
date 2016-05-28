@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IX Stockholm</title>
-    <link>https://ix-sthlm.github.io/post/</link>
+    <link>http://ix.ufs.se/post/</link>
     <description>Recent content in Posts on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Thu, 17 Mar 2016 22:00:00 +0100</lastBuildDate>
-    <atom:link href="https://ix-sthlm.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ix.ufs.se/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bygge av labbdator för Virtual Reality</title>
-      <link>https://ix-sthlm.github.io/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</link>
+      <link>http://ix.ufs.se/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</link>
       <pubDate>Thu, 17 Mar 2016 22:00:00 +0100</pubDate>
       
-      <guid>https://ix-sthlm.github.io/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</guid>
+      <guid>http://ix.ufs.se/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</guid>
       <description>&lt;p&gt;Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality
 på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_192206.jpg&#34; alt=&#34;Moderkort i chassi&#34; /&gt;
-&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_192444.jpg&#34; alt=&#34;CPU i sockel&#34; /&gt;
-&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_193807.jpg&#34; alt=&#34;Grafikkort&#34; /&gt;
-&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_200412.jpg&#34; alt=&#34;Nätagg&#34; /&gt;
-&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_201843.jpg&#34; alt=&#34;SSD på SSD-Plats&#34; /&gt;
-&lt;img src=&#34;https://ix-sthlm.github.io/img/2016-03-17-computer-build/IMG_20160317_201851.jpg&#34; alt=&#34;Lagringsdisk&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192206.jpg&#34; alt=&#34;Moderkort i chassi&#34; /&gt;
+&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192444.jpg&#34; alt=&#34;CPU i sockel&#34; /&gt;
+&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_193807.jpg&#34; alt=&#34;Grafikkort&#34; /&gt;
+&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_200412.jpg&#34; alt=&#34;Nätagg&#34; /&gt;
+&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201843.jpg&#34; alt=&#34;SSD på SSD-Plats&#34; /&gt;
+&lt;img src=&#34;http://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201851.jpg&#34; alt=&#34;Lagringsdisk&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Styrelsemöte 2</title>
-      <link>https://ix-sthlm.github.io/blog/2016/03/14/styrelsem%C3%B6te-2/</link>
+      <link>http://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</link>
       <pubDate>Mon, 14 Mar 2016 19:00:00 +0100</pubDate>
       
-      <guid>https://ix-sthlm.github.io/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
+      <guid>http://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
       <description>&lt;p&gt;IX Styrelse har haft sitt andra styrelsemöte.&lt;/p&gt;
 
 &lt;p&gt;Protokollet finns tillgängligt här:
@@ -44,25 +44,25 @@ på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
     
     <item>
       <title>Progress på Quadden</title>
-      <link>https://ix-sthlm.github.io/blog/2016/03/07/progress-p%C3%A5-quadden/</link>
+      <link>http://ix.ufs.se/blog/2016/03/07/progress-p%C3%A5-quadden/</link>
       <pubDate>Mon, 07 Mar 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix-sthlm.github.io/blog/2016/03/07/progress-p%C3%A5-quadden/</guid>
+      <guid>http://ix.ufs.se/blog/2016/03/07/progress-p%C3%A5-quadden/</guid>
       <description>&lt;p&gt;Idag har det snickrats mer på vår gemensamma Quadcopter som byggs i lokalen
 på måndagar.&lt;/p&gt;
 
 &lt;p&gt;Idag så började vi testa och kalibrera motorerna.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ix-sthlm.github.io/img/quadcopters/IMG_20160307_203554.jpg&#34; alt=&#34;Quadcopter med bur&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://ix.ufs.se/img/quadcopters/IMG_20160307_203554.jpg&#34; alt=&#34;Quadcopter med bur&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Konstituerande styrelsemöte</title>
-      <link>https://ix-sthlm.github.io/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</link>
+      <link>http://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</link>
       <pubDate>Mon, 29 Feb 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix-sthlm.github.io/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
+      <guid>http://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
       <description>
 
 &lt;p&gt;IX Styrelse hade denna dag sitt första styrelsemöte.&lt;/p&gt;
@@ -117,10 +117,10 @@ kan komma till användning.&lt;/p&gt;
     
     <item>
       <title>Planering inför Hembyggda Tangentbord</title>
-      <link>https://ix-sthlm.github.io/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</link>
+      <link>http://ix.ufs.se/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</link>
       <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
       
-      <guid>https://ix-sthlm.github.io/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</guid>
+      <guid>http://ix.ufs.se/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</guid>
       <description>&lt;p&gt;Jag tänkte dra igång planering av detta projekt nu på måndag. Min plan är att
 vi har ett planeringsmöte nu på Måndag (den 29:e Februari) med start 18 eller
 något i den stilen.&lt;/p&gt;
