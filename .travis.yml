@@ -24,7 +24,7 @@ script:
   - hugo
 
 after_success:
-  - echo "ix-sthlm.github.io" > ./public/CNAME
+  - echo "ix.ufs.se" > ./public/CNAME
   - ./.deploy.sh
 
 # Build notifications in IRC
