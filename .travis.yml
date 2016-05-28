@@ -24,7 +24,7 @@ script:
   - hugo
 
 after_success:
-  - echo "ix.ufs.se" > ./public/CNAME
+  - make cname
   - ./.deploy.sh
 
 # Build notifications in IRC

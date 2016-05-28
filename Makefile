@@ -13,3 +13,8 @@ latex:
 	done
 
 	rm static/documents/*aux static/documents/*log
+
+# Make target CNAME for github custom domain
+cname:
+	grep 'baseurl' config.toml |                                               \
+		sed -r -e 's#baseurl = "https?://##' -e 's#/"##' > ./public/CNAME
