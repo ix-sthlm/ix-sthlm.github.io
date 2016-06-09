@@ -6,8 +6,27 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 01 Jun 2016 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2016 19:30:00 +0200</lastBuildDate>
     <atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Miniquadsen har anlänt!</title>
+      <link>https://ix.ufs.se/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</link>
+      <pubDate>Thu, 09 Jun 2016 19:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</guid>
+      <description>&lt;p&gt;Vi har precis fått in en leverans med 15 stycken Cheerson CX10
+miniquadcopters som vi ska låta medlemmar övningsflyga med.&lt;/p&gt;
+
+&lt;p&gt;Så på måndag så kommer det att surra i lokalen!&lt;/p&gt;
+
+&lt;p&gt;Om du vill komma och flyga med oss så ta med en USB-Port med el
+och två stycken LR03-batterier för att driva kontrollen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ix.ufs.se/img/miniquads/IMG_20160609_191311.jpg&#34; alt=&#34;Miniquads&#34; /&gt;
+&lt;img src=&#34;https://ix.ufs.se/img/miniquads/IMG_20160609_191307.jpg&#34; alt=&#34;Skyddsramar&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ny domän!</title>
@@ -365,15 +384,6 @@ för moddning av allt möjligt senare.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ix.ufs.se/authors/dosn3rd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hård</title>
-      <link>https://ix.ufs.se/authors/hard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ix.ufs.se/authors/hard/</guid>
       <description></description>
     </item>
     
