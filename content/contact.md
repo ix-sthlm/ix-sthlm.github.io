@@ -13,12 +13,20 @@ så är det bäst att ringa på måndags kvällar.
 Nummret dit är [08-10 77 00](tel:+468-10-77-00).
 
 ### Postadress
-Det går även att skicka post till IX på följande adress:
+Det går att skicka post till IX på följande adress:
 ```
 IX
 C/O Unga Forskare Stockholm
 Box 8006
 104 20 Stockholm
+```
+
+### Besöksadress
+Det går att besöka IX på följande [adress](/visit/):
+```
+Unga Forskare Stockholm
+Polhemsgatan 38
+112 30 Stockholm
 ```
 
 ### Internet Relay Chat
