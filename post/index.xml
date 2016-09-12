@@ -6,8 +6,24 @@
     <description>Recent content in Post-rsses on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 09 Jun 2016 19:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2016 20:00:00 +0100</lastBuildDate>
     <atom:link href="https://ix.ufs.se/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Planeringsmöte för kommande projekt</title>
+      <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
+      <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
+      <description>&lt;p&gt;Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi
+har bland annat planerat att vi bland annat ska ha Workshops i Blender och
+Emacs.&lt;/p&gt;
+
+&lt;p&gt;Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett
+arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera
+IX3C och få ut information om att vi ska göra saker.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Miniquadsen har anlänt!</title>
