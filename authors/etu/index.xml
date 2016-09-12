@@ -9,6 +9,66 @@
     <atom:link href="https://ix.ufs.se/authors/etu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Projektet IX3C</title>
+      <link>https://ix.ufs.se/blog/2016/09/12/projektet-ix3c/</link>
+      <pubDate>Mon, 12 Sep 2016 21:10:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2016/09/12/projektet-ix3c/</guid>
+      <description>
+
+&lt;h2 id=&#34;syfte&#34;&gt;Syfte:&lt;/h2&gt;
+
+&lt;p&gt;Varje år de senaste 32 åren så har CCC (Chaos Computer Club) arrangerat CCC
+(Chaos Communication Congress) i Tyskland den 27-30 december.&lt;/p&gt;
+
+&lt;p&gt;CCC har på senare år satsat på att ha ett ökat remote-deltagande för
+kongressen. De har på senare år blivit bättre på live-streaming samt att läsa
+upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor
+precis som folk som faktiskt deltagar på kongressen.&lt;/p&gt;
+
+&lt;h2 id=&#34;när&#34;&gt;När:&lt;/h2&gt;
+
+&lt;p&gt;CCC har alltid varit 27-30 december från morgon till kväll med pauser i
+schemat för lunchpauser och middagar. IX3C kommer självklart att vara samma
+dagar som CCC.&lt;/p&gt;
+
+&lt;h2 id=&#34;plats&#34;&gt;Plats:&lt;/h2&gt;
+
+&lt;p&gt;Vi kommer att hålla till i UFS lokal på följande adress:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Unga Forskare Stockholm
+Polhemsgatan 38
+112 30 Stockholm
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;praktiska-planer&#34;&gt;Praktiska planer&lt;/h2&gt;
+
+&lt;h3 id=&#34;föreläsningar&#34;&gt;Föreläsningar&lt;/h3&gt;
+
+&lt;p&gt;Det kommer ta ett tag innan det kommer ett schema och vi tänker oss att man
+kommer överens om vad vi ska titta på under dagens gång.&lt;/p&gt;
+
+&lt;h3 id=&#34;mat&#34;&gt;Mat&lt;/h3&gt;
+
+&lt;p&gt;UFS lokal är utrustat med Kök, Toalett och Dusch. Vi har planer på att folk
+som vill deltaga ska anmäla ungefär vilka dagar de vill deltaga samt
+eventuella matpreferenser (allergier, dieter, vegeterianism, veganism, osv).&lt;/p&gt;
+
+&lt;p&gt;Vår plan är att laga mat till lunch och kanske gå ut och äta till middag.
+Beroende på hur folk känner inför att laga mat samt hur folk kommer överens
+om vad vi ska laga.&lt;/p&gt;
+
+&lt;p&gt;Kostnader för mat kan vi splitta på deltagare.&lt;/p&gt;
+
+&lt;h3 id=&#34;almännt-hackande&#34;&gt;Almännt hackande&lt;/h3&gt;
+
+&lt;p&gt;Under CCC så är det väldigt mycket &amp;ldquo;side-tracks&amp;rdquo; i form av folk som sitter
+och hackar på egna projekt. Det samma kommer vi kunna lösa på IX3C, vi skulle
+kunna sätta upp som mål att bygga något spännande under veckans gång.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Planeringsmöte för kommande projekt</title>
       <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
