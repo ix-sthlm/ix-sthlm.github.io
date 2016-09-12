@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on IX Stockholm</title>
-    <link>https://ix.ufs.se/post/</link>
-    <description>Recent content in Posts on IX Stockholm</description>
+    <title>Post-rsses on IX Stockholm</title>
+    <link>https://ix.ufs.se/post/index.xml</link>
+    <description>Recent content in Post-rsses on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Thu, 09 Jun 2016 19:30:00 +0200</lastBuildDate>

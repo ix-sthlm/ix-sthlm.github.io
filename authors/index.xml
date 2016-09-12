@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on IX Stockholm</title>
-    <link>https://ix.ufs.se/authors/</link>
-    <description>Recent content in Authors on IX Stockholm</description>
+    <title>Authors-rsses on IX Stockholm</title>
+    <link>https://ix.ufs.se/authors/index.xml</link>
+    <description>Recent content in Authors-rsses on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <atom:link href="https://ix.ufs.se/authors/index.xml" rel="self" type="application/rss+xml" />
