@@ -18,6 +18,7 @@ paginate = 10
     tagline = "Mest på UFS"
     home = "Blogg"
     github = "https://github.com/ix-sthlm/"
+    meetup = "https://meetup.com/IX-Stockholm"
     rss = true
     sidebar_license_page = false
 
