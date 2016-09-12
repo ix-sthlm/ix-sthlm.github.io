@@ -36,3 +36,7 @@ paginate = 10
 [[menu.main]]
     name = "Hitta hit"
     url = "/visit/"
+
+[[menu.main]]
+    name = "Kalender"
+    url = "/calendar/"
