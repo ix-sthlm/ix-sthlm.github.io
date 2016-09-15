@@ -57,11 +57,11 @@ man sedan kan bygga på med plugins och konfiguration så man kan göra allt mel
 himmel och jord.&lt;/p&gt;
 
 &lt;p&gt;Ideer på framtida ämnen:
- - Org-mode &amp;ndash; all hail the power!
- - Magit &amp;ndash; Emacs git interface
- - Elisp &amp;ndash; Variabler, Funktioner, Keybinds
- - Att bygga ett minor-mode
- - &amp;hellip; med mera!&lt;/p&gt;
+- Org-mode &amp;ndash; all hail the power!
+- Magit &amp;ndash; Emacs git interface
+- Elisp &amp;ndash; Variabler, Funktioner, Keybinds
+- Att bygga ett minor-mode
+- &amp;hellip; med mera!&lt;/p&gt;
 
 &lt;h3 id=&#34;spännande-och-smått-absurda-exempel-på-vad-folk-gjort-i-emacs&#34;&gt;Spännande och smått absurda exempel på vad folk gjort i Emacs&lt;/h3&gt;
 
