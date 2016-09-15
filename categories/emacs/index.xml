@@ -9,6 +9,70 @@
     <atom:link href="https://ix.ufs.se/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Emacs Workshops</title>
+      <link>https://ix.ufs.se/blog/2016/09/15/emacs-workshops/</link>
+      <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2016/09/15/emacs-workshops/</guid>
+      <description>
+
+&lt;h2 id=&#34;vad-handlar-första-workshoppen-om&#34;&gt;Vad handlar första workshoppen om?&lt;/h2&gt;
+
+&lt;p&gt;Planen med denna workshop är till en början att lära ut grunderna i Emacs kring
+funktioner så som att navigera i text, hantera buffrar, öppna/spara/skapa filer,
+avsluta.&lt;/p&gt;
+
+&lt;p&gt;Vi kan nog komma in på lite enkel konfiguration så som att välja tema, font, och
+diverse liknande saker som de flesta kan vara intresserade av tidigt.&lt;/p&gt;
+
+&lt;p&gt;I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när det
+gäller Emacs Lisp.&lt;/p&gt;
+
+&lt;h3 id=&#34;när&#34;&gt;När:&lt;/h3&gt;
+
+&lt;p&gt;Måndagen den 26:e september start klockan 19:00.&lt;/p&gt;
+
+&lt;h3 id=&#34;var&#34;&gt;Var:&lt;/h3&gt;
+
+&lt;p&gt;Vi kommer att hålla till i UFS lokal på följande adress:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Unga Forskare Stockholm
+Polhemsgatan 38
+112 30 Stockholm
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;vad-behöver-jag&#34;&gt;Vad behöver jag?&lt;/h3&gt;
+
+&lt;p&gt;En dator som förslagsvis är förberedd med Emacs installerat och att du inte är
+rädd för kortkommandon eller parenteser.&lt;/p&gt;
+
+&lt;p&gt;Du får också gärna anmäla dig här:
+&lt;a href=&#34;https://www.meetup.com/IX-Stockholm/events/234099421/&#34;&gt;https://www.meetup.com/IX-Stockholm/events/234099421/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;vad-mer-kommer-framöver&#34;&gt;Vad mer kommer framöver?&lt;/h2&gt;
+
+&lt;p&gt;Detta är bara första workshoppen då vi går igenom absoluta grunderna i Emacs som
+man sedan kan bygga på med plugins och konfiguration så man kan göra allt mellan
+himmel och jord.&lt;/p&gt;
+
+&lt;p&gt;Ideer på framtida ämnen:
+ - Org-mode &amp;ndash; all hail the power!
+ - Magit &amp;ndash; Emacs git interface
+ - Elisp &amp;ndash; Variabler, Funktioner, Keybinds
+ - Att bygga ett minor-mode
+ - &amp;hellip; med mera!&lt;/p&gt;
+
+&lt;h3 id=&#34;spännande-och-smått-absurda-exempel-på-vad-folk-gjort-i-emacs&#34;&gt;Spännande och smått absurda exempel på vad folk gjort i Emacs&lt;/h3&gt;
+
+&lt;p&gt;Steam.el kan användas för att indexera och starta steam-spel från Emacs:
+&lt;a href=&#34;https://github.com/Kungsgeten/steam.el&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Kungsgeten/steam.el/90e5414a41a31360152f6e7dc73eed2660f0e116/screenshot.png&#34; alt=&#34;steam.el&#34; title=&#34;Steam.el&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Port av sl(det annoying tåget till shellet om man skriver fel på ls) till Emacs:
+&lt;a href=&#34;https://github.com/xuchunyang/sl.el&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/xuchunyang/sl.el/446a0c410e5c0f732f19c5b0b8287bdac55c8a64/screenshot.png&#34; alt=&#34;sl.el&#34; title=&#34;sl.el&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Planeringsmöte för kommande projekt</title>
       <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
