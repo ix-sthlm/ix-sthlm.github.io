@@ -1,12 +1,33 @@
 +++
 authors = [ 'DOSn3rd' ]
 date = "2017-01-28T15:00:00+01:00"
-description = "Nu börjar det närma sig! 2017-02-20 är dagen att planera för."
+description = "Nu börjar det närma sig! 2017-02-20 är dagen att planera för. Dokument och dagordning finns i posten!"
 tags = ['Årsmöte', 'Möte']
 title = "Inbjudan till Årsmöte"
 topics = []
 +++
 Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+
+Dagordning
+---
+* Öppnande av mötet
+* Val av mötsordförande
+* Val av mötessekreterare
+* Val av justeringspersoner tillika rösträknare
+* Fråga om mötet är stadgeenligt kallat
+* Verksamhetsberättelse
+* Revisionsberättelse
+* Ekonomisk berättelse
+* Fråga om styrelsens ansvarsfrihet
+* Val av ordförande
+* Val av styrelseledamöter
+* Val av revisorer
+* Val av valberedning
+* Fastställande av medlemsavgift
+* Motioner
+* Övriga frågor 
+* Mötets avslutande
+
 
 Dokument
 ---
