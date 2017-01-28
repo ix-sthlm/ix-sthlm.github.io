@@ -6,8 +6,31 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 15 Sep 2016 18:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 15:00:00 +0100</lastBuildDate>
     <atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inbjudan till Årsmöte</title>
+      <link>https://ix.ufs.se/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</link>
+      <pubDate>Sat, 28 Jan 2017 15:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</guid>
+      <description>
+
+&lt;p&gt;Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.&lt;/p&gt;
+
+&lt;h2 id=&#34;dokument&#34;&gt;Dokument&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2016-verksamhetsberattelse.pdf&#34;&gt;Verksamhetsberättelse för 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-financial-report-2016.pdf&#34;&gt;Ekonomisk berättelse för 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-proposed-budget.pdf&#34;&gt;Budgetförslag för 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-verksamhetsplan.pdf&#34;&gt;Verksamhetsplan för 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/calendar/event?eid=NzVpajhlMzM3NHAzY2I5azZrcGppYjlrY2hnajhiOXBjaGdqMmI5bzYxaW1hb2hoY2NyNjRjYjE2ayByb2JxMjVhYnBrbDg3MG9mbnBtdmg0OXQ0a0Bn&amp;amp;ctz=Europe/Stockholm&#34;&gt;Kalenderevent&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emacs Workshops</title>
@@ -437,52 +460,6 @@ lokal ligger på &lt;em&gt;Polhemsgatan 38&lt;/em&gt; nära Fridhemsplan i Stock
       <description>&lt;p&gt;IX är en Dator/Elektronik-förening med säte i Stockholm.&lt;/p&gt;
 
 &lt;p&gt;IX har organisationsnummer 802404-4102.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projekt</title>
-      <link>https://ix.ufs.se/projects/</link>
-      <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/projects/</guid>
-      <description>
-
-&lt;h3 id=&#34;elektroniklyftet&#34;&gt;Elektroniklyftet&lt;/h3&gt;
-
-&lt;p&gt;Elektronikkurs och lyftande av elektronikverksamheten med bättre material och verktyg för att sprida mer kunskap och engagagemant för elektronikarbete.&lt;/p&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/hard&#34;&gt;hard&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;mekaniska-tangentbord&#34;&gt;Mekaniska tangentbord&lt;/h3&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/etu&#34;&gt;etu&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/dosn3rd&#34;&gt;DOSn3rd&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;vr-hörnan&#34;&gt;VR-hörnan&lt;/h3&gt;
-
-&lt;p&gt;Vi ska köpa in en dator som ska uppfylla Oculus rekommenderade specifikationer för arbete med VR-projekt. Vi ska dessutom installera utvecklingsmiljöer för att kunna jobba mot våran Oculus DK2, såsom Unreal Engine 4.&lt;/p&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/aku&#34;&gt;aku&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/siponen&#34;&gt;Conny Siponen @dapper&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/kira&#34;&gt;kira&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;spelprojekt&#34;&gt;Spelprojekt&lt;/h3&gt;
-
-&lt;p&gt;Vi är flera som sitter och jobbar på individuella spelprojekt.&lt;/p&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/aku&#34;&gt;aku&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/siponen&#34;&gt;Conny Siponen @dapper&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;arduino-projekt&#34;&gt;Arduino-projekt&lt;/h3&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/hard&#34;&gt;hard&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/aku&#34;&gt;aku&lt;/a&gt;, &lt;a href=&#34;https://ix.ufs.se/authors/dosn3rd&#34;&gt;DOSn3rd&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;quadcopters&#34;&gt;Quadcopters&lt;/h3&gt;
-
-&lt;p&gt;Drivande personer: &lt;a href=&#34;https://ix.ufs.se/authors/hard&#34;&gt;hard&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ix-logotypen&#34;&gt;IX-Logotypen&lt;/h3&gt;
-
-&lt;p&gt;Att designa och skapa en logga åt föreningen vore nice. Så vi gör det.&lt;/p&gt;
-
-&lt;p&gt;Drivande personer: alla&lt;/p&gt;
 </description>
     </item>
     
