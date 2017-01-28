@@ -5,7 +5,7 @@ description = "Nu börjar det närma sig! 2017-02-20 är dagen att planera för.
 tags = ['Årsmöte', 'Möte']
 title = "Inbjudan till Årsmöte"
 topics = []
-draft = false
+draft = true
 +++
 Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna. 
 
