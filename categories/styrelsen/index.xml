@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Styrelsen on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/styrelsen/index.xml</link>
+    <link>https://ix.ufs.se/categories/styrelsen/</link>
     <description>Recent content in Styrelsen on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <atom:link href="https://ix.ufs.se/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Mar 2016 19:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://ix.ufs.se/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Styrelsemöte 2</title>
@@ -14,13 +17,9 @@
       <pubDate>Mon, 14 Mar 2016 19:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
-      <description>&lt;p&gt;IX Styrelse har haft sitt andra styrelsemöte.&lt;/p&gt;
-
-&lt;p&gt;Protokollet finns tillgängligt här:
-&lt;a href=&#34;https://ix-sthlm.github.io/documents/2016-03-14-boardmeeting.pdf&#34;&gt;2016-03-14-boardmeeting.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nästa styrelsemöte är planerat till 4:e April.&lt;/p&gt;
-</description>
+      <description>IX Styrelse har haft sitt andra styrelsemöte.
+Protokollet finns tillgängligt här: 2016-03-14-boardmeeting.pdf
+Nästa styrelsemöte är planerat till 4:e April.</description>
     </item>
     
     <item>
@@ -29,56 +28,10 @@
       <pubDate>Mon, 29 Feb 2016 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
-      <description>
-
-&lt;p&gt;IX Styrelse hade denna dag sitt första styrelsemöte.&lt;/p&gt;
-
-&lt;h3 id=&#34;webbsida&#34;&gt;Webbsida&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att webbsidan som satts upp är en bra grund men behöver
-arbetas mer på för att fylla med mer innehåll.&lt;/p&gt;
-
-&lt;p&gt;Styrelsen har under mötet lagt upp projekt på projektsidan.&lt;/p&gt;
-
-&lt;h3 id=&#34;logotyp&#34;&gt;Logotyp&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att vi ska ta fram en logga av något slag. Detta är bra
-både på webbsidan och i eventuellt reklammaterial, både på print och i andra
-format.&lt;/p&gt;
-
-&lt;h3 id=&#34;vr-hörnan&#34;&gt;VR Hörnan&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att börja dra igång VR-Aktiviteter så snabbt som möjligt
-för att kicka igång dessa aktiviteter snarast. Datorbygge är planerat.&lt;/p&gt;
-
-&lt;h3 id=&#34;motion-förvaltning-av-inventarier&#34;&gt;Motion: Förvaltning av Inventarier&lt;/h3&gt;
-
-&lt;p&gt;TB har skickat in en motion angående inventarier som föreningen har i sin ägo
-som idag förvaltas av TB.&lt;/p&gt;
-
-&lt;p&gt;Lista av nämnda inventarier följer:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ca 80 meter CAT6 Kabel&lt;/li&gt;
-&lt;li&gt;1st 24 portars patchpanel&lt;/li&gt;
-&lt;li&gt;2st Delltangentbord&lt;/li&gt;
-&lt;li&gt;1 stor låda CAT5e/CAT6-kabel&lt;/li&gt;
-&lt;li&gt;1 stor låda förgreningsdosa&lt;/li&gt;
-&lt;li&gt;Lite skruvmejslar/kabelskalare/krimptång/nätverkstestare&lt;/li&gt;
-&lt;li&gt;ATX Chassi&lt;/li&gt;
-&lt;li&gt;4st Rasberry PI inklusive DVI-HDMI-adapter och MicroUSBel&lt;/li&gt;
-&lt;li&gt;1st PSU&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dessa prylar tar cirka en halv lagerhylla totalt.&lt;/p&gt;
-
-&lt;p&gt;Styrelsen beslutade att låta TB förvalta dessa prylar i väntan på att de
-kan komma till användning.&lt;/p&gt;
-
-&lt;h3 id=&#34;nästa-möte&#34;&gt;Nästa möte:&lt;/h3&gt;
-
-&lt;p&gt;Nästa styrelsemöte är planerat den 14:e Mars klockan 19:00.&lt;/p&gt;
-</description>
+      <description>IX Styrelse hade denna dag sitt första styrelsemöte.
+Webbsida Styrelsen har beslutat att webbsidan som satts upp är en bra grund men behöver arbetas mer på för att fylla med mer innehåll.
+Styrelsen har under mötet lagt upp projekt på projektsidan.
+Logotyp Styrelsen har beslutat att vi ska ta fram en logga av något slag. Detta är bra både på webbsidan och i eventuellt reklammaterial, både på print och i andra format.</description>
     </item>
     
   </channel>

@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IX Stockholm</title>
-    <link>https://ix.ufs.se/index.xml</link>
+    <link>https://ix.ufs.se/</link>
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sat, 28 Jan 2017 15:00:00 +0100</lastBuildDate>
-    <atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Inbjudan till Årsmöte</title>
@@ -15,44 +17,8 @@
       <pubDate>Sat, 28 Jan 2017 15:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</guid>
-      <description>
-
-&lt;p&gt;Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.&lt;/p&gt;
-
-&lt;h2 id=&#34;dagordning&#34;&gt;Dagordning&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Öppnande av mötet&lt;/li&gt;
-&lt;li&gt;Val av mötsordförande&lt;/li&gt;
-&lt;li&gt;Val av mötessekreterare&lt;/li&gt;
-&lt;li&gt;Val av justeringspersoner tillika rösträknare&lt;/li&gt;
-&lt;li&gt;Fråga om mötet är stadgeenligt kallat&lt;/li&gt;
-&lt;li&gt;Verksamhetsberättelse&lt;/li&gt;
-&lt;li&gt;Revisionsberättelse&lt;/li&gt;
-&lt;li&gt;Ekonomisk berättelse&lt;/li&gt;
-&lt;li&gt;Fråga om styrelsens ansvarsfrihet&lt;/li&gt;
-&lt;li&gt;Val av ordförande&lt;/li&gt;
-&lt;li&gt;Val av styrelseledamöter&lt;/li&gt;
-&lt;li&gt;Val av revisorer&lt;/li&gt;
-&lt;li&gt;Val av valberedning&lt;/li&gt;
-&lt;li&gt;Fastställande av medlemsavgift&lt;/li&gt;
-&lt;li&gt;Motioner&lt;/li&gt;
-&lt;li&gt;Övriga frågor&lt;/li&gt;
-&lt;li&gt;Mötets avslutande&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;dokument&#34;&gt;Dokument&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2016-verksamhetsberattelse.pdf&#34;&gt;Verksamhetsberättelse för 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-financial-report-2016.pdf&#34;&gt;Ekonomisk berättelse för 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-proposed-budget.pdf&#34;&gt;Budgetförslag för 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/2017-verksamhetsplan.pdf&#34;&gt;Verksamhetsplan för 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ix.ufs.se/documents/stadgar.pdf&#34;&gt;Stadgar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.google.com/calendar/event?eid=NzVpajhlMzM3NHAzY2I5azZrcGppYjlrY2hnajhiOXBjaGdqMmI5bzYxaW1hb2hoY2NyNjRjYjE2ayByb2JxMjVhYnBrbDg3MG9mbnBtdmg0OXQ0a0Bn&amp;amp;ctz=Europe/Stockholm&#34;&gt;Kalenderevent&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+Dagordning  Öppnande av mötet Val av mötsordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare Fråga om mötet är stadgeenligt kallat Verksamhetsberättelse Revisionsberättelse Ekonomisk berättelse Fråga om styrelsens ansvarsfrihet Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning Fastställande av medlemsavgift Motioner Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2016 Ekonomisk berättelse för 2016 Budgetförslag för 2017 Verksamhetsplan för 2017 Stadgar  Kalenderevent</description>
     </item>
     
     <item>
@@ -61,62 +27,9 @@
       <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/09/15/emacs-workshops/</guid>
-      <description>
-
-&lt;h2 id=&#34;vad-handlar-första-workshoppen-om&#34;&gt;Vad handlar första workshoppen om?&lt;/h2&gt;
-
-&lt;p&gt;Planen med denna workshop är till en början att lära ut grunderna i Emacs kring
-funktioner så som att navigera i text, hantera buffrar, öppna/spara/skapa filer,
-avsluta.&lt;/p&gt;
-
-&lt;p&gt;Vi kan nog komma in på lite enkel konfiguration så som att välja tema, font, och
-diverse liknande saker som de flesta kan vara intresserade av tidigt.&lt;/p&gt;
-
-&lt;p&gt;I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när det
-gäller Emacs Lisp.&lt;/p&gt;
-
-&lt;h3 id=&#34;när&#34;&gt;När:&lt;/h3&gt;
-
-&lt;p&gt;Måndagen den 26:e september start klockan 19:00.&lt;/p&gt;
-
-&lt;h3 id=&#34;var&#34;&gt;Var:&lt;/h3&gt;
-
-&lt;p&gt;Vi kommer att hålla till i UFS lokal på följande adress:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Unga Forskare Stockholm
-Polhemsgatan 38
-112 30 Stockholm
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;vad-behöver-jag&#34;&gt;Vad behöver jag?&lt;/h3&gt;
-
-&lt;p&gt;En dator som förslagsvis är förberedd med Emacs installerat och att du inte är
-rädd för kortkommandon eller parenteser.&lt;/p&gt;
-
-&lt;p&gt;Du får också gärna anmäla dig här:
-&lt;a href=&#34;https://www.meetup.com/IX-Stockholm/events/234099421/&#34;&gt;https://www.meetup.com/IX-Stockholm/events/234099421/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;vad-mer-kommer-framöver&#34;&gt;Vad mer kommer framöver?&lt;/h2&gt;
-
-&lt;p&gt;Detta är bara första workshoppen då vi går igenom absoluta grunderna i Emacs som
-man sedan kan bygga på med plugins och konfiguration så man kan göra allt mellan
-himmel och jord.&lt;/p&gt;
-
-&lt;p&gt;Ideer på framtida ämnen:
-- Org-mode &amp;ndash; all hail the power!
-- Magit &amp;ndash; Emacs git interface
-- Elisp &amp;ndash; Variabler, Funktioner, Keybinds
-- Att bygga ett minor-mode
-- &amp;hellip; med mera!&lt;/p&gt;
-
-&lt;h3 id=&#34;spännande-och-smått-absurda-exempel-på-vad-folk-gjort-i-emacs&#34;&gt;Spännande och smått absurda exempel på vad folk gjort i Emacs&lt;/h3&gt;
-
-&lt;p&gt;Steam.el kan användas för att indexera och starta steam-spel från Emacs:
-&lt;a href=&#34;https://github.com/Kungsgeten/steam.el&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Kungsgeten/steam.el/90e5414a41a31360152f6e7dc73eed2660f0e116/screenshot.png&#34; alt=&#34;steam.el&#34; title=&#34;Steam.el&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Port av sl(det annoying tåget till shellet om man skriver fel på ls) till Emacs:
-&lt;a href=&#34;https://github.com/xuchunyang/sl.el&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/xuchunyang/sl.el/446a0c410e5c0f732f19c5b0b8287bdac55c8a64/screenshot.png&#34; alt=&#34;sl.el&#34; title=&#34;sl.el&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Vad handlar första workshoppen om? Planen med denna workshop är till en början att lära ut grunderna i Emacs kring funktioner så som att navigera i text, hantera buffrar, öppna/spara/skapa filer, avsluta.
+Vi kan nog komma in på lite enkel konfiguration så som att välja tema, font, och diverse liknande saker som de flesta kan vara intresserade av tidigt.
+I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när det gäller Emacs Lisp.</description>
     </item>
     
     <item>
@@ -125,58 +38,8 @@ himmel och jord.&lt;/p&gt;
       <pubDate>Mon, 12 Sep 2016 21:10:00 +0200</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/09/12/projektet-ix3c/</guid>
-      <description>
-
-&lt;h2 id=&#34;syfte&#34;&gt;Syfte:&lt;/h2&gt;
-
-&lt;p&gt;Varje år de senaste 32 åren så har CCC (Chaos Computer Club) arrangerat CCC
-(Chaos Communication Congress) i Tyskland den 27-30 december.&lt;/p&gt;
-
-&lt;p&gt;CCC har på senare år satsat på att ha ett ökat remote-deltagande för
-kongressen. De har på senare år blivit bättre på live-streaming samt att läsa
-upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor
-precis som folk som faktiskt deltagar på kongressen.&lt;/p&gt;
-
-&lt;h2 id=&#34;när&#34;&gt;När:&lt;/h2&gt;
-
-&lt;p&gt;CCC har alltid varit 27-30 december från morgon till kväll med pauser i
-schemat för lunchpauser och middagar. IX3C kommer självklart att vara samma
-dagar som CCC.&lt;/p&gt;
-
-&lt;h2 id=&#34;plats&#34;&gt;Plats:&lt;/h2&gt;
-
-&lt;p&gt;Vi kommer att hålla till i UFS lokal på följande adress:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Unga Forskare Stockholm
-Polhemsgatan 38
-112 30 Stockholm
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;praktiska-planer&#34;&gt;Praktiska planer&lt;/h2&gt;
-
-&lt;h3 id=&#34;föreläsningar&#34;&gt;Föreläsningar&lt;/h3&gt;
-
-&lt;p&gt;Det kommer ta ett tag innan det kommer ett schema och vi tänker oss att man
-kommer överens om vad vi ska titta på under dagens gång.&lt;/p&gt;
-
-&lt;h3 id=&#34;mat&#34;&gt;Mat&lt;/h3&gt;
-
-&lt;p&gt;UFS lokal är utrustat med Kök, Toalett och Dusch. Vi har planer på att folk
-som vill deltaga ska anmäla ungefär vilka dagar de vill deltaga samt
-eventuella matpreferenser (allergier, dieter, vegeterianism, veganism, osv).&lt;/p&gt;
-
-&lt;p&gt;Vår plan är att laga mat till lunch och kanske gå ut och äta till middag.
-Beroende på hur folk känner inför att laga mat samt hur folk kommer överens
-om vad vi ska laga.&lt;/p&gt;
-
-&lt;p&gt;Kostnader för mat kan vi splitta på deltagare.&lt;/p&gt;
-
-&lt;h3 id=&#34;allmänt-hackande&#34;&gt;Allmänt hackande&lt;/h3&gt;
-
-&lt;p&gt;Under CCC så är det väldigt mycket &amp;ldquo;side-tracks&amp;rdquo; i form av folk som sitter
-och hackar på egna projekt. Det samma kommer vi kunna lösa på IX3C, vi skulle
-kunna sätta upp som mål att bygga något spännande under veckans gång.&lt;/p&gt;
-</description>
+      <description>Syfte: Varje år de senaste 32 åren så har CCC (Chaos Computer Club) arrangerat CCC (Chaos Communication Congress) i Tyskland den 27-30 december.
+CCC har på senare år satsat på att ha ett ökat remote-deltagande för kongressen. De har på senare år blivit bättre på live-streaming samt att läsa upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor precis som folk som faktiskt deltagar på kongressen.</description>
     </item>
     
     <item>
@@ -185,8 +48,7 @@ kunna sätta upp som mål att bygga något spännande under veckans gång.&lt;/p
       <pubDate>Mon, 12 Sep 2016 20:00:00 +0200</pubDate>
       
       <guid>https://ix.ufs.se/calendar/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=robq25abpkl870ofnpmvh49t4k%40group.calendar.google.com&amp;ctz=Europe/Stockholm&#34; style=&#34;border: 1px solid black; width: 100%; height: 600px;&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> </description>
     </item>
     
     <item>
@@ -195,14 +57,8 @@ kunna sätta upp som mål att bygga något spännande under veckans gång.&lt;/p
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
-      <description>&lt;p&gt;Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi
-har bland annat planerat att vi bland annat ska ha Workshops i Blender och
-Emacs.&lt;/p&gt;
-
-&lt;p&gt;Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett
-arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera
-IX3C och få ut information om att vi ska göra saker.&lt;/p&gt;
-</description>
+      <description>Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi har bland annat planerat att vi bland annat ska ha Workshops i Blender och Emacs.
+Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera IX3C och få ut information om att vi ska göra saker.</description>
     </item>
     
     <item>
@@ -211,17 +67,9 @@ IX3C och få ut information om att vi ska göra saker.&lt;/p&gt;
       <pubDate>Thu, 09 Jun 2016 19:30:00 +0200</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</guid>
-      <description>&lt;p&gt;Vi har precis fått in en leverans med 15 stycken Cheerson CX10
-miniquadcopters som vi ska låta medlemmar övningsflyga med.&lt;/p&gt;
-
-&lt;p&gt;Så på måndag så kommer det att surra i lokalen!&lt;/p&gt;
-
-&lt;p&gt;Om du vill komma och flyga med oss så ta med en USB-Port med el
-och två stycken LR03-batterier för att driva kontrollen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ix.ufs.se/img/miniquads/IMG_20160609_191311.jpg&#34; alt=&#34;Miniquads&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/miniquads/IMG_20160609_191307.jpg&#34; alt=&#34;Skyddsramar&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Vi har precis fått in en leverans med 15 stycken Cheerson CX10 miniquadcopters som vi ska låta medlemmar övningsflyga med.
+Så på måndag så kommer det att surra i lokalen!
+Om du vill komma och flyga med oss så ta med en USB-Port med el och två stycken LR03-batterier för att driva kontrollen.</description>
     </item>
     
     <item>
@@ -230,10 +78,7 @@ och två stycken LR03-batterier för att driva kontrollen.&lt;/p&gt;
       <pubDate>Wed, 01 Jun 2016 20:00:00 +0200</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/06/01/ny-dom%C3%A4n/</guid>
-      <description>&lt;p&gt;Vi har satt upp &lt;a href=&#34;https://ix.ufs.se/&#34;&gt;https://ix.ufs.se/&lt;/a&gt; för att peka
-hit numera. Det finns även redirect från &lt;code&gt;https://ix-sthlm.github.io/&lt;/code&gt;
-som redirectar hit.&lt;/p&gt;
-</description>
+      <description>Vi har satt upp https://ix.ufs.se/ för att peka hit numera. Det finns även redirect från https://ix-sthlm.github.io/ som redirectar hit.</description>
     </item>
     
     <item>
@@ -242,16 +87,7 @@ som redirectar hit.&lt;/p&gt;
       <pubDate>Thu, 17 Mar 2016 22:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</guid>
-      <description>&lt;p&gt;Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality
-på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192206.jpg&#34; alt=&#34;Moderkort i chassi&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192444.jpg&#34; alt=&#34;CPU i sockel&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_193807.jpg&#34; alt=&#34;Grafikkort&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_200412.jpg&#34; alt=&#34;Nätagg&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201843.jpg&#34; alt=&#34;SSD på SSD-Plats&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201851.jpg&#34; alt=&#34;Lagringsdisk&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.</description>
     </item>
     
     <item>
@@ -260,13 +96,9 @@ på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
       <pubDate>Mon, 14 Mar 2016 19:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
-      <description>&lt;p&gt;IX Styrelse har haft sitt andra styrelsemöte.&lt;/p&gt;
-
-&lt;p&gt;Protokollet finns tillgängligt här:
-&lt;a href=&#34;https://ix-sthlm.github.io/documents/2016-03-14-boardmeeting.pdf&#34;&gt;2016-03-14-boardmeeting.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nästa styrelsemöte är planerat till 4:e April.&lt;/p&gt;
-</description>
+      <description>IX Styrelse har haft sitt andra styrelsemöte.
+Protokollet finns tillgängligt här: 2016-03-14-boardmeeting.pdf
+Nästa styrelsemöte är planerat till 4:e April.</description>
     </item>
     
     <item>
@@ -275,65 +107,10 @@ på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2016 17:45:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/history/</guid>
-      <description>
-
-&lt;p&gt;IX Historia är lång och till stora delar inte dokumenterad, men planen med
-denna sida är att samla på sig så mycket som möjligt.&lt;/p&gt;
-
-&lt;p&gt;Tanken är att skriva denna sida i kronologisk ordning, samt att vi ska ha
-&lt;em&gt;betydelsefulla händelser&lt;/em&gt; som rubriker.&lt;/p&gt;
-
-&lt;h4 id=&#34;denna-sidas-status&#34;&gt;Denna sidas status&lt;/h4&gt;
-
-&lt;p&gt;Denna sida är ett nytt projekt för att dokumentera föreningens historia, den
-är troligtvis väldigt inkomplett.&lt;/p&gt;
-
-&lt;p&gt;Om någon besitter mer och bättre information om någonting på denna sida så
-är synpunkter välkomna. Majoriteten av aktiva medlemmar idag har inte varit
-delaktiga i mer än 5-10 år. Detta gör att väldigt mycket av föreningens
-historia och ursprung har fallit i glömska.&lt;/p&gt;
-
-&lt;h2 id=&#34;pascal&#34;&gt;Pascal&lt;/h2&gt;
-
-&lt;p&gt;Pascal är ursprunget för IX. Pascal hade en gång i tiden en lokal vid
-Odenplan. Pascal grundades någon gång på 70-talet.&lt;/p&gt;
-
-&lt;h2 id=&#34;pascal-blir-proxxi&#34;&gt;Pascal blir Proxxi&lt;/h2&gt;
-
-&lt;p&gt;Någon gång på 80-90-talet så flyttade Pascal till en lokal på adressen
-&lt;em&gt;Engelbrektsgatan 4&lt;/em&gt; nära Humlegården.&lt;/p&gt;
-
-&lt;p&gt;Samtidigt döpte föreningen om sig till Proxxi.&lt;/p&gt;
-
-&lt;h2 id=&#34;proxxi-byter-namn-till-ix&#34;&gt;Proxxi byter namn till IX&lt;/h2&gt;
-
-&lt;p&gt;Någon gång i mitten/slutet av 90-talet så kom föreningen GAM till Proxxi&amp;rsquo;s
-lokal.&lt;/p&gt;
-
-&lt;p&gt;GAM var en förening ansluten till Sverok som i sin tur gjorde ringkontroller
-till GAM&amp;rsquo;s medlemmar och frågade om dessa var medlemmar i föreningen &lt;em&gt;Goblins
-and Monsters&lt;/em&gt;, vilket alla naturligtvis svarade nej på. Dels för att de hade
-varit &lt;em&gt;på Proxxi&lt;/em&gt; och dels för att &lt;em&gt;GAM&lt;/em&gt; faktiskt bara var ett namn och inte
-en förkortning. Detta i sin tur ledde att GAM fick sina bidrag indragna.&lt;/p&gt;
-
-&lt;p&gt;Så för att lösa denna förvirring så döpte Proxxi om sig till IX samtidigt som
-GAM döpte om sig till Proxxi.&lt;/p&gt;
-
-&lt;h2 id=&#34;proxxi-flyttar-till-ny-lokal-ix-följer-med&#34;&gt;Proxxi flyttar till ny lokal - IX följer med&lt;/h2&gt;
-
-&lt;p&gt;Proxxi&amp;rsquo;s hyresvärd ville renovera källarlokalen där Proxxi låg och begärde att
-föreningen bara flyttade ut. Styrelsen gjorde detta utan att egentligen sätta
-något emot och gav sig ut på en väldigt hastig lokaljakt.&lt;/p&gt;
-
-&lt;p&gt;Proxxi flyttade sedan till en lokal på &lt;em&gt;Sandelsgatan 21&lt;/em&gt; som var både dyrare
-och mer otillgänglig. Efter denna flytt så kom aldrig aktiviteten igång på
-riktigt igen.&lt;/p&gt;
-
-&lt;h2 id=&#34;proxxi-stänger-sin-lokal-ix-flyttar-till-ufs&#34;&gt;Proxxi stänger sin lokal - IX flyttar till UFS&lt;/h2&gt;
-
-&lt;p&gt;Proxxi stänger sedan sin lokal och föreningen blir hemlös, då flyttar
-föreningen till UFS där de numera har regelbunden verksamhet på måndagar.&lt;/p&gt;
-</description>
+      <description>IX Historia är lång och till stora delar inte dokumenterad, men planen med denna sida är att samla på sig så mycket som möjligt.
+Tanken är att skriva denna sida i kronologisk ordning, samt att vi ska ha betydelsefulla händelser som rubriker.
+Denna sidas status Denna sida är ett nytt projekt för att dokumentera föreningens historia, den är troligtvis väldigt inkomplett.
+Om någon besitter mer och bättre information om någonting på denna sida så är synpunkter välkomna.</description>
     </item>
     
     <item>
@@ -342,13 +119,8 @@ föreningen till UFS där de numera har regelbunden verksamhet på måndagar.&lt
       <pubDate>Mon, 07 Mar 2016 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/03/07/progress-p%C3%A5-quadden/</guid>
-      <description>&lt;p&gt;Idag har det snickrats mer på vår gemensamma Quadcopter som byggs i lokalen
-på måndagar.&lt;/p&gt;
-
-&lt;p&gt;Idag så började vi testa och kalibrera motorerna.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ix.ufs.se/img/quadcopters/IMG_20160307_203554.jpg&#34; alt=&#34;Quadcopter med bur&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Idag har det snickrats mer på vår gemensamma Quadcopter som byggs i lokalen på måndagar.
+Idag så började vi testa och kalibrera motorerna.</description>
     </item>
     
     <item>
@@ -357,48 +129,11 @@ på måndagar.&lt;/p&gt;
       <pubDate>Thu, 03 Mar 2016 20:17:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/contact/</guid>
-      <description>
-
-&lt;h3 id=&#34;epost&#34;&gt;Epost&lt;/h3&gt;
-
-&lt;p&gt;Det går att eposta till styrelsen samt revisor på &lt;a href=&#34;mailto:ix@ufs.se&#34;&gt;ix@ufs.se&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;telefon&#34;&gt;Telefon&lt;/h3&gt;
-
-&lt;p&gt;Det finns en telefon i UFS lokal som det går att ringa till, om man vill nå IX
-så är det bäst att ringa på måndags kvällar.&lt;/p&gt;
-
-&lt;p&gt;Nummret dit är &lt;a href=&#34;tel:+468-10-77-00&#34;&gt;08-10 77 00&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;postadress&#34;&gt;Postadress&lt;/h3&gt;
-
-&lt;p&gt;Det går att skicka post till IX på följande adress:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;IX
-C/O Unga Forskare Stockholm
-Box 8006
-104 20 Stockholm
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;besöksadress&#34;&gt;Besöksadress&lt;/h3&gt;
-
-&lt;p&gt;Det går att besöka IX på följande &lt;a href=&#34;https://ix.ufs.se/visit/&#34;&gt;adress&lt;/a&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Unga Forskare Stockholm
-Polhemsgatan 38
-112 30 Stockholm
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;internet-relay-chat&#34;&gt;Internet Relay Chat&lt;/h3&gt;
-
-&lt;p&gt;IX har en kanal vid namn &lt;a href=&#34;irc://irc.oftc.net/ix&#34;&gt;#ix på irc.oftc.net&lt;/a&gt;. Det går
-utmärkt att ansluta sig dit med valfri IRC-Klient eller använda webbklienten
-nedan.&lt;/p&gt;
-
-&lt;h3 id=&#34;webbirc&#34;&gt;WebbIRC&lt;/h3&gt;
-
-&lt;iframe src=&#34;https://webchat.oftc.net/?channels=ix&#34; style=&#34;border: 1px solid black; width: 100%; height: 400px;&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Epost Det går att eposta till styrelsen samt revisor på ix@ufs.se.
+Telefon Det finns en telefon i UFS lokal som det går att ringa till, om man vill nå IX så är det bäst att ringa på måndags kvällar.
+Nummret dit är 08-10 77 00.
+Postadress Det går att skicka post till IX på följande adress:
+IX C/O Unga Forskare Stockholm Box 8006 104 20 Stockholm  Besöksadress Det går att besöka IX på följande adress:</description>
     </item>
     
     <item>
@@ -407,56 +142,10 @@ nedan.&lt;/p&gt;
       <pubDate>Mon, 29 Feb 2016 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
-      <description>
-
-&lt;p&gt;IX Styrelse hade denna dag sitt första styrelsemöte.&lt;/p&gt;
-
-&lt;h3 id=&#34;webbsida&#34;&gt;Webbsida&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att webbsidan som satts upp är en bra grund men behöver
-arbetas mer på för att fylla med mer innehåll.&lt;/p&gt;
-
-&lt;p&gt;Styrelsen har under mötet lagt upp projekt på projektsidan.&lt;/p&gt;
-
-&lt;h3 id=&#34;logotyp&#34;&gt;Logotyp&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att vi ska ta fram en logga av något slag. Detta är bra
-både på webbsidan och i eventuellt reklammaterial, både på print och i andra
-format.&lt;/p&gt;
-
-&lt;h3 id=&#34;vr-hörnan&#34;&gt;VR Hörnan&lt;/h3&gt;
-
-&lt;p&gt;Styrelsen har beslutat att börja dra igång VR-Aktiviteter så snabbt som möjligt
-för att kicka igång dessa aktiviteter snarast. Datorbygge är planerat.&lt;/p&gt;
-
-&lt;h3 id=&#34;motion-förvaltning-av-inventarier&#34;&gt;Motion: Förvaltning av Inventarier&lt;/h3&gt;
-
-&lt;p&gt;TB har skickat in en motion angående inventarier som föreningen har i sin ägo
-som idag förvaltas av TB.&lt;/p&gt;
-
-&lt;p&gt;Lista av nämnda inventarier följer:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ca 80 meter CAT6 Kabel&lt;/li&gt;
-&lt;li&gt;1st 24 portars patchpanel&lt;/li&gt;
-&lt;li&gt;2st Delltangentbord&lt;/li&gt;
-&lt;li&gt;1 stor låda CAT5e/CAT6-kabel&lt;/li&gt;
-&lt;li&gt;1 stor låda förgreningsdosa&lt;/li&gt;
-&lt;li&gt;Lite skruvmejslar/kabelskalare/krimptång/nätverkstestare&lt;/li&gt;
-&lt;li&gt;ATX Chassi&lt;/li&gt;
-&lt;li&gt;4st Rasberry PI inklusive DVI-HDMI-adapter och MicroUSBel&lt;/li&gt;
-&lt;li&gt;1st PSU&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dessa prylar tar cirka en halv lagerhylla totalt.&lt;/p&gt;
-
-&lt;p&gt;Styrelsen beslutade att låta TB förvalta dessa prylar i väntan på att de
-kan komma till användning.&lt;/p&gt;
-
-&lt;h3 id=&#34;nästa-möte&#34;&gt;Nästa möte:&lt;/h3&gt;
-
-&lt;p&gt;Nästa styrelsemöte är planerat den 14:e Mars klockan 19:00.&lt;/p&gt;
-</description>
+      <description>IX Styrelse hade denna dag sitt första styrelsemöte.
+Webbsida Styrelsen har beslutat att webbsidan som satts upp är en bra grund men behöver arbetas mer på för att fylla med mer innehåll.
+Styrelsen har under mötet lagt upp projekt på projektsidan.
+Logotyp Styrelsen har beslutat att vi ska ta fram en logga av något slag. Detta är bra både på webbsidan och i eventuellt reklammaterial, både på print och i andra format.</description>
     </item>
     
     <item>
@@ -465,13 +154,8 @@ kan komma till användning.&lt;/p&gt;
       <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/visit/</guid>
-      <description>&lt;p&gt;IX håller till i &lt;a href=&#34;http://ufs.se/&#34;&gt;UFS&lt;/a&gt; lokal på Måndagar från klockan 18. UFS
-lokal ligger på &lt;em&gt;Polhemsgatan 38&lt;/em&gt; nära Fridhemsplan i Stockholm.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=18.025871515274048%2C59.32980197428491%2C18.05054783821106%2C59.33683370733963&amp;amp;layer=mapnik&amp;amp;marker=59.333318022731746%2C18.038209676742554&#34; style=&#34;border: 1px solid black; width: 100%; height: 350px;&#34;&gt;&lt;/iframe&gt;
-&lt;br/&gt;
-&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?mlat=59.33332&amp;amp;amp;mlon=18.03821#map=17/59.33332/18.03821&#34;&gt;Se större karta&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-</description>
+      <description>IX håller till i UFS lokal på Måndagar från klockan 18. UFS lokal ligger på Polhemsgatan 38 nära Fridhemsplan i Stockholm.
+  Se större karta</description>
     </item>
     
     <item>
@@ -480,10 +164,85 @@ lokal ligger på &lt;em&gt;Polhemsgatan 38&lt;/em&gt; nära Fridhemsplan i Stock
       <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/about/</guid>
-      <description>&lt;p&gt;IX är en Dator/Elektronik-förening med säte i Stockholm.&lt;/p&gt;
-
-&lt;p&gt;IX har organisationsnummer 802404-4102.&lt;/p&gt;
-</description>
+      <description>IX är en Dator/Elektronik-förening med säte i Stockholm.
+IX har organisationsnummer 802404-4102.</description>
+    </item>
+    
+    <item>
+      <title>Projekt</title>
+      <link>https://ix.ufs.se/projects/</link>
+      <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/projects/</guid>
+      <description>Elektroniklyftet Elektronikkurs och lyftande av elektronikverksamheten med bättre material och verktyg för att sprida mer kunskap och engagagemant för elektronikarbete.
+Drivande personer: hard
+Mekaniska tangentbord Drivande personer: etu, DOSn3rd
+VR-hörnan Vi ska köpa in en dator som ska uppfylla Oculus rekommenderade specifikationer för arbete med VR-projekt. Vi ska dessutom installera utvecklingsmiljöer för att kunna jobba mot våran Oculus DK2, såsom Unreal Engine 4.
+Drivande personer: aku, Conny Siponen @dapper, kira</description>
+    </item>
+    
+    <item>
+      <title>Planering inför Hembyggda Tangentbord</title>
+      <link>https://ix.ufs.se/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</link>
+      <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</guid>
+      <description>Jag tänkte dra igång planering av detta projekt nu på måndag. Min plan är att vi har ett planeringsmöte nu på Måndag (den 29:e Februari) med start 18 eller något i den stilen.
+Det tangentbordet jag tänkte börja med att bygga är ett var modell heter Planck som är ett kompakt så kallat 40%&amp;rsquo;s tangentbord. I 40%&amp;rsquo;s tangentborden så tar man bort Numpad, Navigations- tangenter, F-Raden samt Sifferraden. Sedan så arbetar man mer med funktions- lager för att komma åt andra tangenter än bokstäver.</description>
+    </item>
+    
+    <item>
+      <title>Aku</title>
+      <link>https://ix.ufs.se/authors/aku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/aku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conny Siponen @dapper</title>
+      <link>https://ix.ufs.se/authors/siponen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/siponen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DOSn3rd</title>
+      <link>https://ix.ufs.se/authors/dosn3rd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/dosn3rd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hård</title>
+      <link>https://ix.ufs.se/authors/hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/hard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kira</title>
+      <link>https://ix.ufs.se/authors/kira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/kira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>etu</title>
+      <link>https://ix.ufs.se/authors/etu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ix.ufs.se/authors/etu/</guid>
+      <description>Info lär dyka upp någon gång. Här nedan har du mina bloggposter.</description>
     </item>
     
   </channel>

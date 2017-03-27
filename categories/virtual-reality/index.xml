@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual Reality on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/virtual-reality/index.xml</link>
+    <link>https://ix.ufs.se/categories/virtual-reality/</link>
     <description>Recent content in Virtual Reality on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <atom:link href="https://ix.ufs.se/categories/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Mar 2016 22:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://ix.ufs.se/categories/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Bygge av labbdator för Virtual Reality</title>
@@ -14,16 +17,7 @@
       <pubDate>Thu, 17 Mar 2016 22:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/blog/2016/03/17/bygge-av-labbdator-f%C3%B6r-virtual-reality/</guid>
-      <description>&lt;p&gt;Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality
-på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192206.jpg&#34; alt=&#34;Moderkort i chassi&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_192444.jpg&#34; alt=&#34;CPU i sockel&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_193807.jpg&#34; alt=&#34;Grafikkort&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_200412.jpg&#34; alt=&#34;Nätagg&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201843.jpg&#34; alt=&#34;SSD på SSD-Plats&#34; /&gt;
-&lt;img src=&#34;https://ix.ufs.se/img/2016-03-17-computer-build/IMG_20160317_201851.jpg&#34; alt=&#34;Lagringsdisk&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Dator har byggts i syfte att ha en labbdator för att labba Virtual Reality på. Vi har ju en Oculus Rift DK2 som vi vill börja använda.</description>
     </item>
     
   </channel>

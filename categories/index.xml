@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IX Stockholm</title>
+    <link>https://ix.ufs.se/categories/</link>
+    <description>Recent content in Categories on IX Stockholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Thu, 08 Sep 2016 20:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://ix.ufs.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arduino</title>
+      <link>https://ix.ufs.se/categories/arduino/</link>
+      <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>https://ix.ufs.se/categories/blender/</link>
+      <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://ix.ufs.se/categories/emacs/</link>
+      <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ix3c</title>
+      <link>https://ix.ufs.se/categories/ix3c/</link>
+      <pubDate>Mon, 12 Sep 2016 21:10:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/ix3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mekaniska Tangentbord</title>
+      <link>https://ix.ufs.se/categories/mekaniska-tangentbord/</link>
+      <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/mekaniska-tangentbord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadcopters</title>
+      <link>https://ix.ufs.se/categories/quadcopters/</link>
+      <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/quadcopters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styrelsen</title>
+      <link>https://ix.ufs.se/categories/styrelsen/</link>
+      <pubDate>Mon, 14 Mar 2016 19:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/styrelsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>https://ix.ufs.se/categories/virtual-reality/</link>
+      <pubDate>Thu, 17 Mar 2016 22:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
