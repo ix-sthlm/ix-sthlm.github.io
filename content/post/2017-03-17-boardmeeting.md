@@ -19,7 +19,7 @@ Erik Welander valdes till justeringsperson tillika rösträknare
 Michael Stahre valdes till Kassör för
 
 ### Val av firmatecknare
-Elis Axelsson (             ) och Michael Stahre(             ) valdes till firmatecknare
+Elis Axelsson och Michael Stahre valdes till firmatecknare
 
 ### Årsmötesprotokollet
 Årsmötesprotokollet renskrevs och committades för att byggas så att det kan signeras.
