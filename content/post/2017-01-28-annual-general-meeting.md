@@ -34,7 +34,7 @@ Dokument
 - [Verksamhetsberättelse för 2016](/documents/2016-verksamhetsberattelse.pdf)
 - [Ekonomisk berättelse för 2016](/documents/2017-financial-report-2016.pdf)
 - [Budgetförslag för 2017](/documents/2017-proposed-budget.pdf)
-- [Verksamhetsplan för 2017](/documents/2017-verksamhetsplan.pdf)
+- [Verksamhetsplan för 2017](/documents/2017-proposed-verksamhetsplan.pdf)
 - [Stadgar](/documents/stadgar.pdf)
 
 [Kalenderevent](https://www.google.com/calendar/event?eid=NzVpajhlMzM3NHAzY2I5azZrcGppYjlrY2hnajhiOXBjaGdqMmI5bzYxaW1hb2hoY2NyNjRjYjE2ayByb2JxMjVhYnBrbDg3MG9mbnBtdmg0OXQ0a0Bn&ctz=Europe/Stockholm)
