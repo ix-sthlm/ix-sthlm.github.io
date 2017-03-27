@@ -1,5 +1,5 @@
 +++
-autho = [ "aku" ]
+author = [ "aku" ]
 categories = [ "Styrelsen" ]
 date = "2017-03-17T20:00:00+01:00"
 title = "Konstituerande styrelsemöte för 2017"
