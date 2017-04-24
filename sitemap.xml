@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2017/04/24/styrelsem%C3%B6te-april/</loc>
+    <lastmod>2017-04-24T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</loc>
     <lastmod>2017-03-17T20:00:00+01:00</lastmod>
   </url>
@@ -152,7 +157,7 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2016-09-15T18:30:00+02:00</lastmod>
+    <lastmod>2017-04-24T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,7 +167,7 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2017-03-17T20:00:00+01:00</lastmod>
+    <lastmod>2017-04-24T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,7 +189,7 @@
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2017-03-17T20:00:00+01:00</lastmod>
+    <lastmod>2017-04-24T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,7 +201,7 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/styrelsen/</loc>
-    <lastmod>2017-03-17T20:00:00+01:00</lastmod>
+    <lastmod>2017-04-24T19:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
