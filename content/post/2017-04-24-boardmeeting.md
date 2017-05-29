@@ -2,7 +2,7 @@
 authors = [ "etu" ]
 categories = [ "Styrelsen" ]
 date = "2017-04-24T19:00:00+02:00"
-title = "Styrelsemöte April"
+title = "Styrelsemöte april"
 +++
 ### Logotyp
 Vi påminner Aku igen.
