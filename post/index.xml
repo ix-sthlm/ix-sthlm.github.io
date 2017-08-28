@@ -6,10 +6,22 @@
     <description>Recent content in Posts on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 29 May 2017 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 20:12:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Styrelsemöte augusti</title>
+      <link>https://ix.ufs.se/blog/2017/08/28/styrelsem%C3%B6te-augusti/</link>
+      <pubDate>Mon, 28 Aug 2017 20:12:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2017/08/28/styrelsem%C3%B6te-augusti/</guid>
+      <description>3D-Skrivare Vi är väldigt nöjda med vår nya printer. Den printar fint och mycket. Den fungerar över förväntan.
+3D-Skrivar introduktion Vi ska höra med Roos och Yann om att hålla i en 3D-Skrivar introduktions-måndag för att folk ska kunna komma hit och printa mer på egen hand när dom känner för det.
+IX3C2 Vi ska planera IX3C2 som uppföljare till förra årets IX3C.
+Årets IX3C2 kommer att hålla hus på UFS och vara den 27-30:e december.</description>
+    </item>
     
     <item>
       <title>Styrelsemöte maj</title>
