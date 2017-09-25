@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2017/09/25/styrelsem%C3%B6te-september/</loc>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2017/08/28/styrelsem%C3%B6te-augusti/</loc>
     <lastmod>2017-08-28T20:12:00+02:00</lastmod>
   </url>
@@ -167,7 +172,7 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2017-08-28T20:12:00+02:00</lastmod>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,13 +182,13 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2017-08-28T20:12:00+02:00</lastmod>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/categories/ix3c/</loc>
-    <lastmod>2017-08-28T20:12:00+02:00</lastmod>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +204,7 @@
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2017-08-28T20:12:00+02:00</lastmod>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,7 +216,7 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/styrelsen/</loc>
-    <lastmod>2017-08-28T20:12:00+02:00</lastmod>
+    <lastmod>2017-09-25T20:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
