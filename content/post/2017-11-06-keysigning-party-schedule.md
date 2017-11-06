@@ -25,7 +25,6 @@ Uppföljning av tidigare [bloggpost](/blog/2017/10/11/nyckelsigneringsparty-i-st
  - Skapa så lång nyckel som möjligt (4096 bitars längd)
  - Skapa en nyckel med ett bäst före-datum (typ 5 år framåt i tiden)
  - Ladda upp din nyckel på en publik nyckelserver
- - Skriv ut lappar med ditt namn, nyckellängd, epostadress och fingerprint
  - Skriv ut papper med all info om din nyckel som man kan få ut från till exempel `gpg --list-keys`
 
 Det ser ut i stil med följande:
