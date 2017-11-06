@@ -6,10 +6,20 @@
     <description>Recent content in Etu on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 11 Oct 2017 18:25:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/authors/etu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Schema för Nyckelsigneringsparty i Stockholm</title>
+      <link>https://ix.ufs.se/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</link>
+      <pubDate>Mon, 06 Nov 2017 19:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</guid>
+      <description>Uppföljning av tidigare bloggpost.
+Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)  21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare GnuPG: https://gnupg.</description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty i Stockholm</title>
