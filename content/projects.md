@@ -2,6 +2,14 @@
 date = "2016-02-23T22:55:00+01:00"
 title = "Projekt"
 +++
+### Keysigningpartys
+Vi vill hålla i nyckelsigneringspartyn i lokalen med regelbundenhet för att öka
+kunskapen och medvetenheten kring GPG-Nycklar och bygga en större web of trust!
+
+Drivande personer: [etu](/authors/etu/)
+
+Kategorier: [Nyckelsignering](/categories/nyckelsignering/), [GPG](/categories/gpg/)
+
 ### Elektroniklyftet
 Elektronikkurs och lyftande av elektronikverksamheten med bättre material och verktyg för att sprida mer kunskap och engagagemant för elektronikarbete.
 
