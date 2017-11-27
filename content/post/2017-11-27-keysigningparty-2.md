@@ -1,9 +1,8 @@
 +++
 authors = [ "etu" ]
 categories = [ "Nyckelsignering", "GPG" ]
-date = "2017-11-27T21:00:00+01:00"
+date = "2017-11-27T22:30:00+01:00"
 title = "Nyckelsigneringsparty december 2017"
-draft = true
 +++
 Hej och välkomna på vårt andra nyckelsigneringsparty i Stockholm.
 
