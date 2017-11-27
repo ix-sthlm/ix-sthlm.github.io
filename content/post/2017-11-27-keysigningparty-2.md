@@ -32,17 +32,19 @@ Samtliga deltagare lägger en trave lappar på deltagarbordet. Sedan får
 samtliga deltagare hämta en av varje lapp av andra deltagares lappar.
 
 Samtliga deltagare gör följande:
- 1. Lämnar en bunt med lappar på ett deltagarbord
- 2. Hämtar varsinn lapp från bordet av de andra deltagarnas lappar
- 3. Slär sig ner vid ett bord och skickar runt ID-handlingar
- 4. Markerar på lappar om identiteter är korrekta eller inte
+
+1. Lämnar en bunt med lappar på ett deltagarbord
+2. Hämtar varsinn lapp från bordet av de andra deltagarnas lappar
+3. Slär sig ner vid ett bord och skickar runt ID-handlingar
+4. Markerar på lappar om identiteter är korrekta eller inte
 
 Efter denna procedur är klar så är det upp till var och en att genomföra
 en klassisk signerings-procedur som ser ut som följande:
- 1. Hämta nyckeln du ska signera från nyckelserver
- 2. Verifiera att fingerprinten och identiteten stämmer med lappen
- 3. Signera nyckeln
- 4. Eposta den signerade nyckeln i ett krypterat mail till personen
+
+1. Hämta nyckeln du ska signera från nyckelserver
+2. Verifiera att fingerprinten och identiteten stämmer med lappen
+3. Signera nyckeln
+4. Eposta den signerade nyckeln i ett krypterat mail till personen
 
 När du tar emot mail från andra deltagare med din signerade nyckel så
 importerar du nyckeln och laddar upp den på en nyckelserver.
