@@ -6,10 +6,23 @@
     <description>Recent content in Posts on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 06 Nov 2017 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 20:20:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Styrelsemöte november</title>
+      <link>https://ix.ufs.se/blog/2017/11/27/styrelsem%C3%B6te-november/</link>
+      <pubDate>Mon, 27 Nov 2017 20:20:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2017/11/27/styrelsem%C3%B6te-november/</guid>
+      <description>Blender Aku borde dra i saker&amp;hellip; Vi borde komma på vad vi faktiskt ska hålla workshops om.
+Emacs Vi har mailat och de två som är aktiva i Emacs Meetup Stockholm verkar ha flyttat från Sverige till Frankrike nyligen.
+Är detta ett ypperligt tillfälle att försöka ta upp var de lämnade och driva eget?
+3D-Printer Dos ska försöka påminna sig själv om att prata med roos och yann.
+IX3C2 Elis ska skriva ihop en inbjudan till IX3C2 som kommer att gå ut som en bloggpost, på meetup samt diverse irc-kanaler och liknande.</description>
+    </item>
     
     <item>
       <title>Schema för Nyckelsigneringsparty i Stockholm</title>
