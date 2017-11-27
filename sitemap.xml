@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2017/11/27/nyckelsigneringsparty-december-2017/</loc>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2017/11/27/styrelsem%C3%B6te-november/</loc>
     <lastmod>2017-11-27T20:20:00+01:00</lastmod>
   </url>
@@ -187,13 +192,13 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2017-11-27T20:20:00+01:00</lastmod>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/categories/gpg/</loc>
-    <lastmod>2017-11-06T19:00:00+01:00</lastmod>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,7 +208,7 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2017-11-27T20:20:00+01:00</lastmod>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -225,13 +230,13 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/nyckelsignering/</loc>
-    <lastmod>2017-11-06T19:00:00+01:00</lastmod>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2017-11-27T20:20:00+01:00</lastmod>
+    <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
