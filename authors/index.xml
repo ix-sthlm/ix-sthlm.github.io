@@ -6,6 +6,7 @@
     <description>Recent content in Authors on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
+    <lastBuildDate>Fri, 17 Mar 2017 20:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,55 +14,28 @@
     <item>
       <title>Aku</title>
       <link>https://ix.ufs.se/authors/aku/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Mar 2017 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/authors/aku/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conny Siponen @dapper</title>
-      <link>https://ix.ufs.se/authors/siponen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ix.ufs.se/authors/siponen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DOSn3rd</title>
+      <title>Dosn3rd</title>
       <link>https://ix.ufs.se/authors/dosn3rd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Jan 2017 15:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/authors/dosn3rd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hård</title>
-      <link>https://ix.ufs.se/authors/hard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ix.ufs.se/authors/hard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kira</title>
-      <link>https://ix.ufs.se/authors/kira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ix.ufs.se/authors/kira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>etu</title>
+      <title>Etu</title>
       <link>https://ix.ufs.se/authors/etu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Nov 2017 21:30:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/authors/etu/</guid>
-      <description>Info lär dyka upp någon gång. Här nedan har du mina bloggposter.</description>
+      <description></description>
     </item>
     
   </channel>
