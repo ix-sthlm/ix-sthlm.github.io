@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ix.ufs.se/blog/2018/01/29/inbjudan-till-%C3%A5rsm%C3%B6te/</loc>
+    <loc>https://ix.ufs.se/blog/2018/01/29/inbjudan-till-%C3%A5rsm%C3%B6te-2018/</loc>
     <lastmod>2018-01-29T20:00:00+01:00</lastmod>
   </url>
   
@@ -244,6 +244,12 @@
   </url>
   
   <url>
+    <loc>https://ix.ufs.se/categories/m%C3%B6te/</loc>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/categories/nyckelsignering/</loc>
     <lastmod>2017-11-27T22:30:00+01:00</lastmod>
     <priority>0</priority>
@@ -275,6 +281,12 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</loc>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
