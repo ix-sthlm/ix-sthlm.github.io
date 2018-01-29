@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2018/01/29/inbjudan-till-%C3%A5rsm%C3%B6te/</loc>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2018/01/08/styrelsem%C3%B6te-januari/</loc>
     <lastmod>2018-01-08T20:30:00+01:00</lastmod>
   </url>
@@ -202,7 +207,7 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2018-01-08T20:30:00+01:00</lastmod>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,7 +223,7 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2018-01-08T20:30:00+01:00</lastmod>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,7 +251,7 @@
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2018-01-08T20:30:00+01:00</lastmod>
+    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
