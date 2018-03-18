@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2018/03/18/nyckelsigneringsparty-april-2018/</loc>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2018/02/03/nyckelsigneringsparty-februari-2018/</loc>
     <lastmod>2018-02-03T08:30:00+01:00</lastmod>
   </url>
@@ -212,13 +217,13 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2018-02-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/categories/gpg/</loc>
-    <lastmod>2018-02-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -228,7 +233,7 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2018-02-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,13 +261,13 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/nyckelsignering/</loc>
-    <lastmod>2018-02-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2018-02-03T08:30:00+01:00</lastmod>
+    <lastmod>2018-03-18T13:20:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
