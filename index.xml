@@ -6,10 +6,20 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 18 Mar 2018 13:20:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 23:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bli medlem</title>
+      <link>https://ix.ufs.se/membership/</link>
+      <pubDate>Tue, 08 May 2018 23:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/membership/</guid>
+      <description>För att bli medlem så vill vi be dig att fylla i denna blankett och ge den till någon i styrelsen. Om ingen från styrelsen är närvarande i lokalen så kan du lägga den i IX&amp;rsquo;s postfack på kontoret.
+Du kan även skicka in detta papper via post till vår postadress som du kan finna på kontakt-sidan.</description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty april 2018</title>
