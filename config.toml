@@ -41,3 +41,7 @@ paginate = 10
 [[menu.main]]
     name = "Kalender"
     url = "/calendar/"
+
+[[menu.main]]
+    name = "Bli medlem"
+    url = "/membership/"
