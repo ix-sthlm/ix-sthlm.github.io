@@ -6,13 +6,19 @@ install-theme:
 
 # Make target latex
 latex:
+	# Make sure output directory is there
 	mkdir -p static/documents
 
-	for i in `ls documents`; do                                                \
-		pdflatex -output-directory static/documents documents/$$i;             \
+	# Copy all TeX files
+	cp -vr documents/* static/documents/
+
+	# Compile all TeX files
+	for i in `find static/documents/ -type f -name '*.tex'`; do                \
+		pdflatex -output-directory `dirname $$i` $$i;                          \
 	done
 
-	rm static/documents/*aux static/documents/*log
+	# Remove non-pdf files from output
+	find static/documents/ -type f ! -name '*pdf' -delete
 
 # Make target CNAME for github custom domain
 cname:
