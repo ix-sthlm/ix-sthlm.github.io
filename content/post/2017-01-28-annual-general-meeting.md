@@ -31,10 +31,10 @@ Dagordning
 
 Dokument
 --------
-- [Verksamhetsberättelse för 2016](/documents/2016-verksamhetsberattelse.pdf)
-- [Ekonomisk berättelse för 2016](/documents/2017-financial-report-2016.pdf)
-- [Budgetförslag för 2017](/documents/2017-proposed-budget.pdf)
-- [Verksamhetsplan för 2017](/documents/2017-proposed-verksamhetsplan.pdf)
+- [Verksamhetsberättelse för 2016](/documents/2017-annual-meeting/annual-report-2016.pdf)
+- [Ekonomisk berättelse för 2016](/documents/2017-annual-meeting/financial-report-2016.pdf)
+- [Budgetförslag för 2017](/documents/2017-annual-meeting/proposed-budget-2017.pdf)
+- [Verksamhetsplan för 2017](/documents/2017-annual-meeting/proposed-operation-plan-2017.pdf)
 - [Stadgar](/documents/stadgar.pdf)
 
 [Kalenderevent](https://www.google.com/calendar/event?eid=NzVpajhlMzM3NHAzY2I5azZrcGppYjlrY2hnajhiOXBjaGdqMmI5bzYxaW1hb2hoY2NyNjRjYjE2ayByb2JxMjVhYnBrbDg3MG9mbnBtdmg0OXQ0a0Bn&ctz=Europe/Stockholm)
