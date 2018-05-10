@@ -34,10 +34,10 @@ Dagordning
 
 Dokument
 --------
-- [Verksamhetsberättelse för 2017](/documents/2018-annual-meeting/annual-report-2017.pdf)
-- [Ekonomisk berättelse för 2017](/documents/2018-annual-meeting/financial-report-2017.pdf)
-- [Budgetförslag för 2018](/documents/2018-annual-meeting/proposed-budget-2018.pdf)
-- [Verksamhetsplan för 2018](/documents/2018-annual-meeting/proposed-operation-plan-2018.pdf)
-- [Motion 1: Stadgeändring kring medlemsavgift](/documents/2018-annual-meeting/motion-1-medlemsavgift.pdf)
-- [Motion 2: Stadgeändring kring dagordning på årsmöte](/documents/2018-annual-meeting/motion-2-arsmotesdagordning.pdf)
+- [Verksamhetsberättelse för 2017](/documents/2018/annual-meeting/annual-report-2017.pdf)
+- [Ekonomisk berättelse för 2017](/documents/2018/annual-meeting/financial-report-2017.pdf)
+- [Budgetförslag för 2018](/documents/2018/annual-meeting/proposed-budget-2018.pdf)
+- [Verksamhetsplan för 2018](/documents/2018/annual-meeting/proposed-operation-plan-2018.pdf)
+- [Motion 1: Stadgeändring kring medlemsavgift](/documents/2018/annual-meeting/motion-1-medlemsavgift.pdf)
+- [Motion 2: Stadgeändring kring dagordning på årsmöte](/documents/2018/annual-meeting/motion-2-arsmotesdagordning.pdf)
 - [Stadgar](/documents/stadgar.pdf)
