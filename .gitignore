@@ -1,5 +1,6 @@
 public/
 themes/
+static/documents/
 
 # Ignore the output path from nix-build
 result
