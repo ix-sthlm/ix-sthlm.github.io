@@ -1,2 +1,5 @@
 public/
 themes/
+
+# Ignore the output path from nix-build
+result

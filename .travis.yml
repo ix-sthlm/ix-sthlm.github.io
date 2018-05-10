@@ -1,29 +1,26 @@
-language: go
-
-go:
-  - "1.5.1"
+language: tex
+os: linux
 
 env:
   global:
-    - SSH_KEY=".id_rsa"
+    - SSH_KEY=".travis/id_rsa"
     - GIT_NAME="IX Deployer"
     - GIT_EMAIL="ix-stockholm@gmail.com"
-    - SOURCE_DIR="public"
+    - SOURCE_DIR="result"
     - DEPLOY_BRANCH="source"
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_e43b78cad7fe_key -iv $encrypted_e43b78cad7fe_iv -in .id_rsa.enc -out .id_rsa -d
-  - sudo apt-get update && sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended texlive-lang-swedish
-  - wget https://github.com/spf13/hugo/releases/download/v0.20.3/hugo_v0.20.3_Linux-64bit.deb && sudo dpkg -i hugo_v0.20.3_Linux-64bit.deb
+  - openssl aes-256-cbc -K $encrypted_e43b78cad7fe_key -iv $encrypted_e43b78cad7fe_iv -in .travis/id_rsa.enc -out .travis/id_rsa -d
+
+install:
+  - curl https://raw.githubusercontent.com/pallavagarwal07/NixCI/master/travis-tests/install-nix.sh | sed 's/sudo/#sudo/' | bash
 
 script:
-  - make install-theme
-  - make latex
-  - hugo
+  - . /home/"${USER}"/.nix-profile/etc/profile.d/nix.sh
+  - nix-build -j20 .
 
 after_success:
-  - make cname
-  - ./.deploy.sh
+  - ./.travis/deploy.sh
 
 # Build notifications in IRC
 notifications:

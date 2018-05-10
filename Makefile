@@ -1,8 +1,20 @@
-# Empty for now to avoid travis errors
+clean:
+	rm -rf themes/ public/ static/documents/
 
-# Added install-theme target as part of refactoring build
+# Downloads the latest theme
 install-theme:
-	git clone https://github.com/ix-sthlm/hyde-x ./themes/hyde-x
+	# Create directory for themes
+	mkdir -p ./themes
+
+	# Download theme
+	curl -k -L https://github.com/ix-sthlm/hyde-x/archive/master.tar.gz | tar -xz
+
+	# Put theme in directory
+	mv ./hyde-x-master ./themes/hyde-x
+
+# Build site
+hugo:
+	hugo
 
 # Make target latex
 latex:
