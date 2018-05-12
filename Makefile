@@ -32,8 +32,9 @@ latex:
 	# Remove non-pdf files from output
 	find static/documents/ -type f ! -name '*pdf' -delete
 
-document-dirlist:
+dirlists:
 	./.travis/make_document_dirlist.sh static/documents/
+	./.travis/make_document_dirlist.sh static/img/
 
 # Make target CNAME for github custom domain
 cname:

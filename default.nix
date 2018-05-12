@@ -20,7 +20,7 @@ in stdenv.mkDerivation rec {
     make clean
     make install-theme
     make latex
-    make document-dirlist
+    make dirlists
     make hugo
     make cname
   '';
