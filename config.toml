@@ -51,3 +51,14 @@ DefaultContentLanguage = "sv"
         [[languages.sv.menu.main]]
             name = "Bli medlem"
             url = "/membership/"
+
+    [languages.en]
+        languageCode = "en-us"
+
+        [languages.en.params]
+            home = "Swedish site"
+            tagline = "Mostly at UFS"
+
+        [[languages.en.menu.main]]
+            name = "About us"
+            url = "/en/about/"
