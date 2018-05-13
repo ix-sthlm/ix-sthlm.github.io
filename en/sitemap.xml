@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ix.ufs.se/en/about/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/en/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/en/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/"
+                />
+  </url>
+  
+</urlset>

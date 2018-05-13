@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IX Stockholm</title>
+    <link>https://ix.ufs.se/en/</link>
+    <description>Recent content on IX Stockholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2016 22:55:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://ix.ufs.se/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ix.ufs.se/en/about/</link>
+      <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/en/about/</guid>
+      <description>IX is a small Computer/Electronics non profit organization that hoeses in Stockholm. We hang out in the space on Mondays from about 18:00.
+The address is Polhemsgatan 38 which is close to Fridhemsplan in Stockholm.
+  Se bigger map</description>
+    </item>
+    
+  </channel>
+</rss>
