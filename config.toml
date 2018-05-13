@@ -1,47 +1,53 @@
 baseurl = "https://ix.ufs.se/"
 title = "IX Stockholm"
-languageCode = "sv-se"
 theme = "hyde-x"
 paginate = 10
+DefaultContentLanguage = "sv"
 
 [author]
     name = "IX Sthlm"
-
-[permalinks]
-    post = "/blog/:year/:month/:day/:title/"
 
 [taxonomies]
     category = "categories"
     author = "authors"
 
 [params]
-    tagline = "Mest på UFS"
-    home = "Blogg"
     github = "https://github.com/ix-sthlm/"
     meetup = "https://meetup.com/IX-Stockholm"
     rss = true
     sidebar_license_page = false
 
-[[menu.main]]
-    name = "Projekt"
-    url = "/projects/"
+[languages]
+    [languages.sv]
+        languageCode = "sv-se"
 
-[[menu.main]]
-    name = "Om oss"
-    url = "/about/"
+        [languages.sv.permalinks]
+            post = "/blog/:year/:month/:day/:title/"
 
-[[menu.main]]
-    name = "Kontakta oss"
-    url = "/contact/"
+        [languages.sv.params]
+            home = "Blogg"
+            tagline = "Mest på UFS"
 
-[[menu.main]]
-    name = "Hitta hit"
-    url = "/visit/"
+        [[languages.sv.menu.main]]
+            name = "Projekt"
+            url = "/projects/"
 
-[[menu.main]]
-    name = "Kalender"
-    url = "/calendar/"
+        [[languages.sv.menu.main]]
+            name = "Om oss"
+            url = "/about/"
 
-[[menu.main]]
-    name = "Bli medlem"
-    url = "/membership/"
+        [[languages.sv.menu.main]]
+            name = "Kontakta oss"
+            url = "/contact/"
+
+        [[languages.sv.menu.main]]
+            name = "Hitta hit"
+            url = "/visit/"
+
+        [[languages.sv.menu.main]]
+            name = "Kalender"
+            url = "/calendar/"
+
+        [[languages.sv.menu.main]]
+            name = "Bli medlem"
+            url = "/membership/"
