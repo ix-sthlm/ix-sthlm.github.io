@@ -37,14 +37,6 @@ DefaultContentLanguage = "sv"
             url = "/about/"
 
         [[languages.sv.menu.main]]
-            name = "Kontakta oss"
-            url = "/contact/"
-
-        [[languages.sv.menu.main]]
-            name = "Hitta hit"
-            url = "/visit/"
-
-        [[languages.sv.menu.main]]
             name = "Kalender"
             url = "/calendar/"
 
