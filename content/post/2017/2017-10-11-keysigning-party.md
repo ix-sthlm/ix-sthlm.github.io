@@ -8,7 +8,7 @@ Hej och välkomna på att nyckelsigneringsparty i Stockholm!
 
 Den 20:e november från klockan 19:00 så bjuder IX in till
 keysigningparty i UFS lokaler vid Fridhemsplan i Stockholm. Adressen dit
-är [Polhemsgatan 38](/visit/).
+är [Polhemsgatan 38](/about/).
 
 #### Förberedelser för deltagande
 För att deltaga så är det bra om du har med dig papperskopior av ditt
