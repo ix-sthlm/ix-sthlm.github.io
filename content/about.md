@@ -28,7 +28,7 @@ Box 8006
 ```
 
 ### Besök oss
-IX håller till i [UFS](http://ufs.se/) lokal på Måndagar från klockan 18. UFS
+IX håller till i [UFS](http://ufs.se/) lokal på måndagar från klockan 18. UFS
 lokal har följande adress:
 ```
 Unga Forskare Stockholm
