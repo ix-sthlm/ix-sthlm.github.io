@@ -7,7 +7,7 @@ install-theme:
 	mkdir -p ./themes
 
 	# Download theme
-	curl -k -L https://github.com/ix-sthlm/hyde-x/archive/master.tar.gz | tar -xz
+	curl -L https://github.com/ix-sthlm/hyde-x/archive/master.tar.gz | tar -xz
 
 	# Put theme in directory
 	mv ./hyde-x-master ./themes/hyde-x

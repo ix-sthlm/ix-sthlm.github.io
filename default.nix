@@ -10,6 +10,7 @@ in stdenv.mkDerivation rec {
   src = ./.;
 
   buildInputs = with pkgs; [
+    cacert
     curl
     gnumake
     hugo
