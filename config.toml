@@ -37,6 +37,10 @@ DefaultContentLanguage = "sv"
             url = "/about/"
 
         [[languages.sv.menu.main]]
+            name = "Integritetspolicy"
+            url = "/about_privacy/"
+
+        [[languages.sv.menu.main]]
             name = "Kalender"
             url = "/calendar/"
 
