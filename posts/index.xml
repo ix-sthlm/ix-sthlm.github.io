@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IX Stockholm</title>
-    <link>https://ix.ufs.se/post/</link>
+    <link>https://ix.ufs.se/posts/</link>
     <description>Recent content in Posts on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Mon, 28 May 2018 19:15:00 +0200</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ix.ufs.se/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
