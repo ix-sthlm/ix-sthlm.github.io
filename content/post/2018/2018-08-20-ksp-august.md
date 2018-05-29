@@ -35,8 +35,8 @@ samtliga deltagare hämta en av varje lapp av andra deltagares lappar.
 Samtliga deltagare gör följande:
 
 1. Lämnar en bunt med lappar på ett deltagarbord
-2. Hämtar varsinn lapp från bordet av de andra deltagarnas lappar
-3. Slär sig ner vid ett bord och skickar runt ID-handlingar
+2. Hämtar varsin lapp från bordet av de andra deltagarnas lappar
+3. Slår sig ner vid ett bord och skickar runt ID-handlingar
 4. Markerar på lappar om identiteter är korrekta eller inte
 
 Efter denna procedur är klar så är det upp till var och en att genomföra
