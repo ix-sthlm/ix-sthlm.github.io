@@ -22,7 +22,7 @@ DefaultContentLanguage = "sv"
         languageCode = "sv-se"
 
         [languages.sv.permalinks]
-            posts = "/blog/:year/:month/:day/:title/"
+            post = "/blog/:year/:month/:day/:title/"
 
         [languages.sv.params]
             home = "Blogg"
