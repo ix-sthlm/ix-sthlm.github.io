@@ -8,9 +8,9 @@ Hej och välkomna på vårt tredje nyckelsigneringsparty i Stockholm.
 
 Den 12:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty
 i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är
-[Polhemsgatan 38](/about/). De som vill ha nybörjarhjälp eller har frågor
-är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp
-med att printa lappar (Mer info om lappar kommer).
+[Polhemsgatan 38](/about/#besök-oss). De som vill ha nybörjarhjälp eller har
+frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda
+hjälp med att printa lappar (Mer info om lappar kommer).
 
 #### Förberedelser för deltagande
 För att deltaga så behöver du ha med dig papperslappar med din fingerprint
