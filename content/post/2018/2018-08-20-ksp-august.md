@@ -7,8 +7,8 @@ draft = true
 +++
 Hej och välkomna på vårt sjätte nyckelsigneringsparty i Stockholm.
 
-Den 20:e augusti klockan 19:00 så bjuder IX in till nyckelsigneringsparty
-i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är
+Den 20:e augusti klockan 19:00 så bjuder IX in till nyckelsigneringsparty i
+UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är
 [Polhemsgatan 38](/about/#besök-oss). De som vill ha nybörjarhjälp eller har
 frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda
 hjälp med att printa lappar (Mer info om lappar kommer).
@@ -28,27 +28,48 @@ sub   rsa4096 2016-04-30 [E]
 sub   rsa4096 2016-04-30 [A]
 ```
 
+Det skulle underlätta om samtliga deltagare laddar upp sin nyckel på [IX
+Nyckelserver](#ix-nyckelserver) på följande vis:
+```
+$ gpg --keyserver keys.ix.ufs.se --send-keys <ditt fingeravtryck>
+```
+
 #### Förfarande för signeringar
 Samtliga deltagare lägger en trave lappar på deltagarbordet. Sedan får
 samtliga deltagare hämta en av varje lapp av andra deltagares lappar.
 
 Samtliga deltagare gör följande:
 
-1. Lämnar en bunt med lappar på ett deltagarbord
-2. Hämtar varsin lapp från bordet av de andra deltagarnas lappar
-3. Slår sig ner vid ett bord och skickar runt ID-handlingar
-4. Markerar på lappar om identiteter är korrekta eller inte
+1. Slår sig ner vid ett bord med sina förberedda lappar samt ID-handling
+2. Skickar runt sin bunt med lappar tillsammans med ID-handling
+3. Tar lappar av de man inte signerat samt markerar lappar om man tänker
+   signera den nyckeln eller ej efter att man gjort en verifikation av
+   identiteten som man känner sig nöjd med.
 
-Efter denna procedur är klar så är det upp till var och en att genomföra
-en klassisk signerings-procedur som ser ut som följande:
+Efter denna procedur är klar så är det upp till var och en att genomföra en
+klassisk signerings-procedur som ser ut som följande:
 
-1. Hämta nyckeln du ska signera från nyckelserver
+1. Hämta nyckeln du ska signera från nyckelserver (våran eller publik)
 2. Verifiera att fingerprinten och identiteten stämmer med lappen
 3. Signera nyckeln
 4. Eposta den signerade nyckeln i ett krypterat mail till personen
 
 När du tar emot mail från andra deltagare med din signerade nyckel så
 importerar du nyckeln och laddar upp den på en nyckelserver.
+
+#### IX Nyckelserver
+IX har en nycklserver som inte är del av
+[SKS-Keyservers](https://sks-keyservers.net/)-poolen. Detta innebär att
+deltagare kan både ladda upp och ladda ner nycklar där vilket oftast är
+betydligt snabbare än att använda de stora delade servrarna. När nycklarna är
+signerade så bör du ändå ladda upp din nyckel på en större publik server då
+du förmodligen vill att andra ska kunna hitta din nyckel.
+
+IX Nyckelserver heter [keys.ix.ufs.se](https://keys.ix.ufs.se/).
+
+För att använda denna nyckelserver med GPG så kan ni använda flaggan
+`--keyserver keys.ix.ufs.se` som första argument till alla gpg-kommandon ni
+kör som har något med att söka, skicka eller hämta nycklar att göra.
 
 #### Flyer
 Det finns en flyer att printa om du vill sätta upp någonstans (på jobb,
