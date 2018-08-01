@@ -1,9 +1,8 @@
 +++
 authors = [ "etu" ]
 categories = [ "Nyckelsignering", "GPG" ]
-date = "2018-08-20T00:00:00+02:00"
+date = "2018-08-01T07:50:00+02:00"
 title = "Nyckelsigneringsparty augusti 2018"
-draft = true
 +++
 Hej och välkomna på vårt sjätte nyckelsigneringsparty i Stockholm.
 
@@ -20,12 +19,16 @@ ID-handling så att andra deltagare kan verifiera din identitet.
 
 Ett exempel på att ta fram detta är enligt följande:
 ```
-$ gpg --fingerprint "Elis Hirwing"
-pub   rsa4096 2016-04-30 [SC] [expires: 2022-10-13]
-      67FE 98F2 8C44 CF22 1828  E12F D57E FA62 5C9A 925F
-uid           [ultimate] Elis Hirwing <elis@hirwing.se>
-sub   rsa4096 2016-04-30 [E]
-sub   rsa4096 2016-04-30 [A]
+$ gpg --fingerprint --keyid-format 0xlong "elis@hirwing.se"
+pub  rsa4096/0xD57EFA625C9A925F 2016-04-30 [SC] [expires: 2023-06-23]
+     Key fingerprint = 67FE 98F2 8C44 CF22 1828  E12F D57E FA62 5C9A 925F
+uid                  [ultimate] Elis Hirwing <elis@hirwing.se>
+uid                  [ultimate] Elis Hirwing <etu@failar.nu>
+uid                  [ultimate] Elis Hirwing <elis@failar.nu>
+uid                  [ultimate] Elis Hirwing (SA0BSE) <s@0b.se>
+uid                  [ultimate] Elis Hirwing (SA0BSE) <sa@0b.se>
+sub  rsa4096/0xCC77E1CD861D1104 2016-04-30 [E] [expires: 2023-06-23]
+sub  rsa4096/0xF141FC8514E6F255 2016-04-30 [A] [expires: 2023-06-23]
 ```
 
 Det skulle underlätta om samtliga deltagare laddar upp sin nyckel på [IX
@@ -58,7 +61,7 @@ När du tar emot mail från andra deltagare med din signerade nyckel så
 importerar du nyckeln och laddar upp den på en nyckelserver.
 
 #### IX Nyckelserver
-IX har en nycklserver som inte är del av
+IX har en nyckelserver som inte är del av
 [SKS-Keyservers](https://sks-keyservers.net/)-poolen. Detta innebär att
 deltagare kan både ladda upp och ladda ner nycklar där vilket oftast är
 betydligt snabbare än att använda de stora delade servrarna. När nycklarna är
