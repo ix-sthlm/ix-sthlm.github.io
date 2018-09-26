@@ -1,4 +1,4 @@
-language: tex
+language: nix
 os: linux
 
 env:
@@ -12,11 +12,7 @@ env:
 before_install:
   - openssl aes-256-cbc -K $encrypted_e43b78cad7fe_key -iv $encrypted_e43b78cad7fe_iv -in .travis/id_rsa.enc -out .travis/id_rsa -d
 
-install:
-  - curl https://raw.githubusercontent.com/pallavagarwal07/NixCI/master/travis-tests/install-nix.sh | sed 's/sudo/#sudo/' | bash
-
 script:
-  - . /home/"${USER}"/.nix-profile/etc/profile.d/nix.sh
   - nix-build -j20 .
 
 after_success:
