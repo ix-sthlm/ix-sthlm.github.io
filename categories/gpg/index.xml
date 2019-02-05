@@ -6,10 +6,21 @@
     <description>Recent content in Gpg on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 26 Nov 2018 22:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 08:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/categories/gpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nyckelsigneringsparty februari 2019</title>
+      <link>https://ix.ufs.se/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</link>
+      <pubDate>Tue, 05 Feb 2019 08:30:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</guid>
+      <description>Hej och välkomna på vårt nionde nyckelsigneringsparty i Stockholm.
+Den 18:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
+Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
+    </item>
     
     <item>
       <title>Glöggmingel med GPG nyckelsignering</title>

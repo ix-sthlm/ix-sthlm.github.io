@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ix.ufs.se/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</loc>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/</loc>
     <lastmod>2018-11-26T22:00:00+01:00</lastmod>
   </url>
@@ -273,7 +278,7 @@
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2018-11-26T22:00:00+01:00</lastmod>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -285,7 +290,7 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/gpg/</loc>
-    <lastmod>2018-11-26T22:00:00+01:00</lastmod>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -295,7 +300,7 @@
   
   <url>
     <loc>https://ix.ufs.se/</loc>
-    <lastmod>2018-11-26T22:00:00+01:00</lastmod>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -333,13 +338,13 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/nyckelsignering/</loc>
-    <lastmod>2018-11-26T22:00:00+01:00</lastmod>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2018-11-26T22:00:00+01:00</lastmod>
+    <lastmod>2019-02-05T08:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
