@@ -1,5 +1,5 @@
 +++
-date = "2016-05-24T21:00:00+02:00"
+date = "2019-03-31T19:30:00+02:00"
 title = "IX Integritetspolicy"
 +++
 Ditt förtroende är viktigt för oss i IX (gemensamt benämnt "Föreningen"). Det
@@ -19,17 +19,17 @@ medlem är när du ansöker om medlemskap i föreningen för det nuvarande året
 Den informationen vi samlar in för ett medlemskap är:
 
  - För och efternamn
- - Födelseår eller Födelsedatum
+ - Födelseår
  - Juridiskt kön
- - Telefonnummer
  - Epostadress
- - C/O-adress
+ - Telefonnummer (Frivilligt)
  - Gatuadress
  - Postnummer
+ - C/O-adress
 
-Denna information får du själv skriva in på ett papper som vi har ett
-formulär för som finns att [printa](/membership.pdf) från vår site, eller
-använda ett för-utskrivet exemplar i lokalen.
+Denna information får du själv fylla i i ett formulär som ägs av Distriktets
+Google-konto. D.v.s inte en enskild privatpersons Google-konto. Distriktet
+har i sin tur GDPR-avtal på plats med Google genom G Suite.
 
 Ifall du medverkar på ett möte så kan ditt namn (oftast endast förnamn) även
 förekomma i mötesprotokollet, som i sin tur kommer att publiceras på våra
@@ -43,13 +43,13 @@ detta är grund för storleken på de bidrag som Föreningen får från Distrikt
 Vi kan också komma att kontakta dig via dessa uppgifter i föreningens syfte.
 
 ### Hur lagrar vi dina uppgifter och hur länge?
-Vi lagrar dina uppgifter i en pärm (där de inte sorteras eller kategoriseras
-på något annat vis än att de är grupperade efter vilket år medlemskapet
-gäller) i Distriktets lokal.
+Vi lagrar dina uppgifter i ett Google-formulär på Distriktets Google Drive.
+Distriktet har i sin tur GDPR-avtal med Google angående persondata
+och liknande.
 
 Dina uppgifter finns endast kvar tills dess att vi har rapporterat ditt
 medlemskap till Distriktet (vanligen senast på hösten året efter det
-året medlemskapet gäller för), varefter papprena med uppgifterna förstörs.
+året medlemskapet gäller för), varefter dokumentet för året raderas.
 
 Allt data som ligger på vår site förvaras öppet på GitHub.
 
@@ -62,15 +62,13 @@ som går igenom uppgifterna och sedan ger ett revisorsutlåtande som i sin tur
 används i bidragsansökan till Landstinget.
 
 ### Få ett utdrag av eller rätta/radera dina uppgifter
-För att få ett utdrag av dina uppgifter kan du kontakta oss i styrelsen. För
-att rätta eller radera dina uppgifter så behöver du skriva ett nytt papper
-med uppgifter så vi kan ersätta det gamla pappret.
+För att få ett utdrag på, eller korrigera, dina uppgifter så kan du kontakta
+oss i styrelsen så löser vi det.
 
 ### Om denna Policy
-Den här policyn godkänner du när du signerar formuläret för medlemskap men
-kan komma att uppdateras i framtiden. Den kommer då uppdateras inför ett
-nytt år, så den uppdaterade policyn endast gäller de som registrerar sig
-(eller åter-registrerar sig) som medlemmar under det nya året.
+Den här policyn godkänner du när du fyller i vårt medlemsformulär för att
+ansöka om medlemskap. Den uppdateras löpande och medlemmar meddelas om
+förändringar via e-post.
 
 ### Kontakta oss
 Har du frågor om vår integritetspolicy är du välkommen att kontakta oss.
