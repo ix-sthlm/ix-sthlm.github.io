@@ -6,10 +6,31 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 18 Mar 2019 22:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 19:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bli medlem</title>
+      <link>https://ix.ufs.se/membership/</link>
+      <pubDate>Sun, 31 Mar 2019 19:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/membership/</guid>
+      <description>För att bli medlem så vill vi be dig att fylla i följande formulär: https://docs.google.com/forms&amp;hellip;.
+Detta formulär ägs av UFS organisationskonto på Google Drive och inte en enskild privatpersons Google-konto.</description>
+    </item>
+    
+    <item>
+      <title>IX Integritetspolicy</title>
+      <link>https://ix.ufs.se/about_privacy/</link>
+      <pubDate>Sun, 31 Mar 2019 19:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/about_privacy/</guid>
+      <description>Ditt förtroende är viktigt för oss i IX (gemensamt benämnt &amp;ldquo;Föreningen&amp;rdquo;). Det är därför viktigt att du som medlem känner dig trygg i hur vi hanterar de uppgifter vi har om dig.
+Nedan så kommer vi att benämna Unga Forskare Stockholm som &amp;ldquo;Distriktet&amp;rdquo;. Ni kan hitta distriktets site på https://ufs.se/.
+Vi vill därför försäkra dig om att vi behandlar dessa uppgifter på ett korrekt sätt &amp;ndash; både juridiskt och etiskt.</description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty april 2019</title>
@@ -86,16 +107,6 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
       <description>Hej och välkomna på vårt femte nyckelsigneringsparty i Stockholm.
 Den 18:e juni klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
-    </item>
-    
-    <item>
-      <title>Bli medlem</title>
-      <link>https://ix.ufs.se/membership/</link>
-      <pubDate>Tue, 08 May 2018 23:00:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/membership/</guid>
-      <description>För att bli medlem så vill vi be dig att fylla i denna blankett och ge den till någon i styrelsen. Om ingen från styrelsen är närvarande i lokalen så kan du lägga den i IX&amp;rsquo;s postfack på kontoret.
-Du kan även skicka in detta papper via post till vår postadress som du kan finna på Om oss-sidan.</description>
     </item>
     
     <item>
@@ -334,17 +345,6 @@ Om du vill komma och flyga med oss så ta med en USB-Port med el och två stycke
       
       <guid>https://ix.ufs.se/blog/2016/06/01/ny-dom%C3%A4n/</guid>
       <description>Vi har satt upp https://ix.ufs.se/ för att peka hit numera. Det finns även redirect från https://ix-sthlm.github.io/ som redirectar hit.</description>
-    </item>
-    
-    <item>
-      <title>IX Integritetspolicy</title>
-      <link>https://ix.ufs.se/about_privacy/</link>
-      <pubDate>Tue, 24 May 2016 21:00:00 +0200</pubDate>
-      
-      <guid>https://ix.ufs.se/about_privacy/</guid>
-      <description>Ditt förtroende är viktigt för oss i IX (gemensamt benämnt &amp;ldquo;Föreningen&amp;rdquo;). Det är därför viktigt att du som medlem känner dig trygg i hur vi hanterar de uppgifter vi har om dig.
-Nedan så kommer vi att benämna Unga Forskare Stockholm som &amp;ldquo;Distriktet&amp;rdquo;. Ni kan hitta distriktets site på https://ufs.se/.
-Vi vill därför försäkra dig om att vi behandlar dessa uppgifter på ett korrekt sätt &amp;ndash; både juridiskt och etiskt.</description>
     </item>
     
     <item>
