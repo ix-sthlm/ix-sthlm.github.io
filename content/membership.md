@@ -1,11 +1,10 @@
 +++
-date = "2018-05-08T23:00:00+01:00"
+date = "2019-03-31T19:30:00+02:00"
 title = "Bli medlem"
 +++
 
-För att bli medlem så vill vi be dig att fylla i [denna](/membership.pdf)
-blankett och ge den till någon i styrelsen. Om ingen från styrelsen är
-närvarande i lokalen så kan du lägga den i IX's postfack på kontoret.
+För att bli medlem så vill vi be dig att fylla i följande formulär:
+[https://docs.google.com/forms...](https://docs.google.com/forms/d/e/1FAIpQLSdyz--d1xRFH5t9o-JwNerxnBQX7Oo3zNubyL1evJfK5J_9OQ/viewform).
 
-Du kan även skicka in detta papper via post till vår postadress som du
-kan finna på [Om oss](/about/#postadress)-sidan.
+Detta formulär ägs av UFS organisationskonto på Google Drive och inte en enskild
+privatpersons Google-konto.
