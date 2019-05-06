@@ -6,10 +6,82 @@
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 08 Sep 2016 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 22:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ix.ufs.se/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GPG</title>
+      <link>https://ix.ufs.se/categories/gpg/</link>
+      <pubDate>Mon, 18 Mar 2019 22:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/gpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyckelsignering</title>
+      <link>https://ix.ufs.se/categories/nyckelsignering/</link>
+      <pubDate>Mon, 18 Mar 2019 22:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/nyckelsignering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glöggmingel</title>
+      <link>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</link>
+      <pubDate>Mon, 26 Nov 2018 22:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Möte</title>
+      <link>https://ix.ufs.se/categories/m%C3%B6te/</link>
+      <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/m%C3%B6te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Årsmöte</title>
+      <link>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</link>
+      <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styrelsen</title>
+      <link>https://ix.ufs.se/categories/styrelsen/</link>
+      <pubDate>Mon, 08 Jan 2018 20:30:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/styrelsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IX3C</title>
+      <link>https://ix.ufs.se/categories/ix3c/</link>
+      <pubDate>Tue, 28 Nov 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/ix3c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://ix.ufs.se/categories/emacs/</link>
+      <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
+      
+      <guid>https://ix.ufs.se/categories/emacs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arduino</title>
@@ -30,83 +102,11 @@
     </item>
     
     <item>
-      <title>Emacs</title>
-      <link>https://ix.ufs.se/categories/emacs/</link>
-      <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/emacs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glöggmingel</title>
-      <link>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</link>
-      <pubDate>Mon, 26 Nov 2018 22:00:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gpg</title>
-      <link>https://ix.ufs.se/categories/gpg/</link>
-      <pubDate>Mon, 18 Mar 2019 22:00:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/gpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ix3c</title>
-      <link>https://ix.ufs.se/categories/ix3c/</link>
-      <pubDate>Tue, 28 Nov 2017 21:30:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/ix3c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mekaniska Tangentbord</title>
-      <link>https://ix.ufs.se/categories/mekaniska-tangentbord/</link>
-      <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/mekaniska-tangentbord/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Möte</title>
-      <link>https://ix.ufs.se/categories/m%C3%B6te/</link>
-      <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/m%C3%B6te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nyckelsignering</title>
-      <link>https://ix.ufs.se/categories/nyckelsignering/</link>
-      <pubDate>Mon, 18 Mar 2019 22:00:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/nyckelsignering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Quadcopters</title>
       <link>https://ix.ufs.se/categories/quadcopters/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
       <guid>https://ix.ufs.se/categories/quadcopters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Styrelsen</title>
-      <link>https://ix.ufs.se/categories/styrelsen/</link>
-      <pubDate>Mon, 08 Jan 2018 20:30:00 +0100</pubDate>
-      
-      <guid>https://ix.ufs.se/categories/styrelsen/</guid>
       <description></description>
     </item>
     
@@ -120,11 +120,11 @@
     </item>
     
     <item>
-      <title>Årsmöte</title>
-      <link>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</link>
-      <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
+      <title>Mekaniska Tangentbord</title>
+      <link>https://ix.ufs.se/categories/mekaniska-tangentbord/</link>
+      <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</guid>
+      <guid>https://ix.ufs.se/categories/mekaniska-tangentbord/</guid>
       <description></description>
     </item>
     

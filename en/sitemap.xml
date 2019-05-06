@@ -18,6 +18,22 @@
   </url>
   
   <url>
+    <loc>https://ix.ufs.se/en/</loc>
+    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ix.ufs.se/en/authors/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -44,22 +60,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ix.ufs.se/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ix.ufs.se/en/</loc>
-    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://ix.ufs.se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ix.ufs.se/en/"
                 />
   </url>
   
