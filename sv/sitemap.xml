@@ -3,39 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ix.ufs.se/m/</loc>
-    <lastmod>2019-05-06T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ix.ufs.se/</loc>
-    <lastmod>2019-05-06T21:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ix.ufs.se/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://ix.ufs.se/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ix.ufs.se/membership/</loc>
-    <lastmod>2019-03-31T19:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ix.ufs.se/about_privacy/</loc>
-    <lastmod>2019-03-31T19:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ix.ufs.se/authors/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +20,7 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -67,31 +36,67 @@
   
   <url>
     <loc>https://ix.ufs.se/categories/gpg/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/</loc>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ix.ufs.se/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://ix.ufs.se/"
+                />
   </url>
   
   <url>
     <loc>https://ix.ufs.se/categories/nyckelsignering/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ix.ufs.se/blog/2019/03/18/nyckelsigneringsparty-april-2019/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <loc>https://ix.ufs.se/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</loc>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/post/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ix.ufs.se/authors/etu/</loc>
-    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/m/</loc>
+    <lastmod>2019-05-06T21:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/membership/</loc>
+    <lastmod>2019-03-31T19:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/about_privacy/</loc>
+    <lastmod>2019-03-31T19:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ix.ufs.se/blog/2019/03/18/nyckelsigneringsparty-april-2019/</loc>
+    <lastmod>2019-03-18T22:00:00+01:00</lastmod>
   </url>
   
   <url>
