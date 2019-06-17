@@ -1,0 +1,22 @@
+* This folder contains the project for our logo
+Description of files in this directory follows below.
+
+** ./ix-drone-logo-project.svg
+This is the main project file, it contains my original imported objects that
+I have traced from bitmaps. These layers aren't visible but available to be
+able to roll back easily.
+
+*** Text in the logo
+The font used in the original layers is [[https://talyz.github.io/talyz-new-roman/][Talyz New Roman]].
+
+The text is then converted from text to objects by using "Object to path".
+
+This way we don't rely on users having [[https://talyz.github.io/talyz-new-roman/][Talyz New Roman]] installed as font.
+
+** ./ix-drone-logo.svg
+This file doesn't contain the original imported objects to be a bit smaller
+for the user to load.
+
+** ./ix-drone-logo-spin.svg
+This is a copy of =./ix-drone-logo.svg= but with some added CSS to spin the
+rotors of the drone.
