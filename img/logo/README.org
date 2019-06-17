@@ -20,3 +20,6 @@ for the user to load.
 ** ./ix-drone-logo-spin.svg
 This is a copy of =./ix-drone-logo.svg= but with some added CSS to spin the
 rotors of the drone.
+
+** ./*-white.svg
+Files where we've replaced =#ffffff= with =#000000=.
