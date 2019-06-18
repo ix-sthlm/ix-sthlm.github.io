@@ -1,4 +1,4 @@
-baseurl = "https://ix.ufs.se/"
+baseurl = "/"
 title = "IX Stockholm"
 theme = "hyde-x"
 paginate = 10
