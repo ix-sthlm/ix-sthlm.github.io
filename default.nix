@@ -28,7 +28,7 @@ in stdenv.mkDerivation rec {
     make clean
 
     # Install theme
-    mkdir themes
+    mkdir -p themes
     cp -r ${my-theme} themes/hyde-x
 
     make latex
