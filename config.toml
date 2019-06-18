@@ -5,56 +5,56 @@ paginate = 10
 DefaultContentLanguage = "sv"
 
 [author]
-    name = "IX Sthlm"
+  name = "IX Sthlm"
 
 [taxonomies]
-    category = "categories"
-    author = "authors"
+  category = "categories"
+  author = "authors"
 
 [params]
-    github = "https://github.com/ix-sthlm/"
-    meetup = "https://meetup.com/IX-Stockholm"
-    rss = true
-    sidebar_license_page = false
+  github = "https://github.com/ix-sthlm/"
+  meetup = "https://meetup.com/IX-Stockholm"
+  rss = true
+  sidebar_license_page = false
 
 [languages]
-    [languages.sv]
-        languageCode = "sv-se"
+  [languages.sv]
+    languageCode = "sv-se"
 
-        [languages.sv.permalinks]
-            post = "/blog/:year/:month/:day/:title/"
+    [languages.sv.permalinks]
+      post = "/blog/:year/:month/:day/:title/"
 
-        [languages.sv.params]
-            home = "Blogg"
-            tagline = "Mest på UFS"
+    [languages.sv.params]
+      home = "Blogg"
+      tagline = "Mest på UFS"
 
-        [[languages.sv.menu.main]]
-            name = "Projekt"
-            url = "/projects/"
+    [[languages.sv.menu.main]]
+      name = "Projekt"
+      url = "/projects/"
 
-        [[languages.sv.menu.main]]
-            name = "Om oss"
-            url = "/about/"
+    [[languages.sv.menu.main]]
+      name = "Om oss"
+      url = "/about/"
 
-        [[languages.sv.menu.main]]
-            name = "Integritetspolicy"
-            url = "/about_privacy/"
+    [[languages.sv.menu.main]]
+      name = "Integritetspolicy"
+      url = "/about_privacy/"
 
-        [[languages.sv.menu.main]]
-            name = "Kalender"
-            url = "/calendar/"
+    [[languages.sv.menu.main]]
+      name = "Kalender"
+      url = "/calendar/"
 
-        [[languages.sv.menu.main]]
-            name = "Bli medlem"
-            url = "/membership/"
+    [[languages.sv.menu.main]]
+      name = "Bli medlem"
+      url = "/membership/"
 
-    [languages.en]
-        languageCode = "en-us"
+  [languages.en]
+    languageCode = "en-us"
 
-        [languages.en.params]
-            home = "Swedish site"
-            tagline = "Mostly at UFS"
+    [languages.en.params]
+      home = "Swedish site"
+      tagline = "Mostly at UFS"
 
-        [[languages.en.menu.main]]
-            name = "About us"
-            url = "/en/about/"
+    [[languages.en.menu.main]]
+      name = "About us"
+      url = "/en/about/"
