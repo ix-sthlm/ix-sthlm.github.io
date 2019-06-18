@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sun, 26 May 2019 21:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GPG</title>
-      <link>https://ix.ufs.se/categories/gpg/</link>
+      <link>/categories/gpg/</link>
       <pubDate>Sun, 26 May 2019 21:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/gpg/</guid>
+      <guid>/categories/gpg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nyckelsignering</title>
-      <link>https://ix.ufs.se/categories/nyckelsignering/</link>
+      <link>/categories/nyckelsignering/</link>
       <pubDate>Sun, 26 May 2019 21:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/nyckelsignering/</guid>
+      <guid>/categories/nyckelsignering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glöggmingel</title>
-      <link>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</link>
+      <link>/categories/gl%C3%B6ggmingel/</link>
       <pubDate>Mon, 26 Nov 2018 22:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/gl%C3%B6ggmingel/</guid>
+      <guid>/categories/gl%C3%B6ggmingel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Möte</title>
-      <link>https://ix.ufs.se/categories/m%C3%B6te/</link>
+      <link>/categories/m%C3%B6te/</link>
       <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/m%C3%B6te/</guid>
+      <guid>/categories/m%C3%B6te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Årsmöte</title>
-      <link>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</link>
+      <link>/categories/%C3%A5rsm%C3%B6te/</link>
       <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/%C3%A5rsm%C3%B6te/</guid>
+      <guid>/categories/%C3%A5rsm%C3%B6te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Styrelsen</title>
-      <link>https://ix.ufs.se/categories/styrelsen/</link>
+      <link>/categories/styrelsen/</link>
       <pubDate>Mon, 08 Jan 2018 20:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/styrelsen/</guid>
+      <guid>/categories/styrelsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IX3C</title>
-      <link>https://ix.ufs.se/categories/ix3c/</link>
+      <link>/categories/ix3c/</link>
       <pubDate>Tue, 28 Nov 2017 21:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/ix3c/</guid>
+      <guid>/categories/ix3c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emacs</title>
-      <link>https://ix.ufs.se/categories/emacs/</link>
+      <link>/categories/emacs/</link>
       <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/categories/emacs/</guid>
+      <guid>/categories/emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arduino</title>
-      <link>https://ix.ufs.se/categories/arduino/</link>
+      <link>/categories/arduino/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/arduino/</guid>
+      <guid>/categories/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blender</title>
-      <link>https://ix.ufs.se/categories/blender/</link>
+      <link>/categories/blender/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/blender/</guid>
+      <guid>/categories/blender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quadcopters</title>
-      <link>https://ix.ufs.se/categories/quadcopters/</link>
+      <link>/categories/quadcopters/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/quadcopters/</guid>
+      <guid>/categories/quadcopters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Reality</title>
-      <link>https://ix.ufs.se/categories/virtual-reality/</link>
+      <link>/categories/virtual-reality/</link>
       <pubDate>Thu, 17 Mar 2016 22:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/virtual-reality/</guid>
+      <guid>/categories/virtual-reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mekaniska Tangentbord</title>
-      <link>https://ix.ufs.se/categories/mekaniska-tangentbord/</link>
+      <link>/categories/mekaniska-tangentbord/</link>
       <pubDate>Tue, 23 Feb 2016 22:39:09 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/categories/mekaniska-tangentbord/</guid>
+      <guid>/categories/mekaniska-tangentbord/</guid>
       <description></description>
     </item>
     

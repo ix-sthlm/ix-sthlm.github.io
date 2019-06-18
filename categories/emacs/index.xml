@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/emacs/</link>
+    <link>/categories/emacs/</link>
     <description>Recent content in Emacs on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Thu, 15 Sep 2016 18:30:00 +0200</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emacs Workshops</title>
-      <link>https://ix.ufs.se/blog/2016/09/15/emacs-workshops/</link>
+      <link>/blog/2016/09/15/emacs-workshops/</link>
       <pubDate>Thu, 15 Sep 2016 18:30:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/09/15/emacs-workshops/</guid>
+      <guid>/blog/2016/09/15/emacs-workshops/</guid>
       <description>Vad handlar första workshoppen om? Planen med denna workshop är till en början att lära ut grunderna i Emacs kring funktioner så som att navigera i text, hantera buffrar, öppna/spara/skapa filer, avsluta.
 Vi kan nog komma in på lite enkel konfiguration så som att välja tema, font, och diverse liknande saker som de flesta kan vara intresserade av tidigt.
 I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när det gäller Emacs Lisp.</description>
@@ -24,10 +24,10 @@ I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när de
     
     <item>
       <title>Planeringsmöte för kommande projekt</title>
-      <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
+      <link>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
+      <guid>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
       <description>Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi har bland annat planerat att vi bland annat ska ha Workshops i Blender och Emacs.
 Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera IX3C och få ut information om att vi ska göra saker.</description>
     </item>

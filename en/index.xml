@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IX Stockholm</title>
-    <link>https://ix.ufs.se/en/</link>
+    <link>/en/</link>
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Feb 2016 22:55:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About us</title>
-      <link>https://ix.ufs.se/en/about/</link>
+      <link>/en/about/</link>
       <pubDate>Tue, 23 Feb 2016 22:55:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/en/about/</guid>
+      <guid>/en/about/</guid>
       <description>IX is a small Computer/Electronics non profit organization that houses in Stockholm.
 Email You can send emails to the board at ix@ufs.se.
 Phone There&amp;rsquo;s a phone in UFS that you can call to. If you want to reach IX it&amp;rsquo;s best to call during Monday evenings.

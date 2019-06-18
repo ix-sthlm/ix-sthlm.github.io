@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ix.ufs.se/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2016-02-23T22:55:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://ix.ufs.se/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ix.ufs.se/en/about/"
+                href="/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://ix.ufs.se/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2016-02-23T22:55:00+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://ix.ufs.se/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ix.ufs.se/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>https://ix.ufs.se/en/authors/</loc>
+    <loc>/en/authors/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://ix.ufs.se/authors/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ix.ufs.se/en/authors/"
+                href="/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://ix.ufs.se/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://ix.ufs.se/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ix.ufs.se/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   

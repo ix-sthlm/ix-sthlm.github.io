@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nyckelsignering on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/nyckelsignering/</link>
+    <link>/categories/nyckelsignering/</link>
     <description>Recent content in Nyckelsignering on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sun, 26 May 2019 21:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/nyckelsignering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/nyckelsignering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nyckelsigneringsparty juni 2019</title>
-      <link>https://ix.ufs.se/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</link>
+      <link>/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</link>
       <pubDate>Sun, 26 May 2019 21:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</guid>
+      <guid>/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</guid>
       <description>Hej och välkomna på vårt elfte nyckelsigneringsparty i Stockholm.
 Den 10:e juni klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -24,10 +24,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty april 2019</title>
-      <link>https://ix.ufs.se/blog/2019/03/18/nyckelsigneringsparty-april-2019/</link>
+      <link>/blog/2019/03/18/nyckelsigneringsparty-april-2019/</link>
       <pubDate>Mon, 18 Mar 2019 22:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2019/03/18/nyckelsigneringsparty-april-2019/</guid>
+      <guid>/blog/2019/03/18/nyckelsigneringsparty-april-2019/</guid>
       <description>Hej och välkomna på vårt tionde nyckelsigneringsparty i Stockholm.
 Den 8:e april klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -35,10 +35,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty februari 2019</title>
-      <link>https://ix.ufs.se/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</link>
+      <link>/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</link>
       <pubDate>Tue, 05 Feb 2019 08:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</guid>
+      <guid>/blog/2019/02/05/nyckelsigneringsparty-februari-2019/</guid>
       <description>Hej och välkomna på vårt nionde nyckelsigneringsparty i Stockholm.
 Den 18:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -46,10 +46,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Glöggmingel med GPG nyckelsignering</title>
-      <link>https://ix.ufs.se/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/</link>
+      <link>/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/</link>
       <pubDate>Mon, 26 Nov 2018 22:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/</guid>
+      <guid>/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/</guid>
       <description>Måndagen den 10:e december från klockan 18 så bjuder IX in till glöggmingel och fika i lokalen. Kom och mys med oss!
 Detta må vara samma dag som vi har nyckelsignering, men den brukar inte ta så lång tid och vi börjar med glöggen en timma innan, sedan så kan vi som vill signera lite nycklar för att sedan fortsätta med glöggen.
 Anmäl er gärna till ix@ufs.se eller på meetup-eventet om du tänker komma så att vi kan planera fika.</description>
@@ -57,10 +57,10 @@ Anmäl er gärna till ix@ufs.se eller på meetup-eventet om du tänker komma så
     
     <item>
       <title>Nyckelsigneringsparty december 2018</title>
-      <link>https://ix.ufs.se/blog/2018/11/25/nyckelsigneringsparty-december-2018/</link>
+      <link>/blog/2018/11/25/nyckelsigneringsparty-december-2018/</link>
       <pubDate>Sun, 25 Nov 2018 17:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/11/25/nyckelsigneringsparty-december-2018/</guid>
+      <guid>/blog/2018/11/25/nyckelsigneringsparty-december-2018/</guid>
       <description>Hej och välkomna på vårt åttonde nyckelsigneringsparty i Stockholm.
 Den 10:e december klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -68,10 +68,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty oktober 2018</title>
-      <link>https://ix.ufs.se/blog/2018/09/23/nyckelsigneringsparty-oktober-2018/</link>
+      <link>/blog/2018/09/23/nyckelsigneringsparty-oktober-2018/</link>
       <pubDate>Sun, 23 Sep 2018 19:00:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/09/23/nyckelsigneringsparty-oktober-2018/</guid>
+      <guid>/blog/2018/09/23/nyckelsigneringsparty-oktober-2018/</guid>
       <description>Hej och välkomna på vårt sjunde nyckelsigneringsparty i Stockholm.
 Den 8:e oktober klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -79,10 +79,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty augusti 2018</title>
-      <link>https://ix.ufs.se/blog/2018/08/01/nyckelsigneringsparty-augusti-2018/</link>
+      <link>/blog/2018/08/01/nyckelsigneringsparty-augusti-2018/</link>
       <pubDate>Wed, 01 Aug 2018 07:50:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/08/01/nyckelsigneringsparty-augusti-2018/</guid>
+      <guid>/blog/2018/08/01/nyckelsigneringsparty-augusti-2018/</guid>
       <description>Hej och välkomna på vårt sjätte nyckelsigneringsparty i Stockholm.
 Den 20:e augusti klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -90,10 +90,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty juni 2018</title>
-      <link>https://ix.ufs.se/blog/2018/05/28/nyckelsigneringsparty-juni-2018/</link>
+      <link>/blog/2018/05/28/nyckelsigneringsparty-juni-2018/</link>
       <pubDate>Mon, 28 May 2018 19:15:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/05/28/nyckelsigneringsparty-juni-2018/</guid>
+      <guid>/blog/2018/05/28/nyckelsigneringsparty-juni-2018/</guid>
       <description>Hej och välkomna på vårt femte nyckelsigneringsparty i Stockholm.
 Den 18:e juni klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -101,10 +101,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty april 2018</title>
-      <link>https://ix.ufs.se/blog/2018/03/18/nyckelsigneringsparty-april-2018/</link>
+      <link>/blog/2018/03/18/nyckelsigneringsparty-april-2018/</link>
       <pubDate>Sun, 18 Mar 2018 13:20:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/03/18/nyckelsigneringsparty-april-2018/</guid>
+      <guid>/blog/2018/03/18/nyckelsigneringsparty-april-2018/</guid>
       <description>Hej och välkomna på vårt fjärde nyckelsigneringsparty i Stockholm.
 Den 16:e april klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -112,10 +112,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty februari 2018</title>
-      <link>https://ix.ufs.se/blog/2018/02/03/nyckelsigneringsparty-februari-2018/</link>
+      <link>/blog/2018/02/03/nyckelsigneringsparty-februari-2018/</link>
       <pubDate>Sat, 03 Feb 2018 08:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/02/03/nyckelsigneringsparty-februari-2018/</guid>
+      <guid>/blog/2018/02/03/nyckelsigneringsparty-februari-2018/</guid>
       <description>Hej och välkomna på vårt tredje nyckelsigneringsparty i Stockholm.
 Den 12:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -123,10 +123,10 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Nyckelsigneringsparty december 2017</title>
-      <link>https://ix.ufs.se/blog/2017/11/27/nyckelsigneringsparty-december-2017/</link>
+      <link>/blog/2017/11/27/nyckelsigneringsparty-december-2017/</link>
       <pubDate>Mon, 27 Nov 2017 22:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/11/27/nyckelsigneringsparty-december-2017/</guid>
+      <guid>/blog/2017/11/27/nyckelsigneringsparty-december-2017/</guid>
       <description>Hej och välkomna på vårt andra nyckelsigneringsparty i Stockholm.
 Den 29:e december klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp eller har frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda hjälp med att printa lappar (Mer info om lappar kommer).
 Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
@@ -134,20 +134,20 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
     
     <item>
       <title>Schema för Nyckelsigneringsparty i Stockholm</title>
-      <link>https://ix.ufs.se/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</link>
+      <link>/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</link>
       <pubDate>Mon, 06 Nov 2017 19:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</guid>
+      <guid>/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</guid>
       <description>Uppföljning av tidigare bloggpost.
 Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)  21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare  GnuPG: https://gnupg.</description>
     </item>
     
     <item>
       <title>Nyckelsigneringsparty i Stockholm</title>
-      <link>https://ix.ufs.se/blog/2017/10/11/nyckelsigneringsparty-i-stockholm/</link>
+      <link>/blog/2017/10/11/nyckelsigneringsparty-i-stockholm/</link>
       <pubDate>Wed, 11 Oct 2017 18:25:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/10/11/nyckelsigneringsparty-i-stockholm/</guid>
+      <guid>/blog/2017/10/11/nyckelsigneringsparty-i-stockholm/</guid>
       <description>Hej och välkomna på att nyckelsigneringsparty i Stockholm!
 Den 20:e november från klockan 19:00 så bjuder IX in till keysigningparty i UFS lokaler vid Fridhemsplan i Stockholm. Adressen dit är Polhemsgatan 38.
 Förberedelser för deltagande För att deltaga så är det bra om du har med dig papperskopior av ditt fingerprint gärna med din identitet på samma papper.

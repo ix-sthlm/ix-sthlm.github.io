@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on IX Stockholm</title>
-    <link>https://ix.ufs.se/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     
-	<atom:link href="https://ix.ufs.se/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aku</title>
-      <link>https://ix.ufs.se/authors/aku/</link>
+      <link>/authors/aku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/aku/</guid>
+      <guid>/authors/aku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conny Siponen @dapper</title>
-      <link>https://ix.ufs.se/authors/siponen/</link>
+      <link>/authors/siponen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/siponen/</guid>
+      <guid>/authors/siponen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DOSn3rd</title>
-      <link>https://ix.ufs.se/authors/dosn3rd/</link>
+      <link>/authors/dosn3rd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/dosn3rd/</guid>
+      <guid>/authors/dosn3rd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hård</title>
-      <link>https://ix.ufs.se/authors/hard/</link>
+      <link>/authors/hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/hard/</guid>
+      <guid>/authors/hard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kira</title>
-      <link>https://ix.ufs.se/authors/kira/</link>
+      <link>/authors/kira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/kira/</guid>
+      <guid>/authors/kira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>etu</title>
-      <link>https://ix.ufs.se/authors/etu/</link>
+      <link>/authors/etu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ix.ufs.se/authors/etu/</guid>
+      <guid>/authors/etu/</guid>
       <description>Info lär dyka upp någon gång. Här nedan har du mina bloggposter.</description>
     </item>
     

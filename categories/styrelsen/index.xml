@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Styrelsen on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/styrelsen/</link>
+    <link>/categories/styrelsen/</link>
     <description>Recent content in Styrelsen on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Mon, 08 Jan 2018 20:30:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Styrelsemöte januari</title>
-      <link>https://ix.ufs.se/blog/2018/01/08/styrelsem%C3%B6te-januari/</link>
+      <link>/blog/2018/01/08/styrelsem%C3%B6te-januari/</link>
       <pubDate>Mon, 08 Jan 2018 20:30:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2018/01/08/styrelsem%C3%B6te-januari/</guid>
+      <guid>/blog/2018/01/08/styrelsem%C3%B6te-januari/</guid>
       <description>Blender Aku har kontakt med Kira&amp;rsquo;s bror och planerar att hålla ett event snart.
 Emacs Vi funderar på att försöka arrangera ett event och prata med Emacs Meetup Stockholm.
 Etu ska prata med potentiellt intresserade i Stockholm och fråga om de kanske vill deltaga.
@@ -27,10 +27,10 @@ IX3C2 uppföljning På grund av lågt intresse samt att man missar mycket av eve
     
     <item>
       <title>Styrelsemöte november</title>
-      <link>https://ix.ufs.se/blog/2017/11/27/styrelsem%C3%B6te-november/</link>
+      <link>/blog/2017/11/27/styrelsem%C3%B6te-november/</link>
       <pubDate>Mon, 27 Nov 2017 20:20:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/11/27/styrelsem%C3%B6te-november/</guid>
+      <guid>/blog/2017/11/27/styrelsem%C3%B6te-november/</guid>
       <description>Blender Aku borde dra i saker&amp;hellip; Vi borde komma på vad vi faktiskt ska hålla workshops om.
 Emacs Vi har mailat och de två som är aktiva i Emacs Meetup Stockholm verkar ha flyttat från Sverige till Frankrike nyligen.
 Är detta ett ypperligt tillfälle att försöka ta upp var de lämnade och driva eget?
@@ -40,10 +40,10 @@ IX3C2 Elis ska skriva ihop en inbjudan till IX3C2 som kommer att gå ut som en b
     
     <item>
       <title>Styrelsemöte september</title>
-      <link>https://ix.ufs.se/blog/2017/09/25/styrelsem%C3%B6te-september/</link>
+      <link>/blog/2017/09/25/styrelsem%C3%B6te-september/</link>
       <pubDate>Mon, 25 Sep 2017 20:20:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/09/25/styrelsem%C3%B6te-september/</guid>
+      <guid>/blog/2017/09/25/styrelsem%C3%B6te-september/</guid>
       <description>Blender Aku kan nästan tillräckligt för att hålla i bättre workshops.
 Emacs Etu och Talyz ska maila Emacs Meetup Stockholm och fråga om de vill komma på besök.
 3D-Printer Dos frågar roos och yann nästa gång han träffar någon av dem.
@@ -53,10 +53,10 @@ Nästa möte 30:e oktober klockan 19:00.</description>
     
     <item>
       <title>Styrelsemöte augusti</title>
-      <link>https://ix.ufs.se/blog/2017/08/28/styrelsem%C3%B6te-augusti/</link>
+      <link>/blog/2017/08/28/styrelsem%C3%B6te-augusti/</link>
       <pubDate>Mon, 28 Aug 2017 20:12:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/08/28/styrelsem%C3%B6te-augusti/</guid>
+      <guid>/blog/2017/08/28/styrelsem%C3%B6te-augusti/</guid>
       <description>3D-Skrivare Vi är väldigt nöjda med vår nya printer. Den printar fint och mycket. Den fungerar över förväntan.
 3D-Skrivar introduktion Vi ska höra med Roos och Yann om att hålla i en 3D-Skrivar introduktions-måndag för att folk ska kunna komma hit och printa mer på egen hand när dom känner för det.
 IX3C2 Vi ska planera IX3C2 som uppföljare till förra årets IX3C.
@@ -65,10 +65,10 @@ IX3C2 Vi ska planera IX3C2 som uppföljare till förra årets IX3C.
     
     <item>
       <title>Styrelsemöte maj</title>
-      <link>https://ix.ufs.se/blog/2017/05/29/styrelsem%C3%B6te-maj/</link>
+      <link>/blog/2017/05/29/styrelsem%C3%B6te-maj/</link>
       <pubDate>Mon, 29 May 2017 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/05/29/styrelsem%C3%B6te-maj/</guid>
+      <guid>/blog/2017/05/29/styrelsem%C3%B6te-maj/</guid>
       <description>Logotyp Vi påminner Aku igen.
 Meetup Hård vill hålla kurs En ny elektronikkurs där man måste vara medlem för att få deltaga.
 Vi bestämmer att Hård får köpa in följande: - Varmlufts Lödstation - ca 1200kr - Avlödningsstation - ca 1200kr - Skruvstycke - ca 350kr
@@ -79,10 +79,10 @@ Nästa möte Senast måndagen den 14:e augusti klockan 19:00.</description>
     
     <item>
       <title>Styrelsemöte april</title>
-      <link>https://ix.ufs.se/blog/2017/04/24/styrelsem%C3%B6te-april/</link>
+      <link>/blog/2017/04/24/styrelsem%C3%B6te-april/</link>
       <pubDate>Mon, 24 Apr 2017 19:00:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/04/24/styrelsem%C3%B6te-april/</guid>
+      <guid>/blog/2017/04/24/styrelsem%C3%B6te-april/</guid>
       <description>Logotyp Vi påminner Aku igen.
 Meetup Ändra öppet hus till att vara enbart den första måndagen i månaden för att minska mängden spam som skickas av meetup till medlemmarna i gruppen. Detta hoppas vi att det kan få folk som inte hänger har att ta tag i att komma hit vid annonserade tillfällen.
 Detta gör att resterande måndagar i månaden alltid blir öppna att använda för i första hand workshops och andra mer planerade aktiviteter.</description>
@@ -90,10 +90,10 @@ Detta gör att resterande måndagar i månaden alltid blir öppna att använda f
     
     <item>
       <title>Konstituerande styrelsemöte för 2017</title>
-      <link>https://ix.ufs.se/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</link>
+      <link>/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</link>
       <pubDate>Fri, 17 Mar 2017 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</guid>
+      <guid>/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</guid>
       <description>IX Styrelse hade denna dag sitt första styrelsemöte för 2017.
 Val av Mötesordförande Elis Axelsson valdes till mötesordförande
 Val av mötessekreterare Michael Stahre valdes till mötessekreterare
@@ -105,10 +105,10 @@ Val av firmatecknare Elis Axelsson och Michael Stahre valdes till firmatecknare
     
     <item>
       <title>Styrelsemöte 2</title>
-      <link>https://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</link>
+      <link>/blog/2016/03/14/styrelsem%C3%B6te-2/</link>
       <pubDate>Mon, 14 Mar 2016 19:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
+      <guid>/blog/2016/03/14/styrelsem%C3%B6te-2/</guid>
       <description>IX Styrelse har haft sitt andra styrelsemöte.
 Protokollet finns tillgängligt här: 2016-03-14-boardmeeting.pdf
 Nästa styrelsemöte är planerat till 4:e April.</description>
@@ -116,10 +116,10 @@ Nästa styrelsemöte är planerat till 4:e April.</description>
     
     <item>
       <title>Konstituerande styrelsemöte</title>
-      <link>https://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</link>
+      <link>/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</link>
       <pubDate>Mon, 29 Feb 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
+      <guid>/blog/2016/02/29/konstituerande-styrelsem%C3%B6te/</guid>
       <description>IX Styrelse hade denna dag sitt första styrelsemöte.
 Webbsida Styrelsen har beslutat att webbsidan som satts upp är en bra grund men behöver arbetas mer på för att fylla med mer innehåll.
 Styrelsen har under mötet lagt upp projekt på projektsidan.

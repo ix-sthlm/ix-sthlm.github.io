@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DOSn3rd on IX Stockholm</title>
-    <link>https://ix.ufs.se/authors/dosn3rd/</link>
+    <link>/authors/dosn3rd/</link>
     <description>Recent content in DOSn3rd on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sat, 28 Jan 2017 15:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/authors/dosn3rd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/dosn3rd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inbjudan till Årsmöte</title>
-      <link>https://ix.ufs.se/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</link>
+      <link>/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</link>
       <pubDate>Sat, 28 Jan 2017 15:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</guid>
+      <guid>/blog/2017/01/28/inbjudan-till-%C3%A5rsm%C3%B6te/</guid>
       <description>Nu har tiden kommit för IX Årsmöte! I år är det den 20 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
 Dagordning  Öppnande av mötet Val av mötsordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare Fråga om mötet är stadgeenligt kallat Verksamhetsberättelse Revisionsberättelse Ekonomisk berättelse Fråga om styrelsens ansvarsfrihet Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning Fastställande av medlemsavgift Motioner Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2016 Ekonomisk berättelse för 2016 Budgetförslag för 2017 Verksamhetsplan för 2017 Stadgar  Kalenderevent</description>
     </item>

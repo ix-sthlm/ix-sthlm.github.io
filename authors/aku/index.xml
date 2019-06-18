@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aku on IX Stockholm</title>
-    <link>https://ix.ufs.se/authors/aku/</link>
+    <link>/authors/aku/</link>
     <description>Recent content in aku on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Fri, 17 Mar 2017 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/authors/aku/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/aku/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Konstituerande styrelsemöte för 2017</title>
-      <link>https://ix.ufs.se/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</link>
+      <link>/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</link>
       <pubDate>Fri, 17 Mar 2017 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</guid>
+      <guid>/blog/2017/03/17/konstituerande-styrelsem%C3%B6te-f%C3%B6r-2017/</guid>
       <description>IX Styrelse hade denna dag sitt första styrelsemöte för 2017.
 Val av Mötesordförande Elis Axelsson valdes till mötesordförande
 Val av mötessekreterare Michael Stahre valdes till mötessekreterare

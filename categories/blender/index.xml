@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blender on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/blender/</link>
+    <link>/categories/blender/</link>
     <description>Recent content in Blender on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Thu, 08 Sep 2016 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/blender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/blender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Planeringsmöte för kommande projekt</title>
-      <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
+      <link>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
+      <guid>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
       <description>Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi har bland annat planerat att vi bland annat ska ha Workshops i Blender och Emacs.
 Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera IX3C och få ut information om att vi ska göra saker.</description>
     </item>

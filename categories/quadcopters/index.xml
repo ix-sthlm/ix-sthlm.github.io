@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quadcopters on IX Stockholm</title>
-    <link>https://ix.ufs.se/categories/quadcopters/</link>
+    <link>/categories/quadcopters/</link>
     <description>Recent content in Quadcopters on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Thu, 08 Sep 2016 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ix.ufs.se/categories/quadcopters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/quadcopters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Planeringsmöte för kommande projekt</title>
-      <link>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
+      <link>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</link>
       <pubDate>Thu, 08 Sep 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
+      <guid>/blog/2016/09/08/planeringsm%C3%B6te-f%C3%B6r-kommande-projekt/</guid>
       <description>Styrelsen har haft ett planeringsmöte för att dra igång höstens projekt! Vi har bland annat planerat att vi bland annat ska ha Workshops i Blender och Emacs.
 Vi har även bestämt att fräsha upp webbsidan. Sätta upp en kalender, ha ett arbetsmöte. Flyga mer Quadcopters. Driva Arduino-projektet vidare. Planera IX3C och få ut information om att vi ska göra saker.</description>
     </item>
     
     <item>
       <title>Miniquadsen har anlänt!</title>
-      <link>https://ix.ufs.se/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</link>
+      <link>/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</link>
       <pubDate>Thu, 09 Jun 2016 19:30:00 +0200</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</guid>
+      <guid>/blog/2016/06/09/miniquadsen-har-anl%C3%A4nt/</guid>
       <description>Vi har precis fått in en leverans med 15 stycken Cheerson CX10 miniquadcopters som vi ska låta medlemmar övningsflyga med.
 Så på måndag så kommer det att surra i lokalen!
 Om du vill komma och flyga med oss så ta med en USB-Port med el och två stycken LR03-batterier för att driva kontrollen.</description>
@@ -34,10 +34,10 @@ Om du vill komma och flyga med oss så ta med en USB-Port med el och två stycke
     
     <item>
       <title>Progress på Quadden</title>
-      <link>https://ix.ufs.se/blog/2016/03/07/progress-p%C3%A5-quadden/</link>
+      <link>/blog/2016/03/07/progress-p%C3%A5-quadden/</link>
       <pubDate>Mon, 07 Mar 2016 20:00:00 +0100</pubDate>
       
-      <guid>https://ix.ufs.se/blog/2016/03/07/progress-p%C3%A5-quadden/</guid>
+      <guid>/blog/2016/03/07/progress-p%C3%A5-quadden/</guid>
       <description>Idag har det snickrats mer på vår gemensamma Quadcopter som byggs i lokalen på måndagar.
 Idag så började vi testa och kalibrera motorerna.</description>
     </item>
