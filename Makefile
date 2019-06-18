@@ -38,5 +38,4 @@ dirlists:
 
 # Make target CNAME for github custom domain
 cname:
-	grep 'baseurl' config.toml |                                               \
-		sed -r -e 's#baseurl = "https?://##' -e 's#/"##' > ./public/CNAME
+	echo 'ix.ufs.se' > ./public/CNAME
