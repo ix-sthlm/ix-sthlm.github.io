@@ -35,6 +35,7 @@ in stdenv.mkDerivation rec {
     make latex
     make dirlists
     make hugo
+    make replace-favicon
     make cname
   '';
 
