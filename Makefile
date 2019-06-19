@@ -44,3 +44,6 @@ cname:
 white-logos:
 	cat static/img/logo/ix-drone-logo.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-white.svg
 	cat static/img/logo/ix-drone-logo-spin.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-spin-white.svg
+
+replace-favicon:
+	cp -f static/img/logo/favicon.png public/favicon.png
