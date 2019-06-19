@@ -39,3 +39,8 @@ dirlists:
 # Make target CNAME for github custom domain
 cname:
 	echo 'ix.ufs.se' > ./public/CNAME
+
+# Make a copy of the logos and replace all blacks with whites
+white-logos:
+	cat static/img/logo/ix-drone-logo.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-white.svg
+	cat static/img/logo/ix-drone-logo-spin.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-spin-white.svg
