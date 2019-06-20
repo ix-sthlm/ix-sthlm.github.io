@@ -12,6 +12,7 @@ DefaultContentLanguage = "sv"
   author = "authors"
 
 [params]
+  logoPath = "/img/logo/ix-drone-logo-white.svg"
   github = "https://github.com/ix-sthlm/"
   meetup = "https://meetup.com/IX-Stockholm"
   rss = true
