@@ -34,20 +34,20 @@
   <defs
      id="defs81" />
   <style>
-    .rotor1 {
-      animation: spincw 2s linear infinite;
+    svg:hover .rotor1 {
+      animation: spincw 2s ease infinite;
       transform-origin: 32% 18%;
     }
-    .rotor2 {
-      animation: spinccw 2s linear infinite;
+    svg:hover .rotor2 {
+      animation: spinccw 2s ease infinite;
       transform-origin: 73% 18%;
     }
-    .rotor3 {
-      animation: spincw 2s linear infinite;
+    svg:hover .rotor3 {
+      animation: spincw 2s ease infinite;
       transform-origin: 32% 61%;
     }
-    .rotor4 {
-      animation: spinccw 2s linear infinite;
+    svg:hover .rotor4 {
+      animation: spinccw 2s ease infinite;
       transform-origin: 73% 61%;
     }
     @keyframes spincw {
