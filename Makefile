@@ -44,6 +44,8 @@ cname:
 white-logos:
 	for img in ./static/img/logo/ix-drone-logo ./static/img/logo/ix-drone-logo-spin; do \
 		sed 's/#000000/#ffffff/' $$img.svg | grep -v -e width= -e height= > $$img-white.svg; \
+		svgo $$img.svg; \
+		svgo $$img-white.svg; \
 	done
 
 replace-favicon:

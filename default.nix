@@ -17,6 +17,7 @@ in stdenv.mkDerivation rec {
     curl
     gnumake
     hugo
+    nodePackages.svgo
     my-texlive
   ];
 
