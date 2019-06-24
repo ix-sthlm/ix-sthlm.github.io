@@ -4,9 +4,6 @@ theme = "hyde-x"
 paginate = 10
 DefaultContentLanguage = "sv"
 
-[author]
-  name = "IX Sthlm"
-
 [taxonomies]
   category = "categories"
   author = "authors"
@@ -27,7 +24,6 @@ DefaultContentLanguage = "sv"
 
     [languages.sv.params]
       home = "Blogg"
-      tagline = "Mest på UFS"
 
     [[languages.sv.menu.main]]
       name = "Projekt"
@@ -54,7 +50,6 @@ DefaultContentLanguage = "sv"
 
     [languages.en.params]
       home = "Swedish site"
-      tagline = "Mostly at UFS"
 
     [[languages.en.menu.main]]
       name = "About us"
