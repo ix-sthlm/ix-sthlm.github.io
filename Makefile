@@ -42,8 +42,9 @@ cname:
 
 # Make a copy of the logos and replace all blacks with whites
 white-logos:
-	cat static/img/logo/ix-drone-logo.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-white.svg
-	cat static/img/logo/ix-drone-logo-spin.svg | sed 's/#000000/#ffffff/g' > static/img/logo/ix-drone-logo-spin-white.svg
+	for img in ./static/img/logo/ix-drone-logo ./static/img/logo/ix-drone-logo-spin; do \
+		sed 's/#000000/#ffffff/' $$img.svg | grep -v -e width= -e height= > $$img-white.svg; \
+	done
 
 replace-favicon:
 	cp -f static/img/logo/favicon.png public/favicon.png
