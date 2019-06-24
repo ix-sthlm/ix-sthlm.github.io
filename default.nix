@@ -30,7 +30,7 @@ in stdenv.mkDerivation rec {
     mkdir -p themes
     cp -r ${my-theme} themes/hyde-x
 
-    make white-logos
+    make color-logos
     make latex
     make dirlists
     make hugo

@@ -40,12 +40,12 @@ dirlists:
 cname:
 	echo 'ix.ufs.se' > ./public/CNAME
 
-# Make a copy of the logos and replace all blacks with whites
-white-logos:
+# Make a copy of the logos and replace all blacks with other colors
+color-logos:
 	for img in ./static/img/logo/ix-drone-logo ./static/img/logo/ix-drone-logo-spin; do \
-		sed 's/#000000/#ffffff/' $$img.svg | grep -v -e width= -e height= > $$img-white.svg; \
+		sed 's/#000000/#ff00ff/' $$img.svg | grep -v -e width= -e height= > $$img-magenta.svg; \
 		svgo $$img.svg; \
-		svgo $$img-white.svg; \
+		svgo $$img-magenta.svg; \
 	done
 
 replace-favicon:
