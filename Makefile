@@ -43,7 +43,7 @@ cname:
 # Make a copy of the logos and replace all blacks with other colors
 color-logos:
 	for img in ./static/img/logo/ix-drone-logo ./static/img/logo/ix-drone-logo-spin; do \
-		sed 's/#000000/#ff00ff/' $$img.svg | grep -v -e width= -e height= > $$img-magenta.svg; \
+		sed 's/#000000/#ff00ff/' $$img.svg > $$img-magenta.svg; \
 		svgo $$img.svg; \
 		svgo $$img-magenta.svg; \
 	done
