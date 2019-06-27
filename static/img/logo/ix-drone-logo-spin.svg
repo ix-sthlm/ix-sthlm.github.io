@@ -33,19 +33,19 @@
      id="defs81" />
   <style>
     svg:hover .rotor1 {
-      animation: spincw 2s ease infinite;
+      animation: spincw 2s ease 1;
       transform-origin: 32% 18%;
     }
     svg:hover .rotor2 {
-      animation: spinccw 2s ease infinite;
+      animation: spinccw 2s ease 1;
       transform-origin: 73% 18%;
     }
     svg:hover .rotor3 {
-      animation: spincw 2s ease infinite;
+      animation: spincw 2s ease 1;
       transform-origin: 32% 61%;
     }
     svg:hover .rotor4 {
-      animation: spinccw 2s ease infinite;
+      animation: spinccw 2s ease 1;
       transform-origin: 73% 61%;
     }
     @keyframes spincw {
