@@ -34,19 +34,19 @@
   <style>
     svg:hover .rotor1 {
       animation: spincw 2s ease 1;
-      transform-origin: 32% 18%;
+      transform-origin: 36.5% 18%;
     }
     svg:hover .rotor2 {
       animation: spinccw 2s ease 1;
-      transform-origin: 73% 18%;
+      transform-origin: 82.5% 18%;
     }
     svg:hover .rotor3 {
       animation: spincw 2s ease 1;
-      transform-origin: 32% 61%;
+      transform-origin: 36.5% 61%;
     }
     svg:hover .rotor4 {
       animation: spinccw 2s ease 1;
-      transform-origin: 73% 61%;
+      transform-origin: 82.5% 61%;
     }
     @keyframes spincw {
       100% {
