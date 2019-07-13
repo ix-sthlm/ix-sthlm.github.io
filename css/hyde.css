@@ -73,6 +73,7 @@ html {
 .sidebar a#logo {
   display: block;
   height: calc(100% - 300px);
+  max-height: 280px;
 }
 
 .sidebar a#logo svg {
