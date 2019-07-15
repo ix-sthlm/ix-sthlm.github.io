@@ -32,6 +32,23 @@ latex:
 	# Remove non-pdf files from output
 	find static/documents/ -type f ! -name '*pdf' -delete
 
+# Make target for creating pdf's from org files
+org2pdf:
+	# Make sure output directory is there
+	mkdir -p static/documents
+
+	# Copy all org-files
+	cp -vr documents/* static/documents/
+
+	# Compile all TeX files
+	for i in `find static/documents/ -type f -name '*.org'`; do                \
+		emacs $$i --batch -f org-latex-export-to-pdf --kill;                   \
+	done
+
+	# Remove non-pdf files from output
+	find static/documents/ -type f ! -name '*pdf' -delete
+
+
 dirlists:
 	./.travis/make_document_dirlist.sh static/documents/
 	./.travis/make_document_dirlist.sh static/img/

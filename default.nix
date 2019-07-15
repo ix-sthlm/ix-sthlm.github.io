@@ -32,6 +32,7 @@ in stdenv.mkDerivation rec {
   buildInputs = with pkgs; [
     gnumake
     hugo
+    emacs26-nox
     nodePackages.svgo
     my-texlive
   ];
@@ -49,6 +50,7 @@ in stdenv.mkDerivation rec {
 
     make color-logos
     make latex
+    make org2pdf
     make dirlists
     make hugo
     make replace-favicon
