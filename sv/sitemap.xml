@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,14 +35,8 @@
   </url>
   
   <url>
-    <loc>/categories/gpg/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -57,6 +51,41 @@
   </url>
   
   <url>
+    <loc>/blog/2019/07/15/inbjudan-till-%C3%A5rsm%C3%B6te-2019/</loc>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/m%C3%B6te/</loc>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/etu/</loc>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%C3%A5rsm%C3%B6te/</loc>
+    <lastmod>2019-07-15T18:50:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/gpg/</loc>
+    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/nyckelsignering/</loc>
     <lastmod>2019-05-26T21:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -65,18 +94,6 @@
   <url>
     <loc>/blog/2019/05/26/nyckelsigneringsparty-juni-2019/</loc>
     <lastmod>2019-05-26T21:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/etu/</loc>
-    <lastmod>2019-05-26T21:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -148,18 +165,6 @@
   <url>
     <loc>/blog/2018/01/29/inbjudan-till-%C3%A5rsm%C3%B6te-2018/</loc>
     <lastmod>2018-01-29T20:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/m%C3%B6te/</loc>
-    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/%C3%A5rsm%C3%B6te/</loc>
-    <lastmod>2018-01-29T20:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
