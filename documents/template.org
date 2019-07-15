@@ -1,0 +1,32 @@
+#+TITLE: Mötesprotokoll för IX
+#+DATE: 2012-06-30
+#+OPTIONS: toc:nil author:nil
+
+* Mötets öppnande
+Mötet öppnade klockan 19:00.
+
+* Val av mötesfunktionärer
+* Fråga om mötet är stadgeenligt kallat
+* En punkt
+** En underpunkt
+** En annan underpunkt
+
+* Den här punkten kommer ha en punktlista under sig
+ - En grej
+ - Annan grej
+ - Massor med grejer!
+ - Grönsakslåda!
+ - Gurkmeja!
+
+* Mötets avslutande
+Mötet avslutas.
+
+* Signaturer
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
