@@ -5,7 +5,24 @@ let
     url = "https://github.com/ix-sthlm/hyde-x/archive/master.tar.gz";
   };
   my-texlive = with pkgs; texlive.combine {
-    inherit (texlive) scheme-medium;
+    inherit (texlive) scheme-basic
+      # Needed on top of scheme-basic
+      babel-english
+      babel-swedish
+      booktabs
+      ec
+      eurosym
+      hyphen-english
+      hyphen-swedish
+      ulem
+
+      # Needed on top of scheme-small
+      cm-super
+
+      # Needed on top of scheme-medium
+      capt-of
+      wrapfig
+    ;
   };
 
 in stdenv.mkDerivation rec {
