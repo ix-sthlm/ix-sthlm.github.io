@@ -1,26 +1,21 @@
-\documentclass[a4paper,11pt,oneside]{article}
-\usepackage[swedish]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+#+TITLE: Stadgar för IX
+#+OPTIONS: toc:nil author:nil date:nil
 
-\begin{document}
-\section*{Stadgar för Ix}
+* Förening
+IX är en ideell ungdomsförening.
 
-\section{Förening}
-Ix är en ideell ungdomsförening.
-
-\section{Syfte}
+* Syfte
 Föreningens syfte är att främja ungdomars intresse för datorer, naturvetenskap
 och teknik. Att ge medemmarna möjlighet att öka förståelsen för dessa ämnens
 betydelse i samhället samt att bruka kunskaperna inom relevanta områden.
 
-\section{Obundenhet}
+* Obundenhet
 Föreningen är religiöst och partipolitisk obunden.
 
-\section{Verksamhets­ och räkenskapsår}
+* Verksamhets­ och räkenskapsår
 Verksamhetsåret och räkenskapsåret omfattar tiden 1 januari till 31 december
 
-\section{Medlemskap}
+* Medlemskap
 Medlemskap kan erhållas av den som betalar eventuell medlemsavgift och
 verkar enligt föreningens syfte. Om en medlem missköter sig eller skadar
 föreningen kan personen uteslutas ur föreningen. Uteslutningen beslutas
@@ -28,7 +23,7 @@ av styrelsen och ska tas upp på årsmötet då den uteslutna har rätt att
 yttra sig och det är årsmötet som slutligen bestämmer om uteslutningen
 ska gälla eller hävas. Medlemskap måste förnyas varje kalenderår.
 
-\section{Årsmöte}
+* Årsmöte
 Årsmötet är föreningens högsta beslutande instans. Det ska hållas i
 verksamhetsårets början, dock senast i mars månad. Årsmötet är beslutsmässigt
 endast om skriftlig kallelse utgår senast fjorton dagar före mötet via brev
@@ -41,29 +36,27 @@ om upplösning enligt §13. Vid årsmötet har ordförande, styrelse, revisorer 
 medlemmar rätt att närvara, yttra sig samt lägga förslag. På årsmötet ska
 följande punkter alltid behandlas:
 
-\begin{itemize}
-  \item{Fråga om mötet är stadgeenligt kallat}
-  \item{Verksamhetsberättelse}
-  \item{Revisionsberättelse}
-  \item{Ekonomisk berättelse}
-  \item{Fråga om styrelsens ansvarsfrihet}
-  \item{Val av ordförande}
-  \item{Val av styrelseledamöter}
-  \item{Val av revisorer}
-  \item{Val av valberedning}
-  \item{Fastställande av medlemsavgift}
-  \item{Verksamhetsplan}
-  \item{Budget}
-  \item{Motioner}
-  \item{Övriga frågor}
-\end{itemize}
+ - Fråga om mötet är stadgeenligt kallat
+ - Verksamhetsberättelse
+ - Revisionsberättelse
+ - Ekonomisk berättelse
+ - Fråga om styrelsens ansvarsfrihet
+ - Val av ordförande
+ - Val av styrelseledamöter
+ - Val av revisorer
+ - Val av valberedning
+ - Fastställande av medlemsavgift
+ - Verksamhetsplan
+ - Budget
+ - Motioner
+ - Övriga frågor
 
-\section{Extra årsmöte}
+* Extra årsmöte
 Extra årsmöte sammankallas om styrelsen eller minst en fjärdedel av medlemmarna
 skriftligen begär det. Samma regler som för ordinarie årsmöte gäller men allt
 som ska behandlas på mötet måste framgå i kallelsen.
 
-\section{Styrelse}
+* Styrelse
 Styrelsen har sitt säte i Stockholm. Styrelsen ansvarar för den löpande
 verksamheten och verkställer årsmötets beslut. Styrelsen väljs av årsmötet och
 ska utöver ordförande bestå av tre (3) till åtta (8) ledamöter. Styrelsen
@@ -71,26 +64,24 @@ föredelar själv ledamöternas poster. Styrelsen ska sammanträda minst två g�
 per verksamhetsår. Styrelsen är beslutsmässig om kallelse utgått till samtliga
 ledamöter och hälften av styrelsens ledamöter är närvarande.
 
-\section{Föreningens firma}
+* Föreningens firma
 Styrelsen beslutar vem eller vilka som har rätt att teckna föreningens firma.
 
-\section{Revisorer}
+* Revisorer
 Årsmötet väljer en revisor och en revisorssuppleant.
 
-\section{Medlemsavgift}
+* Medlemsavgift
 Eventuell medlemsavgift fastställs av årsmötet.
 
-\section{Stadgeändring}
+* Stadgeändring
 Dessa stadgar kan ändras endast vid årsmöte eller extra årsmöte. I kallelsen
 måste det stå att stadgeändring kommer att behandlas. För att andra i stadgarna
 krävs att 2/3 av de avgivna rösterna bifaller ändringen. För ändring av stadgan
 om Föreningens syfte §2, Stadgeändring §12 och Upplösning §13 krävs att beslutet
 tas på två på varandra följande ordinarie årsmöten.
 
-\section{Upplösning}
+* Upplösning
 Upplösning av föreningen kan endast ske genom beslut på ordinarie årsmöte med
 2/3 majoritet. I kallelsen till årsmötet ska det stå att förlag om upplösning av
 föreningen kommer att behandlas. Mötet beslutar om hur föreningens tillgångar
 ska disponeras.
-
-\end{document}
