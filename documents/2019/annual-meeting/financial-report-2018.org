@@ -1,0 +1,16 @@
+#+TITLE: Ekonomisk Berättelse för IX 2018
+#+DATE: 2018-07-15
+#+OPTIONS: toc:nil author:nil
+
+* Kontoutdrag
+|      Datum | Till/Från   | Belopp   | Utgående Saldo | Beskrivning               |
+|------------+-------------+----------+----------------+---------------------------|
+| 2018-01-04 | Martin      | -5062,64 | 41189,01       | Utbetalning av 3D printer |
+| 2018-01-30 | UFS         | 1000,00  | 42189,01       | Direktbidrag UFS 2017     |
+| 2018-05-29 | Pontus Falk | 200,00   | 42389,01       | Donation                  |
+| 2018-10-08 | UFS         | 2200,00  | 44589,01       | Direktbidrag UFS          |
+
+* Sammanfattning
+Under 2018 var det väldigt lite rörelse ekonomiskt. Totalt sett en donation,
+lite sent bidrag från UFS och en sen utbetalning av kostnaden för 3D-printern
+till Martin.

@@ -1,0 +1,7 @@
+#+TITLE: Verksamhetsberättlse 2018
+#+DATE: 2018-07-15
+#+OPTIONS: toc:nil author:nil
+
+Vi har:
+ - Måndagsträffar
+ - Keysigningparty varannan månad

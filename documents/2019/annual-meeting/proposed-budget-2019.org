@@ -1,0 +1,18 @@
+#+TITLE: Budgetförslag för IX 2019
+#+DATE: 2018-07-15
+#+OPTIONS: toc:nil author:nil
+
+| Inkomster                       |          |
+|---------------------------------+----------|
+| Ingående balans                 | 43839,01 |
+| UFS Direktbidrag                |        0 |
+| UFS Medlemsbidrag               |        0 |
+|---------------------------------+----------|
+| Utgifter                        |          |
+|---------------------------------+----------|
+| Nordea bankkonto                |     -750 |
+| Förbättring av Elektronikhörnan |    -5000 |
+| Styrelsens arbete               |    -1500 |
+| IT Drift                        |    -1000 |
+|---------------------------------+----------|
+| Utgående balans                 | 35589,01 |

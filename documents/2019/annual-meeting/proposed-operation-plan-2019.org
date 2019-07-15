@@ -1,0 +1,12 @@
+#+TITLE: Föreslagen Verksamhetsplan 2019
+#+DATE: 2018-07-15
+#+OPTIONS: toc:nil author:nil
+
+Vi vill:
+ - Fortsätta att uppdatera vår hemsida
+ - Organisera mera regelbunden aktivitet
+ - Annonsera flera aktiviteter på Meetup
+ - Anordna flera workshops
+ - Fortsätta att hålla måndagsaktiviteter
+ - Flyga drönare
+ - Fixa våran 3D-skrivare
