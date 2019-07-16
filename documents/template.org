@@ -1,6 +1,10 @@
 #+TITLE: Mötesprotokoll för IX
 #+DATE: 2012-06-30
 #+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
 
 * Mötets öppnande
 Mötet öppnade klockan 19:00.

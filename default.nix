@@ -10,6 +10,8 @@ let
       babel-english
       babel-swedish
       booktabs
+      datetime2-english
+      datetime2-swedish
       ec
       eurosym
       hyphen-english

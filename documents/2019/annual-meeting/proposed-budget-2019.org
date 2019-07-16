@@ -1,6 +1,10 @@
 #+TITLE: Budgetförslag för IX 2019
 #+DATE: 2018-07-15
 #+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
 
 | Inkomster                       |          |
 |---------------------------------+----------|

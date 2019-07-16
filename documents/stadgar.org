@@ -1,5 +1,9 @@
 #+TITLE: Stadgar för IX
 #+OPTIONS: toc:nil author:nil date:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
 
 * Förening
 IX är en ideell ungdomsförening.

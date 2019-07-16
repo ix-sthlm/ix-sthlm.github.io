@@ -1,6 +1,10 @@
 #+TITLE: Ekonomisk Berättelse för IX 2018
 #+DATE: 2018-07-15
 #+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
 
 * Kontoutdrag
 |      Datum | Till/Från   | Belopp   | Utgående Saldo | Beskrivning               |
