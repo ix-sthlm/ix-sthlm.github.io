@@ -49,8 +49,7 @@ in stdenv.mkDerivation rec {
     cp -r ${my-theme} themes/hyde-x
 
     make color-logos
-    make latex
-    make org2pdf
+    make documents2pdf
     make dirlists
     make hugo
     make replace-favicon

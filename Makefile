@@ -16,38 +16,26 @@ install-theme:
 hugo:
 	hugo
 
-# Make target latex
-latex:
+# Make target to convert documents to pdfs
+documents2pdf:
 	# Make sure output directory is there
 	mkdir -p static/documents
 
-	# Copy all TeX files
+	# Copy all source files
 	cp -vr documents/* static/documents/
 
-	# Compile all TeX files
+	# Compile all TeX files to PDF
 	for i in `find static/documents/ -type f -name '*.tex'`; do                \
 		pdflatex -output-directory `dirname $$i` $$i;                          \
 	done
 
-	# Remove non-pdf files from output
-	find static/documents/ -type f ! -name '*pdf' -delete
-
-# Make target for creating pdf's from org files
-org2pdf:
-	# Make sure output directory is there
-	mkdir -p static/documents
-
-	# Copy all org-files
-	cp -vr documents/* static/documents/
-
-	# Compile all TeX files
+	# Compile all org files to PDF
 	for i in `find static/documents/ -type f -name '*.org'`; do                \
 		emacs $$i --batch -f org-latex-export-to-pdf --kill;                   \
 	done
 
 	# Remove non-pdf files from output
 	find static/documents/ -type f ! -name '*pdf' -delete
-
 
 dirlists:
 	./.travis/make_document_dirlist.sh static/documents/
