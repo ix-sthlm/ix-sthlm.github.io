@@ -37,4 +37,5 @@ Dokument
 - [Ekonomisk berättelse för 2018](/documents/2019/annual-meeting/financial-report-2018.pdf)
 - [Budgetförslag för 2019](/documents/2019/annual-meeting/proposed-budget-2019.pdf)
 - [Verksamhetsplan för 2019](/documents/2019/annual-meeting/proposed-operation-plan-2019.pdf)
+- [IX Årsmöteshandlingar 2019](/documents/2019/annual-meeting/combined-document.pdf)
 - [Stadgar](/documents/stadgar.pdf)

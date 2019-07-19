@@ -1,0 +1,31 @@
+#+TITLE: IX Årsmöteshandlingar 2019
+#+DATE: 2018-07-15
+#+OPTIONS: toc:t author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+\clearpage
+
+* Verksamhetsberättlse 2018
+#+INCLUDE: "./annual-report-2018.org" :lines "8-"
+
+\clearpage
+
+* Ekonomisk Berättelse för IX 2018
+** Kontoutdrag
+#+INCLUDE: "./financial-report-2018.org::*Kontoutdrag" :only-contents t
+
+** Sammanfattning
+#+INCLUDE: "./financial-report-2018.org::*Sammanfattning" :only-contents t
+
+\clearpage
+
+* Budgetförslag för IX 2019
+#+INCLUDE: "./proposed-budget-2019.org" :lines "8-"
+
+\clearpage
+
+* Föreslagen Verksamhetsplan 2019
+#+INCLUDE: "./proposed-operation-plan-2019.org" :lines "8-"
