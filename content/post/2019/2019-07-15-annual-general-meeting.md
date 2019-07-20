@@ -11,25 +11,29 @@ Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
 
 Dagordning
 ----------
-* Öppnande av mötet
-* Val av mötesordförande
-* Val av mötessekreterare
-* Val av justeringspersoner tillika rösträknare
-* Fråga om mötet är stadgeenligt kallat
-* Verksamhetsberättelse
-* Revisionsberättelse
-* Ekonomisk berättelse
-* Fråga om styrelsens ansvarsfrihet
-* Val av ordförande
-* Val av styrelseledamöter
-* Val av revisorer
-* Val av valberedning
-* Fastställande av medlemsavgift
-* Verksamhetsplan
-* Budget
-* Motioner
-* Övriga frågor
-* Mötets avslutande
+ 1. Öppnande av mötet
+ 2. Mötesfunktionärer
+    1. Val av mötesordförande
+    2. Val av mötessekreterare
+    3. Val av justeringspersoner tillika rösträknare
+ 3. Mötets behörighet
+ 4. Fastställande av röstlängd
+ 5. Fastställande av dagordningen
+ 6. Föredrag av Verksamhetsberättelse
+ 7. Föredrag av Ekonomisk berättelse
+ 8. Föredrag av Revisionsberättelse
+ 9. Fråga om styrelsens ansvarsfrihet
+ 10. Fastställande av medlemsavgift
+ 11. Verksamhetsplan
+ 12. Budget
+ 13. Motioner
+ 14. Förtroendeval
+     1. Val av ordförande
+     2. Val av styrelseledamöter
+     3. Val av revisorer
+     4. Val av valberedning
+ 15. Övriga frågor
+ 16. Mötets avslutande
 
 Dokument
 --------

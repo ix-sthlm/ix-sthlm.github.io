@@ -10,24 +10,28 @@
 
 * Dagordning
  1. Öppnande av mötet
- 2. Val av mötesordförande
- 3. Val av mötessekreterare
- 4. Val av justeringspersoner tillika rösträknare
- 5. Fråga om mötet är stadgeenligt kallat
- 6. Verksamhetsberättelse
- 7. Revisionsberättelse
- 8. Ekonomisk berättelse
+ 2. Mötesfunktionärer
+    1. Val av mötesordförande
+    2. Val av mötessekreterare
+    3. Val av justeringspersoner tillika rösträknare
+ 3. Mötets behörighet
+ 4. Fastställande av röstlängd
+ 5. Fastställande av dagordningen
+ 6. Föredrag av Verksamhetsberättelse
+ 7. Föredrag av Ekonomisk berättelse
+ 8. Föredrag av Revisionsberättelse
  9. Fråga om styrelsens ansvarsfrihet
- 10. Val av ordförande
- 11. Val av styrelseledamöter
- 12. Val av revisorer
- 13. Val av valberedning
- 14. Fastställande av medlemsavgift
- 15. Verksamhetsplan
- 16. Budget
- 17. Motioner
- 18. Övriga frågor
- 19. Mötets avslutande
+ 10. Fastställande av medlemsavgift
+ 11. Verksamhetsplan
+ 12. Budget
+ 13. Motioner
+ 14. Förtroendeval
+     1. Val av ordförande
+     2. Val av styrelseledamöter
+     3. Val av revisorer
+     4. Val av valberedning
+ 15. Övriga frågor
+ 16. Mötets avslutande
 
 \clearpage
 
