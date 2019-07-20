@@ -10,7 +10,7 @@
 
 * Dagordning
  1. Öppnande av mötet
- 2. Val av mötsordförande
+ 2. Val av mötesordförande
  3. Val av mötessekreterare
  4. Val av justeringspersoner tillika rösträknare
  5. Fråga om mötet är stadgeenligt kallat
