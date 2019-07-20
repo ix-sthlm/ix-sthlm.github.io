@@ -8,15 +8,18 @@
 
 | Inkomster                       |          |
 |---------------------------------+----------|
-| Ingående balans                 | 43839,01 |
-| UFS Direktbidrag                |        0 |
-| UFS Medlemsbidrag               |        0 |
+| Ingående balans                 | 43839.01 |
+| UFS Direktbidrag                |     0.00 |
+| UFS Medlemsbidrag               |     0.00 |
 |---------------------------------+----------|
+|                                 |          |
 | Utgifter                        |          |
 |---------------------------------+----------|
-| Nordea bankkonto                |     -750 |
-| Förbättring av Elektronikhörnan |    -5000 |
-| Styrelsens arbete               |    -1500 |
-| IT Drift                        |    -1000 |
+| Nordea bankkonto                |   750.00 |
+| Förbättring av Elektronikhörnan |  5000.00 |
+| Styrelsens arbete               |  1500.00 |
+| IT Drift                        |  1000.00 |
 |---------------------------------+----------|
-| Utgående balans                 | 35589,01 |
+|                                 |          |
+| Utgående balans                 | 35589.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)
