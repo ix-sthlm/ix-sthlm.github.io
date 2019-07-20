@@ -14,11 +14,7 @@
 \clearpage
 
 * Ekonomisk Berättelse för IX 2018
-** Kontoutdrag
-#+INCLUDE: "./financial-report-2018.org::*Kontoutdrag" :only-contents t
-
-** Sammanfattning
-#+INCLUDE: "./financial-report-2018.org::*Sammanfattning" :only-contents t
+#+INCLUDE: "./financial-report-2018.org" :lines "8-"
 
 \clearpage
 
