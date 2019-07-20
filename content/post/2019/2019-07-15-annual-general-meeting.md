@@ -12,7 +12,7 @@ Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
 Dagordning
 ----------
 * Öppnande av mötet
-* Val av mötsordförande
+* Val av mötesordförande
 * Val av mötessekreterare
 * Val av justeringspersoner tillika rösträknare
 * Fråga om mötet är stadgeenligt kallat
