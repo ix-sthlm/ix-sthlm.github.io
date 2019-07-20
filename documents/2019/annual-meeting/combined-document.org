@@ -8,6 +8,29 @@
 
 \clearpage
 
+* Dagordning
+ 1. Öppnande av mötet
+ 2. Val av mötsordförande
+ 3. Val av mötessekreterare
+ 4. Val av justeringspersoner tillika rösträknare
+ 5. Fråga om mötet är stadgeenligt kallat
+ 6. Verksamhetsberättelse
+ 7. Revisionsberättelse
+ 8. Ekonomisk berättelse
+ 9. Fråga om styrelsens ansvarsfrihet
+ 10. Val av ordförande
+ 11. Val av styrelseledamöter
+ 12. Val av revisorer
+ 13. Val av valberedning
+ 14. Fastställande av medlemsavgift
+ 15. Verksamhetsplan
+ 16. Budget
+ 17. Motioner
+ 18. Övriga frågor
+ 19. Mötets avslutande
+
+\clearpage
+
 * Verksamhetsberättlse 2018
 #+INCLUDE: "./annual-report-2018.org" :lines "8-"
 
