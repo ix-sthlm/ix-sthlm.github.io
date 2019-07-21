@@ -1,5 +1,5 @@
 #+TITLE: Ekonomisk Berättelse för IX 2018
-#+DATE: 2018-07-15
+#+DATE: 2019-07-15
 #+OPTIONS: toc:nil author:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article

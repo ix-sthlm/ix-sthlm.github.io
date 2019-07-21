@@ -1,5 +1,5 @@
 #+TITLE: IX Årsmöteshandlingar 2019
-#+DATE: 2018-07-15
+#+DATE: 2019-07-15
 #+OPTIONS: toc:t author:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
