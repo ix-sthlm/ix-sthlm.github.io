@@ -70,4 +70,4 @@ som första argument till alla gpg-kommandon ni kör som har något med att sök
 #### Flyer
 Det finns en flyer att printa om du vill sätta upp någonstans (på jobb,
 i skola eller var du nu känner för) så finns en flyer här:
-![Flyer](/img/keysigningparty-2019-10-14-flyer.png)
+![Flyer](/img/keysigning-flyer-2019.png)
