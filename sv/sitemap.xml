@@ -352,11 +352,6 @@
   </url>
   
   <url>
-    <loc>/projects/</loc>
-    <lastmod>2016-02-23T22:55:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/mekaniska-tangentbord/</loc>
     <lastmod>2016-02-23T22:39:09+01:00</lastmod>
     <priority>0</priority>
@@ -390,6 +385,10 @@
   
   <url>
     <loc>/authors/kira/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
   </url>
   
   <url>
