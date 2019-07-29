@@ -1,5 +1,5 @@
-+++
-date = "2016-02-23T22:55:00+01:00"
+﻿+++
+date = "2019-07-30T00:3:00+01:00"
 title = "Projekt"
 +++
 ### Keysigningpartys
@@ -15,26 +15,14 @@ Elektronikkurs och lyftande av elektronikverksamheten med bättre material och v
 
 Drivande personer: [hard](/authors/hard)
 
-### Mekaniska tangentbord
-Drivande personer: [etu](/authors/etu), [DOSn3rd](/authors/dosn3rd)
+### Blender
+Det finns några i föreningen som är intresserade av Blender och 3D-modellering. Vi har även hållit i en workshop där vi lärt ut grunderna i hur Blender fungerar och de absoluta grunderna i hur 3D-modellering går till.
 
-### VR-hörnan
-Vi ska köpa in en dator som ska uppfylla Oculus rekommenderade specifikationer för arbete med VR-projekt. Vi ska dessutom installera utvecklingsmiljöer för att kunna jobba mot våran Oculus DK2, såsom Unreal Engine 4.
-
-Drivande personer: [aku](/authors/aku), [Conny Siponen @dapper](/authors/siponen), [kira](/authors/kira)
-
-### Spelprojekt
-Vi är flera som sitter och jobbar på individuella spelprojekt.
-
-Drivande personer: [aku](/authors/aku), [Conny Siponen @dapper](/authors/siponen)
+Drivande personer: [aku](/authors/aku)
 
 ### Arduino-projekt
-Drivande personer: [hard](/authors/hard), [aku](/authors/aku), [DOSn3rd](/authors/dosn3rd)
+Drivande personer: [hard](/authors/hard)
 
 ### Quadcopters
 Drivande personer: [hard](/authors/hard)
 
-### IX-Logotypen
-Att designa och skapa en logga åt föreningen vore nice. Så vi gör det.
-
-Drivande personer: alla
