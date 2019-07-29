@@ -1,0 +1,134 @@
+#+TITLE: IX Årsmötesprotokoll 2019
+#+DATE: 2019-07-29
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Öppnande av mötet
+Elis Hirwing öppnar mötet 19:02.
+
+* Mötesfunktionärer
+** Val av mötesordförande
+Mötet väljer Michael Stahre till mötesordförande.
+
+** Val av mötessekreterare
+Mötet väljer Elis Hirwing till mötesordförande.
+
+** Val av justeringspersoner tillika rösträknare
+Mötet väljer Kim Lindberger och Erik Welander till justerare och rösträknare.
+
+* Mötets behörighet
+Mötet finner mötet behörigt kallat.
+
+* Fastställande av röstlängd
+Alla närvarande har rösträtt.
+
+* Fastställande av dagordningen
+Mötet fastställer dagordningen.
+
+\clearpage
+
+* Föredrag av Verksamhetsberättelse
+Kim Lindberger föredrar verksamhetsberättelsen som skickats ut med kallelsen.
+
+Vi bjöd även på glögg under en keysigning i slutet av 2018.
+
+* Föredrag av Ekonomisk berättelse
+Erik Welander föredrar den ekonomiska berättelsen som skickats ut med
+kallelsen.
+
+Mötet noterar även att Nordea inte tagit betalt för kontot förra året.
+
+* Föredrag av Revisionsberättelse
+Mötet har ingen revisorsberättelse att lägga till handlingarna.
+
+* Fråga om styrelsens ansvarsfrihet
+Mötet beviljar styrelsen ansvarsfrihet.
+
+* Fastställande av medlemsavgift
+Mötet fastställer medlemsavgiften för året till:
+ - Ungdomar: 0kr/år
+ - Vuxna: 200kr/år
+
+Man är ungdom fram till och med året man fyller 26 år.
+
+Det är gratis för besökande vid öppet hus.
+
+\clearpage
+
+* Verksamhetsplan
+Mötet beslutar om följande verksamhetsplan:
+ - Fortsätta att uppdatera vår hemsida
+ - Organisera mera regelbunden aktivitet
+ - Annonsera flera aktiviteter på Meetup
+ - Anordna flera workshops
+ - Fortsätta att hålla måndagsaktiviteter
+ - Flyga drönare
+ - Fixa våra 3D-skrivare och elektronikhörna
+ - Arrangera helgaktiviteter där vi bjuder in folk för heldagsaktivteter
+ - Köpa ett domännamn för IX och sätta upp en VPS
+
+* Budget
+| Inkomster                       |          |
+|---------------------------------+----------|
+| Ingående balans                 | 43839.01 |
+| UFS Direktbidrag                |     0.00 |
+| UFS Medlemsbidrag               |     0.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgifter                        |          |
+|---------------------------------+----------|
+| Nordea bankkonto                |   750.00 |
+| Förbättring av Elektronikhörnan |  5000.00 |
+| Fika                            |  3000.00 |
+| IT Drift                        |  1000.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgående balans                 | 34089.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)
+
+* Motioner
+Inga inkomna motioner.
+
+\clearpage
+
+* Förtroendeval
+** Val av ordförande
+Mötet väljer Elis Hirwing till ordförande.
+
+** Val av styrelseledamöter
+Mötet väljer följande till ledamöter:
+ - Erik Welander
+ - Kim Lindberger
+ - Yann Vernier
+
+** Val av revisorer
+Mötet väljer Adam Chodorowski till revisor på förutsättning att styrelsen
+säger till ordentligt innan årsmötet med verifikat, kvitton och liknande.
+
+Vi väljer ingen suppleant.
+
+** Val av valberedning
+Mötet väljer att styrelsen agerar valberedning.
+
+* Övriga frågor
+Inga övriga frågor.
+
+* Mötets avslutande
+Michael Stahre avslutar mötet 20:01.
+
+* Signaturer
+** Ordförande
+\makebox[10cm]{\hrulefill}
+
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
