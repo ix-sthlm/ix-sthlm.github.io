@@ -24,6 +24,10 @@ let
       # Needed on top of scheme-medium
       capt-of
       wrapfig
+
+      # More deps for handling of indented paragrafs
+      parskip
+      etoolbox
     ;
   };
 
