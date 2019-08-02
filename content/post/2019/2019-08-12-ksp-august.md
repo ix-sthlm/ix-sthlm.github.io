@@ -1,7 +1,7 @@
 +++
 authors = [ "etu" ]
 categories = [ "Nyckelsignering", "GPG" ]
-date = "2019-08-12T19:30:00+01:00"
+date = "2019-08-01T19:30:00+01:00"
 title = "Nyckelsigneringsparty augusti 2019"
 draft = true
 +++
