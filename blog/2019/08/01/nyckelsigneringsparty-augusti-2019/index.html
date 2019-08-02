@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Nyckelsignering &middot; </title>
+  <title>Nyckelsigneringsparty augusti 2019 &middot; </title>
 
   
   <link rel="stylesheet" href="/css/poole.css">
@@ -28,7 +28,7 @@
   
   
   
-  <link href="/categories/nyckelsignering/index.xml" rel="alternate" type="application/rss+xml" title="IX Stockholm &middot; " />
+  
 
   <meta name="description" content="">
   <meta name="keywords" content="">
@@ -86,112 +86,98 @@
 
 
 <div class="content container">
-  
-  <h1>Posts in "nyckelsignering"</h1>
-  
+  <div class="post">
+    <h1 class="post-title">Nyckelsigneringsparty augusti 2019</h1>
+    <span class="post-date">Aug 1, 2019 &middot; 3 minute read &middot; by  <a href="/authors/etu">etu</a> 
+    
+    <br/>
+    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
+    </span>
+    
 
-  <ul class="posts">
+<p>Hej och välkomna på vårt tolfte nyckelsigneringsparty i Stockholm.</p>
+
+<p>Den 12:e augusti klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är <a href="/about/#besök-oss">Polhemsgatan 38</a>. De som vill ha nybörjarhjälp, har frågor eller bara vill umgås är välkomna från klockan 17:30. Vi kan även erbjuda hjälp med att printa lappar med information om din nyckel (se nedan).</p>
+
+<h4 id="förberedelser-för-deltagande">Förberedelser för deltagande</h4>
+
+<p>För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper. Du bör även ha med dig en gilltig ID-handling så att andra deltagare kan verifiera din identitet.</p>
+
+<p>Ett exempel på att ta fram detta är enligt följande:</p>
+
+<pre><code>$ gpg --fingerprint --keyid-format 0xlong &quot;elis@hirwing.se&quot;
+</code></pre>
+
+<p>Resultatet av ovanstående skriver du ut tillsammans med en länk var man hittar din nyckel inkl alla dess signaturer.
+Exempel:</p>
+
+<pre><code>pub  rsa4096/0xD57EFA625C9A925F 2016-04-30 [SC] [expires: 2023-06-23]
+     Key fingerprint = 67FE 98F2 8C44 CF22 1828  E12F D57E FA62 5C9A 925F
+uid                  [ultimate] Elis Hirwing &lt;elis@hirwing.se&gt;
+uid                  [ultimate] Elis Hirwing &lt;etu@failar.nu&gt;
+uid                  [ultimate] Elis Hirwing &lt;elis@failar.nu&gt;
+uid                  [ultimate] Elis Hirwing (SA0BSE) &lt;s@0b.se&gt;
+uid                  [ultimate] Elis Hirwing (SA0BSE) &lt;sa@0b.se&gt;
+sub  rsa4096/0xCC77E1CD861D1104 2016-04-30 [E] [expires: 2023-06-23]
+sub  rsa4096/0xF141FC8514E6F255 2016-04-30 [A] [expires: 2023-06-23]
+
+https://sa.0b.se/D57EFA625C9A925F.asc
+</code></pre>
+
+<p>Det underlättar om samtliga deltagare laddar upp sin nyckel på <a href="#ix-nyckelserver">IX Nyckelserver</a> (som inte uppdateras från de traditionella nyckelservrarna för att minska risken för smittade nycklar):</p>
+
+<pre><code>$ gpg --keyserver keys.ix.ufs.se --send-keys &lt;ditt fingeravtryck&gt;
+</code></pre>
+
+<h4 id="förfarande-för-signeringar">Förfarande för signeringar</h4>
+
+<p>Samtliga deltagare lägger en trave lappar på deltagarbordet. Sedan får samtliga deltagare hämta en av varje lapp av andra deltagares lappar.</p>
+
+<p>Samtliga deltagare gör följande:</p>
+
+<ol>
+<li>Slår sig ner vid ett bord med sina förberedda lappar samt ID-handling</li>
+<li>Skickar runt sin bunt med lappar tillsammans med ID-handling</li>
+<li>Tar lappar av de man inte signerat sedan tidigare samt markerar på lapparna man tar om man kontrollerat identiteten mot en giltig ID-handling man känner sig nöjd med</li>
+</ol>
+
+<p>Efter denna procedur är klar så är det upp till var och en att genomföra en klassisk signerings-procedur som ser ut som följande:</p>
+
+<ol>
+<li>Hämta nyckeln du ska signera från fil eller nyckelserver (keys.ix.ufs.se eller keys.openpgp.org)</li>
+<li>Verifiera att fingerprinten och identiteten stämmer mot lappen</li>
+<li>Signera nyckeln</li>
+<li>Eposta den signerade nyckeln i ett krypterat mail till personen</li>
+</ol>
+
+<p>När du tar emot mail från andra deltagare med din signerade nyckel så importerar du nyckeln och laddar upp din nyckel, nu med ytterligare en eller flera signaturer, till keys.ix.ufs.se och uppdaterar din nyckelfil (den fil du angett på lappen enligt ovan).</p>
+
+<h4 id="ix-nyckelserver">IX Nyckelserver</h4>
+
+<p>IX har en nyckelserver som inte är del av någon <a href="https://sks-keyservers.net/">serverpool</a>. Detta innebär att deltagare kan både ladda upp och ladda ner nycklar där vilket oftast är betydligt snabbare än att använda de stora delade servrarna.</p>
+
+<p>IX Nyckelserver heter <a href="https://keys.ix.ufs.se/">keys.ix.ufs.se</a>.</p>
+
+<p>För att använda denna nyckelserver med GPG så kan ni använda flaggan</p>
+
+<pre><code>--keyserver keys.ix.ufs.se
+</code></pre>
+
+<p>som första argument till alla gpg-kommandon ni kör som har något med att söka, skicka eller hämta nycklar att göra.</p>
+
+<h4 id="flyer">Flyer</h4>
+
+<p>Det finns en flyer att printa om du vill sätta upp någonstans (på jobb,
+i skola eller var du nu känner för) så finns en flyer här:
+<img src="/img/keysigning-flyer-2019.png" alt="Flyer" /></p>
+
+  </div>
   
-    <li><a href="/blog/2019/08/01/nyckelsigneringsparty-augusti-2019/">Nyckelsigneringsparty augusti 2019</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Aug 1, 2019</time></li>
-  
-    <li><a href="/blog/2019/05/26/nyckelsigneringsparty-juni-2019/">Nyckelsigneringsparty juni 2019</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>May 26, 2019</time></li>
-  
-    <li><a href="/blog/2019/03/18/nyckelsigneringsparty-april-2019/">Nyckelsigneringsparty april 2019</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Mar 18, 2019</time></li>
-  
-    <li><a href="/blog/2019/02/05/nyckelsigneringsparty-februari-2019/">Nyckelsigneringsparty februari 2019</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Feb 5, 2019</time></li>
-  
-    <li><a href="/blog/2018/11/26/gl%C3%B6ggmingel-med-gpg-nyckelsignering/">Glöggmingel med GPG nyckelsignering</a>
-    
-    &middot;
-    <a class="label" href="/categories/gl%C3%B6ggmingel">Glöggmingel</a><a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Nov 26, 2018</time></li>
-  
-    <li><a href="/blog/2018/11/25/nyckelsigneringsparty-december-2018/">Nyckelsigneringsparty december 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Nov 25, 2018</time></li>
-  
-    <li><a href="/blog/2018/09/23/nyckelsigneringsparty-oktober-2018/">Nyckelsigneringsparty oktober 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Sep 23, 2018</time></li>
-  
-    <li><a href="/blog/2018/08/01/nyckelsigneringsparty-augusti-2018/">Nyckelsigneringsparty augusti 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Aug 1, 2018</time></li>
-  
-    <li><a href="/blog/2018/05/28/nyckelsigneringsparty-juni-2018/">Nyckelsigneringsparty juni 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>May 28, 2018</time></li>
-  
-    <li><a href="/blog/2018/03/18/nyckelsigneringsparty-april-2018/">Nyckelsigneringsparty april 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Mar 18, 2018</time></li>
-  
-    <li><a href="/blog/2018/02/03/nyckelsigneringsparty-februari-2018/">Nyckelsigneringsparty februari 2018</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Feb 3, 2018</time></li>
-  
-    <li><a href="/blog/2017/11/27/nyckelsigneringsparty-december-2017/">Nyckelsigneringsparty december 2017</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Nov 27, 2017</time></li>
-  
-    <li><a href="/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/">Schema för Nyckelsigneringsparty i Stockholm</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Nov 6, 2017</time></li>
-  
-    <li><a href="/blog/2017/10/11/nyckelsigneringsparty-i-stockholm/">Nyckelsigneringsparty i Stockholm</a>
-    
-    &middot;
-    <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
-    </span>
-    &middot; <time>Oct 11, 2017</time></li>
-  
-  </ul>
 </div>
+
+
+
+
 
 </body>
 </html>

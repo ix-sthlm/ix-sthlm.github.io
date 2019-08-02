@@ -6,10 +6,28 @@
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 15 Jul 2019 18:50:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 19:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GPG</title>
+      <link>/categories/gpg/</link>
+      <pubDate>Thu, 01 Aug 2019 19:30:00 +0100</pubDate>
+      
+      <guid>/categories/gpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyckelsignering</title>
+      <link>/categories/nyckelsignering/</link>
+      <pubDate>Thu, 01 Aug 2019 19:30:00 +0100</pubDate>
+      
+      <guid>/categories/nyckelsignering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Möte</title>
@@ -26,24 +44,6 @@
       <pubDate>Mon, 15 Jul 2019 18:50:00 +0200</pubDate>
       
       <guid>/categories/%C3%A5rsm%C3%B6te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPG</title>
-      <link>/categories/gpg/</link>
-      <pubDate>Sun, 26 May 2019 21:00:00 +0100</pubDate>
-      
-      <guid>/categories/gpg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nyckelsignering</title>
-      <link>/categories/nyckelsignering/</link>
-      <pubDate>Sun, 26 May 2019 21:00:00 +0100</pubDate>
-      
-      <guid>/categories/nyckelsignering/</guid>
       <description></description>
     </item>
     
