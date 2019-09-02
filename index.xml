@@ -471,42 +471,6 @@ Det tangentbordet jag tänkte börja med att bygga är ett var modell heter Plan
     </item>
     
     <item>
-      <title>Aku</title>
-      <link>/authors/aku/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/aku/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DOSn3rd</title>
-      <link>/authors/dosn3rd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dosn3rd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hård</title>
-      <link>/authors/hard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kira</title>
-      <link>/authors/kira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projekt</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -518,15 +482,6 @@ Kategorier: Nyckelsignering, GPG
 Elektroniklyftet Elektronikkurs och lyftande av elektronikverksamheten med bättre material och verktyg för att sprida mer kunskap och engagagemant för elektronikarbete.
 Drivande personer: hard
 Blender Det finns några i föreningen som är intresserade av Blender och 3D-modellering. Vi har även hållit i en workshop där vi lärt ut grunderna i hur Blender fungerar och de absoluta grunderna i hur 3D-modellering går till.</description>
-    </item>
-    
-    <item>
-      <title>etu</title>
-      <link>/authors/etu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/etu/</guid>
-      <description>Info lär dyka upp någon gång. Här nedan har du mina bloggposter.</description>
     </item>
     
   </channel>

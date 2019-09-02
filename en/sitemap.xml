@@ -20,7 +20,6 @@
   <url>
     <loc>/en/</loc>
     <lastmod>2016-02-23T22:55:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
@@ -35,7 +34,6 @@
   
   <url>
     <loc>/en/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
@@ -50,7 +48,6 @@
   
   <url>
     <loc>/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
