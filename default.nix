@@ -31,13 +31,20 @@ let
     ;
   };
 
+  # Tmpfix: Depend on a very specific version of hugo, otherwise startpage
+  # doesn't render correctly. Using this we get hugo: hugo: 0.57.2
+  # On 0.58.0 it seems to break.
+  my-hugo = (import (builtins.fetchTarball {
+    url = "https://github.com/nixos/nixpkgs/archive/e3a6b8f31fd781f58084d104863d62247afcdf8a.tar.gz";
+  }) {}).hugo;
+
 in stdenv.mkDerivation rec {
   name = "all";
   src = ./.;
 
   buildInputs = with pkgs; [
     gnumake
-    hugo
+    my-hugo
     emacs26-nox
     nodePackages.svgo
     my-texlive
