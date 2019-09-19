@@ -6,7 +6,7 @@
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 01 Aug 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 12:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>GPG</title>
       <link>/categories/gpg/</link>
-      <pubDate>Thu, 01 Aug 2019 19:30:00 +0100</pubDate>
+      <pubDate>Wed, 18 Sep 2019 12:30:00 +0100</pubDate>
       
       <guid>/categories/gpg/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Nyckelsignering</title>
       <link>/categories/nyckelsignering/</link>
-      <pubDate>Thu, 01 Aug 2019 19:30:00 +0100</pubDate>
+      <pubDate>Wed, 18 Sep 2019 12:30:00 +0100</pubDate>
       
       <guid>/categories/nyckelsignering/</guid>
       <description></description>
