@@ -12,7 +12,7 @@ Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hac
 * c:a kl 12:30 tar de som vill lunch på någon restaurang i närheten
 * c:a kl 14:00 finns det utrymme för lightning talks
 * c:a kl 17:00 börjar vi avrunda genom att berätta vad vi gjort under dagen
-* kl 18:00 planerar vi att stänga hacker-dagen
+* kl 18:00 planerar vi att stänga hackdagen
 #### Var?
 Vi håller till i UFS lokal på [Polhemsgatan 38](/about/#besök-oss). Är dörren till vänster om bostadsporten stängd, slå en signal till 08-10 77 00 så kommer vi och öppnar.
 #### Pris
