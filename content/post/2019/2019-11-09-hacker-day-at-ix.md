@@ -10,7 +10,7 @@ Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hac
 * kl 9:00 öppnar vi dörrarna
 * kl 10:00 presenterar vi våra projekt
 * kl 12:00-13:30 har vi lunchpaus
-* c:a kl 14:00 finns det utrymme för lightning talks
+* kl 14:00 finns möjlighet för kortare presentationer
 * c:a kl 17:00 börjar vi avrunda genom att berätta vad vi gjort under dagen
 * kl 18:00 planerar vi att stänga hackdagen
 #### Var?
