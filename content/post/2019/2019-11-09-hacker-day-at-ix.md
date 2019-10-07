@@ -11,7 +11,7 @@ Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hac
 * kl 10:00 presenterar vi våra projekt
 * kl 12:00-13:30 har vi lunchpaus
 * kl 14:00 finns möjlighet för kortare presentationer
-* c:a kl 17:00 börjar vi avrunda genom att berätta vad vi gjort under dagen
+* kl 17:00 avrundar och berättar vi om vad vi gjort
 * kl 18:00 planerar vi att stänga hackdagen
 #### Var?
 Vi håller till i UFS lokal på [Polhemsgatan 38](/about/#besök-oss). Är dörren till vänster om bostadsporten stängd, slå en signal till 08-10 77 00 så kommer vi och öppnar.
