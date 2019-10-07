@@ -1,9 +1,8 @@
 +++
 authors = [ "sm0rux" ]
 categories = [ "Hackerday", "FLOSS" ]
-date = "2019-11-09T12:30:00+01:00"
+date = "2019-10-07T18:00:00+01:00"
 title = "Hackdag lördagen den 9:e november"
-draft = true
 +++
 Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hackdag.
 #### Preliminärt program
