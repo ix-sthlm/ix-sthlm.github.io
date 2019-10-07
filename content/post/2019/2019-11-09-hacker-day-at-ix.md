@@ -8,7 +8,7 @@ draft = true
 Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hackdag.
 #### Preliminärt program
 * kl 9:00 öppnar vi dörrarna
-* c:a kl 10:00 presenterar vi oss och vad vi har för project att hacka på
+* kl 10:00 presenterar vi våra projekt
 * c:a kl 12:30 tar de som vill lunch på någon restaurang i närheten
 * c:a kl 14:00 finns det utrymme för lightning talks
 * c:a kl 17:00 börjar vi avrunda genom att berätta vad vi gjort under dagen
