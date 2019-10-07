@@ -5,7 +5,7 @@ date = "2019-11-09T12:30:00+01:00"
 title = "Hacker-lördag den 9 november"
 draft = true
 +++
-Den 9 november mellan kl 9 och kl 18 är du välkommen till IX's Hacker-lördag.
+Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hackdag.
 #### Preliminärt program
 * kl 9:00 öppnar vi dörrarna
 * c:a kl 10:00 presenterar vi oss och vad vi har för project att hacka på
