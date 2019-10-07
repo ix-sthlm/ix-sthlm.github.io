@@ -19,4 +19,4 @@ Vi håller till i UFS lokal på [Polhemsgatan 38](/about/#besök-oss). Är dörr
 Att delta på hackdagen är gratis för medlemmar och kostar 100kr för övriga. Vi ser gärna att du som inte redan är medlem blir det så snart som möjligt. Medlemsskap är gratis för ungdomar och kostar 200kr/år för vuxna. Mer information om hur du blir medlem hittar du [här](/membership/).
 #### Flyer
 Vill du sätta upp en flyer på jobbet eller i skolan? Använd gärna denna:
-![Flyer](/img/hacker-lordag.png)
+![Flyer](/img/2019-november-hackdag/invitation.png)
