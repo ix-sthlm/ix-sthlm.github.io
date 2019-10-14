@@ -6,6 +6,10 @@ title = "Hackdag lördagen den 9:e november"
 +++
 Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX's hackdag.
 
+Anmäl er gärna på [meetup](https://www.meetup.com/IX-Stockholm/events/265481058/) så vi får ett estimat på antal deltagare.
+
+Vi har också fått reda på att detta sammanfaller med [Aaron Swartz day](https://www.aaronswartzday.org) vilket vi självklart kommer att hylla.
+
 #### Preliminärt program
 * kl 9:00 öppnar vi dörrarna
 * kl 10:00 presenterar vi våra projekt
