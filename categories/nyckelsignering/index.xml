@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nyckelsignering on IX Stockholm</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Nyckelsignering on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 18 Nov 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 20:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/categories/nyckelsignering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nyckelsigneringsparty februari 2020</title>
+      <link>/blog/2020/01/24/nyckelsigneringsparty-februari-2020/</link>
+      <pubDate>Fri, 24 Jan 2020 20:30:00 +0100</pubDate>
+      
+      <guid>/blog/2020/01/24/nyckelsigneringsparty-februari-2020/</guid>
+      <description>Hej och välkomna på vårt femtonde nyckelsigneringsparty i Stockholm.
+Den 10:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp, har frågor eller bara vill umgås är välkomna från klockan 17:30. Vi kan även erbjuda hjälp med att printa lappar med information om din nyckel (se nedan).
+Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty december 2019</title>
@@ -172,7 +183,7 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
       
       <guid>/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</guid>
       <description>Uppföljning av tidigare bloggpost.
-Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)  21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare  GnuPG: https://gnupg.</description>
+Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)   21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare  GnuPG: https://gnupg.</description>
     </item>
     
     <item>

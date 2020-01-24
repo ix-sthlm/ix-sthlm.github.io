@@ -93,24 +93,17 @@
     <br/>
     <a class="label" href="/categories/nyckelsignering">Nyckelsignering</a><a class="label" href="/categories/gpg">GPG</a>
     </span>
-    
-
-<p>Hej och välkomna på vårt elfte nyckelsigneringsparty i Stockholm.</p>
-
+    <p>Hej och välkomna på vårt elfte nyckelsigneringsparty i Stockholm.</p>
 <p>Den 10:e juni klockan 19:00 så bjuder IX in till nyckelsigneringsparty i
 UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är
-<a href="/about/#besök-oss">Polhemsgatan 38</a>. De som vill ha nybörjarhjälp eller har
+<a href="/about/#bes%C3%B6k-oss">Polhemsgatan 38</a>. De som vill ha nybörjarhjälp eller har
 frågor är välkomna från klockan 17:30 att ställa dessa. Vi kan även erbjuda
 hjälp med att printa lappar (Mer info om lappar kommer).</p>
-
 <h4 id="förberedelser-för-deltagande">Förberedelser för deltagande</h4>
-
 <p>För att deltaga så behöver du ha med dig papperslappar med din fingerprint
 samt din identitet på samma papper. Du bör även ha med dig en gilltig
 ID-handling så att andra deltagare kan verifiera din identitet.</p>
-
 <p>Ett exempel på att ta fram detta är enligt följande:</p>
-
 <pre><code>$ gpg --fingerprint --keyid-format 0xlong &quot;elis@hirwing.se&quot;
 pub  rsa4096/0xD57EFA625C9A925F 2016-04-30 [SC] [expires: 2023-06-23]
      Key fingerprint = 67FE 98F2 8C44 CF22 1828  E12F D57E FA62 5C9A 925F
@@ -121,21 +114,13 @@ uid                  [ultimate] Elis Hirwing (SA0BSE) &lt;s@0b.se&gt;
 uid                  [ultimate] Elis Hirwing (SA0BSE) &lt;sa@0b.se&gt;
 sub  rsa4096/0xCC77E1CD861D1104 2016-04-30 [E] [expires: 2023-06-23]
 sub  rsa4096/0xF141FC8514E6F255 2016-04-30 [A] [expires: 2023-06-23]
-</code></pre>
-
-<p>Det skulle underlätta om samtliga deltagare laddar upp sin nyckel på <a href="#ix-nyckelserver">IX
+</code></pre><p>Det skulle underlätta om samtliga deltagare laddar upp sin nyckel på <a href="#ix-nyckelserver">IX
 Nyckelserver</a> på följande vis:</p>
-
 <pre><code>$ gpg --keyserver keys.ix.ufs.se --send-keys &lt;ditt fingeravtryck&gt;
-</code></pre>
-
-<h4 id="förfarande-för-signeringar">Förfarande för signeringar</h4>
-
+</code></pre><h4 id="förfarande-för-signeringar">Förfarande för signeringar</h4>
 <p>Samtliga deltagare lägger en trave lappar på deltagarbordet. Sedan får
 samtliga deltagare hämta en av varje lapp av andra deltagares lappar.</p>
-
 <p>Samtliga deltagare gör följande:</p>
-
 <ol>
 <li>Slår sig ner vid ett bord med sina förberedda lappar samt ID-handling</li>
 <li>Skickar runt sin bunt med lappar tillsammans med ID-handling</li>
@@ -143,40 +128,31 @@ samtliga deltagare hämta en av varje lapp av andra deltagares lappar.</p>
 signera den nyckeln eller ej efter att man gjort en verifikation av
 identiteten som man känner sig nöjd med.</li>
 </ol>
-
 <p>Efter denna procedur är klar så är det upp till var och en att genomföra en
 klassisk signerings-procedur som ser ut som följande:</p>
-
 <ol>
 <li>Hämta nyckeln du ska signera från nyckelserver (våran eller publik)</li>
 <li>Verifiera att fingerprinten och identiteten stämmer med lappen</li>
 <li>Signera nyckeln</li>
 <li>Eposta den signerade nyckeln i ett krypterat mail till personen</li>
 </ol>
-
 <p>När du tar emot mail från andra deltagare med din signerade nyckel så
 importerar du nyckeln och laddar upp den på en nyckelserver.</p>
-
 <h4 id="ix-nyckelserver">IX Nyckelserver</h4>
-
 <p>IX har en nyckelserver som inte är del av
 <a href="https://sks-keyservers.net/">SKS-Keyservers</a>-poolen. Detta innebär att
 deltagare kan både ladda upp och ladda ner nycklar där vilket oftast är
 betydligt snabbare än att använda de stora delade servrarna. När nycklarna är
 signerade så bör du ändå ladda upp din nyckel på en större publik server då
 du förmodligen vill att andra ska kunna hitta din nyckel.</p>
-
 <p>IX Nyckelserver heter <a href="https://keys.ix.ufs.se/">keys.ix.ufs.se</a>.</p>
-
 <p>För att använda denna nyckelserver med GPG så kan ni använda flaggan
 <code>--keyserver keys.ix.ufs.se</code> som första argument till alla gpg-kommandon ni
 kör som har något med att söka, skicka eller hämta nycklar att göra.</p>
-
 <h4 id="flyer">Flyer</h4>
-
 <p>Det finns en flyer att printa om du vill sätta upp någonstans (på jobb,
 i skola eller var du nu känner för) så finns en flyer här:
-<img src="/img/keysigningparty-2019-06-10-flyer.png" alt="Flyer" /></p>
+<img src="/img/keysigningparty-2019-06-10-flyer.png" alt="Flyer"></p>
 
   </div>
   

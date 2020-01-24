@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on IX Stockholm</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Posts on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 18 Nov 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 20:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nyckelsigneringsparty februari 2020</title>
+      <link>/blog/2020/01/24/nyckelsigneringsparty-februari-2020/</link>
+      <pubDate>Fri, 24 Jan 2020 20:30:00 +0100</pubDate>
+      
+      <guid>/blog/2020/01/24/nyckelsigneringsparty-februari-2020/</guid>
+      <description>Hej och välkomna på vårt femtonde nyckelsigneringsparty i Stockholm.
+Den 10:e februari klockan 19:00 så bjuder IX in till nyckelsigneringsparty i UFS lokaler vid Fridhemsplan, Stockholm. Adressen dit är Polhemsgatan 38. De som vill ha nybörjarhjälp, har frågor eller bara vill umgås är välkomna från klockan 17:30. Vi kan även erbjuda hjälp med att printa lappar med information om din nyckel (se nedan).
+Förberedelser för deltagande För att deltaga så behöver du ha med dig papperslappar med din fingerprint samt din identitet på samma papper.</description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty december 2019</title>
@@ -28,7 +39,7 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
       <pubDate>Mon, 07 Oct 2019 18:00:00 +0100</pubDate>
       
       <guid>/blog/2019/10/07/hackdag-l%C3%B6rdagen-den-9e-november/</guid>
-      <description>Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX&amp;rsquo;s hackdag.
+      <description>Lördagen den 9:e november mellan kl 9 och kl 18 är du välkommen till IX&#39;s hackdag.
 Anmäl er gärna på meetup så vi får ett estimat på antal deltagare.
 Vi har också fått reda på att detta sammanfaller med Aaron Swartz day vilket vi självklart kommer att hylla.
 Preliminärt program  kl 9:00 öppnar vi dörrarna kl 10:00 presenterar vi våra projekt kl 12:00-13:30 har vi lunchpaus kl 14:00 finns möjlighet för kortare presentationer kl 17:00 avrundar och berättar vi om vad vi gjort kl 18:00 planerad avslutning av hackdagen  Var?</description>
@@ -62,8 +73,8 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
       <pubDate>Mon, 15 Jul 2019 18:50:00 +0200</pubDate>
       
       <guid>/blog/2019/07/15/inbjudan-till-%C3%A5rsm%C3%B6te-2019/</guid>
-      <description> Nu har tiden kommit för IX Årsmöte! I år är det den 29:e juli och börjar klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
-Dagordning  Öppnande av mötet Mötesfunktionärer  Val av mötesordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare  Mötets behörighet Fastställande av röstlängd Fastställande av dagordningen Föredrag av Verksamhetsberättelse Föredrag av Ekonomisk berättelse Föredrag av Revisionsberättelse Fråga om styrelsens ansvarsfrihet Fastställande av medlemsavgift Verksamhetsplan Budget Motioner Förtroendeval  Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning  Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2018 Ekonomisk berättelse för 2018 Budgetförslag för 2019 Verksamhetsplan för 2019 IX Årsmöteshandlingar 2019 Stadgar  </description>
+      <description>Nu har tiden kommit för IX Årsmöte! I år är det den 29:e juli och börjar klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+Dagordning  Öppnande av mötet Mötesfunktionärer  Val av mötesordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare   Mötets behörighet Fastställande av röstlängd Fastställande av dagordningen Föredrag av Verksamhetsberättelse Föredrag av Ekonomisk berättelse Föredrag av Revisionsberättelse Fråga om styrelsens ansvarsfrihet Fastställande av medlemsavgift Verksamhetsplan Budget Motioner Förtroendeval  Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning   Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2018 Ekonomisk berättelse för 2018 Budgetförslag för 2019 Verksamhetsplan för 2019 IX Årsmöteshandlingar 2019 Stadgar  </description>
     </item>
     
     <item>
@@ -182,7 +193,7 @@ Förberedelser för deltagande För att deltaga så behöver du ha med dig pappe
       <pubDate>Mon, 29 Jan 2018 20:00:00 +0100</pubDate>
       
       <guid>/blog/2018/01/29/inbjudan-till-%C3%A5rsm%C3%B6te-2018/</guid>
-      <description> Nu har tiden kommit för IX Årsmöte! I år är det den 19 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+      <description>Nu har tiden kommit för IX Årsmöte! I år är det den 19 februari med början klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
 Dagordning  Öppnande av mötet Val av mötsordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare Fråga om mötet är stadgeenligt kallat Verksamhetsberättelse Revisionsberättelse Ekonomisk berättelse Fråga om styrelsens ansvarsfrihet Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning Fastställande av medlemsavgift Verksamhetsplan Budget Motioner Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2017 Ekonomisk berättelse för 2017 Budgetförslag för 2018 Verksamhetsplan för 2018 Motion 1: Stadgeändring kring medlemsavgift Motion 2: Stadgeändring kring dagordning på årsmöte Stadgar  </description>
     </item>
     
@@ -192,7 +203,7 @@ Dagordning  Öppnande av mötet Val av mötsordförande Val av mötessekreterare
       <pubDate>Mon, 08 Jan 2018 20:30:00 +0100</pubDate>
       
       <guid>/blog/2018/01/08/styrelsem%C3%B6te-januari/</guid>
-      <description>Blender Aku har kontakt med Kira&amp;rsquo;s bror och planerar att hålla ett event snart.
+      <description>Blender Aku har kontakt med Kira&#39;s bror och planerar att hålla ett event snart.
 Emacs Vi funderar på att försöka arrangera ett event och prata med Emacs Meetup Stockholm.
 Etu ska prata med potentiellt intresserade i Stockholm och fråga om de kanske vill deltaga.
 Etu kan potentiellt hålla i en presentation om magit.
@@ -207,7 +218,8 @@ IX3C2 uppföljning På grund av lågt intresse samt att man missar mycket av eve
       
       <guid>/blog/2017/11/28/projekt-ix3c2/</guid>
       <description>Syfte: Varje år de senaste 33 åren så har CCC (Chaos Computer Club) arrangerat CCC (Chaos Communication Congress) i Tyskland den 27-30 december.
-CCC har på senare år satsat på att ha ett ökat remote-deltagande för kongressen. De har på senare år blivit bättre på live-streaming samt att läsa upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor precis som folk som faktiskt deltagar på kongressen.</description>
+CCC har på senare år satsat på att ha ett ökat remote-deltagande för kongressen. De har på senare år blivit bättre på live-streaming samt att läsa upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor precis som folk som faktiskt deltagar på kongressen.
+När: CCC har alltid varit 27-30 december från morgon till kväll med pauser i schemat för lunchpauser och middagar.</description>
     </item>
     
     <item>
@@ -241,7 +253,7 @@ IX3C2 Elis ska skriva ihop en inbjudan till IX3C2 som kommer att gå ut som en b
       
       <guid>/blog/2017/11/06/schema-f%C3%B6r-nyckelsigneringsparty-i-stockholm/</guid>
       <description>Uppföljning av tidigare bloggpost.
-Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)  21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare  GnuPG: https://gnupg.</description>
+Schema för kvällen  17:00 - Vi satsar på att vara på plats för det fall någon är tidig 17:30 - Öppnar för de som vill ha hjälp att installera GnuPG och eventuella tillägg för mejlklienter 19:00 - Nyckelsignering  Signerade nycklar skickas till nyckelinnehavaren. Innehavaren får sedan (om man vill) skicka upp sin nyckel till en nyckelserver Var och en bestämmer själv på vilket sätt man vill verifiera nyckelinnehavarens identitet (Debian förespråkar ID-handling)   21:00 - Partyt avslutas i allmän förbrödring/försystring  Förslag på resurser för nybörjare  GnuPG: https://gnupg.</description>
     </item>
     
     <item>
@@ -290,8 +302,8 @@ IX3C2 Vi ska planera IX3C2 som uppföljare till förra årets IX3C.
       <guid>/blog/2017/05/29/styrelsem%C3%B6te-maj/</guid>
       <description>Logotyp Vi påminner Aku igen.
 Meetup Hård vill hålla kurs En ny elektronikkurs där man måste vara medlem för att få deltaga.
-Vi bestämmer att Hård får köpa in följande: - Varmlufts Lödstation - ca 1200kr - Avlödningsstation - ca 1200kr - Skruvstycke - ca 350kr
-Detta går på budgeten för att förbättra elektronikhörnan.
+Vi bestämmer att Hård får köpa in följande:
+ Varmlufts Lödstation - ca 1200kr Avlödningsstation - ca 1200kr Skruvstycke - ca 350kr  Detta går på budgeten för att förbättra elektronikhörnan.
 Inköp av 3D-Skrivare Vi har en ny 3D-Skrivare!
 Nästa möte Senast måndagen den 14:e augusti klockan 19:00.</description>
     </item>
@@ -350,7 +362,8 @@ I och med konfigurationen så kommer vi även skrapa lite lätt på ytan när de
       
       <guid>/blog/2016/09/12/projektet-ix3c/</guid>
       <description>Syfte: Varje år de senaste 32 åren så har CCC (Chaos Computer Club) arrangerat CCC (Chaos Communication Congress) i Tyskland den 27-30 december.
-CCC har på senare år satsat på att ha ett ökat remote-deltagande för kongressen. De har på senare år blivit bättre på live-streaming samt att läsa upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor precis som folk som faktiskt deltagar på kongressen.</description>
+CCC har på senare år satsat på att ha ett ökat remote-deltagande för kongressen. De har på senare år blivit bättre på live-streaming samt att läsa upp frågor till föreläsare från IRC så att remote-deltagare kan ställa frågor precis som folk som faktiskt deltagar på kongressen.
+När: CCC har alltid varit 27-30 december från morgon till kväll med pauser i schemat för lunchpauser och middagar.</description>
     </item>
     
     <item>
@@ -432,7 +445,7 @@ Logotyp Styrelsen har beslutat att vi ska ta fram en logga av något slag. Detta
       
       <guid>/blog/2016/02/23/planering-inf%C3%B6r-hembyggda-tangentbord/</guid>
       <description>Jag tänkte dra igång planering av detta projekt nu på måndag. Min plan är att vi har ett planeringsmöte nu på Måndag (den 29:e Februari) med start 18 eller något i den stilen.
-Det tangentbordet jag tänkte börja med att bygga är ett var modell heter Planck som är ett kompakt så kallat 40%&amp;rsquo;s tangentbord. I 40%&amp;rsquo;s tangentborden så tar man bort Numpad, Navigations- tangenter, F-Raden samt Sifferraden. Sedan så arbetar man mer med funktions- lager för att komma åt andra tangenter än bokstäver.</description>
+Det tangentbordet jag tänkte börja med att bygga är ett var modell heter Planck som är ett kompakt så kallat 40%&amp;lsquo;s tangentbord. I 40%&amp;lsquo;s tangentborden så tar man bort Numpad, Navigations- tangenter, F-Raden samt Sifferraden. Sedan så arbetar man mer med funktions- lager för att komma åt andra tangenter än bokstäver.</description>
     </item>
     
   </channel>
