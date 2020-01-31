@@ -4,7 +4,7 @@ title = "Bli medlem"
 +++
 
 För att bli medlem så vill vi be dig att fylla i följande formulär:
-[https://docs.google.com/forms...](https://docs.google.com/forms/d/e/1FAIpQLSdyz--d1xRFH5t9o-JwNerxnBQX7Oo3zNubyL1evJfK5J_9OQ/viewform).
+[https://docs.google.com/forms...](https://docs.google.com/forms/d/1exKWDJ-QQjKypDpm2Y8f7IFUCFnSgJptg9OuAYWz82c/viewform).
 
 Detta formulär ägs av UFS organisationskonto på Google Drive och inte en enskild
 privatpersons Google-konto.
