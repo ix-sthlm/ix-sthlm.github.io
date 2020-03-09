@@ -6,10 +6,20 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 24 Jan 2020 20:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 21:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inbjudan till Årsmöte 2020</title>
+      <link>/blog/2020/03/09/inbjudan-till-%C3%A5rsm%C3%B6te-2020/</link>
+      <pubDate>Mon, 09 Mar 2020 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2020/03/09/inbjudan-till-%C3%A5rsm%C3%B6te-2020/</guid>
+      <description>Nu har tiden kommit för IX Årsmöte! I år är det den 23:e mars och börjar klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+Dagordning  Öppnande av mötet Mötesfunktionärer  Val av mötesordförande Val av mötessekreterare Val av justeringspersoner tillika rösträknare   Mötets behörighet Fastställande av röstlängd Fastställande av dagordningen Föredrag av Verksamhetsberättelse Föredrag av Ekonomisk berättelse Föredrag av Revisionsberättelse Fråga om styrelsens ansvarsfrihet Fastställande av medlemsavgift Verksamhetsplan Budget Motioner Förtroendeval  Val av ordförande Val av styrelseledamöter Val av revisorer Val av valberedning   Övriga frågor Mötets avslutande  Dokument  Verksamhetsberättelse för 2019 Ekonomisk berättelse för 2019 Budgetförslag för 2020 Verksamhetsplan för 2020 IX Årsmöteshandlingar 2020 Stadgar  </description>
+    </item>
     
     <item>
       <title>Nyckelsigneringsparty februari 2020</title>
@@ -518,6 +528,51 @@ Det tangentbordet jag tänkte börja med att bygga är ett var modell heter Plan
     </item>
     
     <item>
+      <title>Aku</title>
+      <link>/authors/aku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/aku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DOSn3rd</title>
+      <link>/authors/dosn3rd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dosn3rd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>etu</title>
+      <link>/authors/etu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/etu/</guid>
+      <description>Info lär dyka upp någon gång. Här nedan har du mina bloggposter.</description>
+    </item>
+    
+    <item>
+      <title>Hård</title>
+      <link>/authors/hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kira</title>
+      <link>/authors/kira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projekt</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -529,6 +584,15 @@ Kategorier: Nyckelsignering, GPG
 Elektroniklyftet Elektronikkurs och lyftande av elektronikverksamheten med bättre material och verktyg för att sprida mer kunskap och engagagemant för elektronikarbete.
 Drivande personer: hard
 Blender Det finns några i föreningen som är intresserade av Blender och 3D-modellering. Vi har även hållit i en workshop där vi lärt ut grunderna i hur Blender fungerar och de absoluta grunderna i hur 3D-modellering går till.</description>
+    </item>
+    
+    <item>
+      <title>sm0rux</title>
+      <link>/authors/sm0rux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sm0rux/</guid>
+      <description>Info dyker kanske upp någon gång. Här nedan har du mina bloggposter.</description>
     </item>
     
   </channel>
