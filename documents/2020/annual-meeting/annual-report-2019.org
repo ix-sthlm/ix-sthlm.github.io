@@ -1,0 +1,12 @@
+#+TITLE: Verksamhetsberättlse 2019
+#+DATE: 2020-03-09
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi har:
+ - Måndagsträffar
+ - Keysigningparty varannan månad
+ - Hackday med heldagsevent
