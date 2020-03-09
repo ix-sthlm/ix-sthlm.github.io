@@ -1,0 +1,28 @@
+#+TITLE: Ekonomisk Berättelse för IX 2019
+#+DATE: 2020-03-09
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+* Kontoutdrag
+|      Datum | Till/Från | Belopp | Utgående Saldo | Beskrivning              |
+|------------+-----------+--------+----------------+--------------------------|
+| 2019-01-01 |           |      0 |       44589.01 | Ingående saldo från 2019 |
+| 2019-01-04 | Nordea    |   -750 |       43839.01 | PRIS ENL SPEC            |
+| 2019-08-06 | IX        |    200 |       44039.01 | Medlemsavgift            |
+| 2019-08-07 | IX        |    200 |       44239.01 | Medlemsavgift            |
+| 2019-08-07 | IX        |    200 |       44439.01 | Medlemsavgift            |
+| 2019-08-26 | IX        |    200 |       44639.01 | Medlemsavgift            |
+| 2019-09-10 | IX        |    200 |       44839.01 | Medlemsavgift            |
+| 2019-11-05 | IX        |    200 |       45039.01 | Medlemsavgift            |
+| 2019-11-08 | IX        |    100 |       45139.01 | Deltagaravgift, Hackday  |
+| 2019-11-12 | IX        |    200 |       45339.01 | Medlemsavgift            |
+| 2019-11-12 | IX        |    200 |       45539.01 | Medlemsavgift            |
+| 2019-11-15 | IX        |    200 |       45739.01 | Medlemsavgift            |
+#+TBLFM: @3$4..@>$4=@-1 + $3
+
+* Sammanfattning
+Under 2019 fick vi in några medlemsavgifter och en deltagaravgift för ett
+av våra event.

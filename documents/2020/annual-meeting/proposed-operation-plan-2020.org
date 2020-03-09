@@ -1,0 +1,12 @@
+#+TITLE: Föreslagen Verksamhetsplan 2020
+#+DATE: 2020-03-09
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi vill:
+ - Fortsätta att uppdatera vår hemsida
+ - Ha en till hackday
+ - Tömma våra saker ur lokalen?

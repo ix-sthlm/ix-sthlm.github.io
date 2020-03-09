@@ -1,0 +1,22 @@
+#+TITLE: Budgetförslag för IX 2020
+#+DATE: 2020-03-09
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+| Inkomster         |          |
+|-------------------+----------|
+| Ingående balans   | 45739.01 |
+| UFS Direktbidrag  |     0.00 |
+| UFS Medlemsbidrag |     0.00 |
+|-------------------+----------|
+|                   |          |
+| Utgifter          |          |
+|-------------------+----------|
+| Nordea bankkonto  |   950.00 |
+| Hackday           |  1000.00 |
+|-------------------+----------|
+| Utgående balans   | 43789.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)

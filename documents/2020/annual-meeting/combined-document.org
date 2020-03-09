@@ -1,0 +1,54 @@
+#+TITLE: IX Årsmöteshandlingar 2020
+#+DATE: 2020-03-09
+#+OPTIONS: toc:t author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+\clearpage
+
+* Dagordning
+ 1. Öppnande av mötet
+ 2. Mötesfunktionärer
+    1. Val av mötesordförande
+    2. Val av mötessekreterare
+    3. Val av justeringspersoner tillika rösträknare
+ 3. Mötets behörighet
+ 4. Fastställande av röstlängd
+ 5. Fastställande av dagordningen
+ 6. Föredrag av Verksamhetsberättelse
+ 7. Föredrag av Ekonomisk berättelse
+ 8. Föredrag av Revisionsberättelse
+ 9. Fråga om styrelsens ansvarsfrihet
+ 10. Fastställande av medlemsavgift
+ 11. Verksamhetsplan
+ 12. Budget
+ 13. Motioner
+ 14. Förtroendeval
+     1. Val av ordförande
+     2. Val av styrelseledamöter
+     3. Val av revisorer
+     4. Val av valberedning
+ 15. Övriga frågor
+ 16. Mötets avslutande
+
+\clearpage
+
+* Verksamhetsberättelse 2019
+#+INCLUDE: "./annual-report-2019.org" :lines "8-"
+
+\clearpage
+
+* Ekonomisk Berättelse för IX 2019
+#+INCLUDE: "./financial-report-2019.org" :lines "8-"
+
+\clearpage
+
+* Budgetförslag för IX 2020
+#+INCLUDE: "./proposed-budget-2020.org" :lines "8-"
+
+\clearpage
+
+* Föreslagen Verksamhetsplan 2020
+#+INCLUDE: "./proposed-operation-plan-2020.org" :lines "8-"
