@@ -35,7 +35,7 @@
 
 \clearpage
 
-* Verksamhetsberättlse 2019
+* Verksamhetsberättelse 2019
 #+INCLUDE: "./annual-report-2019.org" :lines "8-"
 
 \clearpage
