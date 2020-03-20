@@ -6,8 +6,8 @@ title = "Inbjudan till Årsmöte 2020"
 +++
 
 Nu har tiden kommit för IX Årsmöte! I år är det den 23:e mars och börjar
-klockan 19:00 och planerat avslut senast 21. Platsen är UFS lokaler på
-Polhemsgatan 38 i Stockholm. Alla intresserade är naturligtvis välkomna.
+klockan 19:00 och planerat avslut senast 21. Platsen är online.
+[Se extra bloggpost kring Årsmötet](/blog/2020/03/20/extra-info-kring-årsmöte-2020/).
 
 Dagordning
 ----------
