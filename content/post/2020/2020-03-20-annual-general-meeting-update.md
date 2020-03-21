@@ -31,7 +31,7 @@ så om man inte vill/kan prata så kan man deltaga via IRC också.
 
 Vi tänker oss att mötet får komma fram till hur de vill genomföra omröstningar
 då det kan bero lite på vilka som deltagar. Antingen att frågan ställs på IRC
-och att folk svarar där eller att man gör det muntligt på mumble och räknar
+och att folk svarar där eller att man gör det muntligt på Jitsi och räknar
 hur många som röstade på vad.
 
 Vi tänker oss också att innan mötet så kan vi som är mötesfunktionärer skapa en
