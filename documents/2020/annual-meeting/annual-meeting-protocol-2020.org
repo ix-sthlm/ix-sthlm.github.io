@@ -1,0 +1,138 @@
+#+TITLE: IX Årsmötesprotokoll 2020
+#+DATE: 2020-03-23
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Öppnande av mötet
+Elis Hirwing öppnar mötet 19:11.
+
+* Mötesfunktionärer
+** Val av mötesordförande
+Mötet väljer Kim Lindberger till mötesordförande.
+
+** Val av mötessekreterare
+Mötet väljer Elis Hirwing till mötessekreterare.
+
+** Val av justeringspersoner tillika rösträknare
+Mötet väljer Erik Welander och Adam Chodorowski till justerare och rösträknare.
+
+* Mötets behörighet
+Mötet finner mötet behörigt kallat.
+
+* Fastställande av röstlängd
+Alla närvarande har rösträtt.
+
+* Fastställande av dagordningen
+Mötet fastställer dagordningen.
+
+* Föredrag av Verksamhetsberättelse
+Kim Lindberger föredrar verksamhetsberättelsen som skickats ut med kallelsen.
+
+Mötet lägger den till handlingarna.
+
+* Föredrag av Ekonomisk berättelse
+Erik Welander föredrar den ekonomiska berättelsen som skickats ut med
+kallelsen.
+
+Mötet lägger den till handlingarna.
+
+* Föredrag av Revisionsberättelse
+Mötet har ingen revisorsberättelse att lägga till handlingarna.
+
+* Fråga om styrelsens ansvarsfrihet
+Mötet beviljar styrelsen ansvarsfrihet.
+
+* Fastställande av medlemsavgift
+Medlemsavgiften fastställs till en frivillig donation.
+
+* Verksamhetsplan
+Mötet beslutar om följande verksamhetsplan:
+ - Byta ut meetup mot något annat (tex gettogether.community).
+ - Fortsätta ha måndagsträffar (ifall folk vill, vi kan planera från vecka
+   till vecka).
+ - Virtuella träffar om folk inte vill/kan vara i lokalen.
+ - Fortsätta att uppdatera vår hemsida.
+ - Ha en till hackday (om möjligt med lokal och rådande omständigheter tillåter).
+ - Tömma våra saker ur lokalen om lokalen försvinner.
+ - Köpa ett domännamn för IX och sätta upp en VPS.
+ - Om vi blir av med lokalen så kan vi ha träffar på olika ställen men mer
+   sällan. Möjlighet att hyra lokal vid behov.
+
+* Budget
+| Inkomster             |          |
+|-----------------------+----------|
+| Ingående balans       | 45739.01 |
+| UFS Direktbidrag      |     0.00 |
+| UFS Medlemsbidrag     |     0.00 |
+|-----------------------+----------|
+|                       |          |
+| Utgifter              |          |
+|-----------------------+----------|
+| Nordea bankkonto      |   950.00 |
+| Hackday               |  1000.00 |
+| DNS / Domän           |   300.00 |
+| Hostingkostnader      |  2000.00 |
+| Lokalhyra för träffar | 10000.00 |
+|-----------------------+----------|
+| Utgående balans       | 31489.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)
+
+* Motioner
+Inga inkomna motioner.
+
+* Förtroendeval
+** Val av ordförande
+Mötet väljer Elis Hirwing till ordförande.
+
+** Val av styrelseledamöter
+Mötet väljer följande till ledamöter:
+ - Erik Welander
+ - Kim Lindberger
+ - Pontus Falk
+
+** Val av revisorer
+Mötet väljer Adam Chodorowski till revisor.
+
+Vi väljer ingen suppleant.
+
+** Val av valberedning
+Mötet väljer att styrelsen agerar valberedning.
+
+* Övriga frågor
+** Lokalens framtid / UFS årsmöte
+Vi vill uppmana UFS styrelse till att tillåta digitalt deltagande på UFS
+årsmöte digitalt.
+
+Vad vill IX framföra på UFS årsmöte?
+ - Hurvida andra föreningar som befinner sig i lokalen vill ha kvar lokalen
+   och gå samman och betala hyran för att ha kvar lokalen utan UFS stöd.
+
+   Denna finansiering skulle vara med hjälp av månadskostnad för medlemmar.
+
+ - Går det att omförhandla kontraktet för att vara bundet på 3/6-månader
+   istället för 3 år?
+
+ - Hyra ut serverrumsplats. Skulle kräva bättre internet till lokalen.
+
+** IX Telefonnummer ifall de lägger ner lokalen
+ - 08-107700 är ett bra nummer? Ge till SUGA? Sälja?
+
+* Mötets avslutande
+Kim Lindberger avslutar mötet 20:34.
+
+* Signaturer
+** Ordförande
+\makebox[10cm]{\hrulefill}
+
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
