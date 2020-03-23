@@ -29,6 +29,8 @@ Alla närvarande har rösträtt.
 * Fastställande av dagordningen
 Mötet fastställer dagordningen.
 
+\clearpage
+
 * Föredrag av Verksamhetsberättelse
 Kim Lindberger föredrar verksamhetsberättelsen som skickats ut med kallelsen.
 
@@ -102,6 +104,8 @@ Vi väljer ingen suppleant.
 ** Val av valberedning
 Mötet väljer att styrelsen agerar valberedning.
 
+\clearpage
+
 * Övriga frågor
 ** Lokalens framtid / UFS årsmöte
 Vi vill uppmana UFS styrelse till att tillåta digitalt deltagande på UFS
@@ -123,6 +127,8 @@ Vad vill IX framföra på UFS årsmöte?
 
 * Mötets avslutande
 Kim Lindberger avslutar mötet 20:34.
+
+\clearpage
 
 * Signaturer
 ** Ordförande
