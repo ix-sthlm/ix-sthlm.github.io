@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-03-20T21:30:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="/"
+                />
+  </url>
+  
+  <url>
     <loc>/categories/m%C3%B6te/</loc>
     <lastmod>2020-03-20T21:30:00+01:00</lastmod>
   </url>
@@ -135,21 +150,6 @@
   <url>
     <loc>/m/</loc>
     <lastmod>2019-05-06T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-05-06T21:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/"
-                />
   </url>
   
   <url>
