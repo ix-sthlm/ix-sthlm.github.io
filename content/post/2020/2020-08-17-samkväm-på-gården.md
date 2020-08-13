@@ -4,6 +4,7 @@ categories = [ "Samkväm", "Grillafton", "Uteaktivitet" ]
 date = "2020-08-11T19:30:00+01:00"
 title = "Grillafton i goda vänners lag"
 +++
+![Grill](/img/bbq.jpg)
 Nu är det alldeles för länge sedan vi sågs men för att hålla på den fysiska distanseringen så tänker vi att vi ändå ska träffas utomhus.
 
 * När? Måndagen den 17 augusti från kl 16:00
