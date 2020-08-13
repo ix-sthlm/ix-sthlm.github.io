@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grillafton on IX Stockholm</title>
+    <link>/categories/grillafton/</link>
+    <description>Recent content in Grillafton on IX Stockholm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 11 Aug 2020 19:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/grillafton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grillafton i goda vänners lag</title>
+      <link>/blog/2020/08/11/grillafton-i-goda-v%C3%A4nners-lag/</link>
+      <pubDate>Tue, 11 Aug 2020 19:30:00 +0100</pubDate>
+      
+      <guid>/blog/2020/08/11/grillafton-i-goda-v%C3%A4nners-lag/</guid>
+      <description>Nu är det alldeles för länge sedan vi sågs men för att hålla på den fysiska distanseringen så tänker vi att vi ändå ska träffas utomhus.
+ När? Måndagen den 17 augusti från kl 16:00 Var? På innergården vid UFS-lokalen (Polhemsgatan 38) Hur? Var och en tar med det man själv vill äta/dricka  Ryktet säger att grillen kommer ha fin glöd från kl 17:00.
+De som av olika skäl inte kommer förbi hoppas vi ha med oss på den vanliga kanalen på Jitsi Meet.</description>
+    </item>
+    
+  </channel>
+</rss>

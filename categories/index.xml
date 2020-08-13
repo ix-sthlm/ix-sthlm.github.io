@@ -6,10 +6,37 @@
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 26 Jul 2020 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 19:30:00 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grillafton</title>
+      <link>/categories/grillafton/</link>
+      <pubDate>Tue, 11 Aug 2020 19:30:00 +0100</pubDate>
+      
+      <guid>/categories/grillafton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samkväm</title>
+      <link>/categories/samkv%C3%A4m/</link>
+      <pubDate>Tue, 11 Aug 2020 19:30:00 +0100</pubDate>
+      
+      <guid>/categories/samkv%C3%A4m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uteaktivitet</title>
+      <link>/categories/uteaktivitet/</link>
+      <pubDate>Tue, 11 Aug 2020 19:30:00 +0100</pubDate>
+      
+      <guid>/categories/uteaktivitet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GPG</title>
