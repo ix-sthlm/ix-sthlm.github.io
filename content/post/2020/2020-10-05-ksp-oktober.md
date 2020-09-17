@@ -1,9 +1,8 @@
 +++
 authors = [ "sm0rux" ]
 categories = [ "Nyckelsignering", "GPG" ]
-date = "2020-10-05T19:30:00+01:00"
+date = "2020-09-17T00:30:00+01:00"
 title = "Nyckelsigneringsparty oktober 2020"
-draft = true
 +++
 Hej och välkomna på vårt nittonde nyckelsigneringsparty i Stockholm.
 
