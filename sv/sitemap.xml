@@ -4,7 +4,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,12 +19,12 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,12 +39,17 @@
   
   <url>
     <loc>/categories/gpg/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020/11/20/inst%C3%A4llt-nyckelsigneringsparty-december-2020/</loc>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,21 +64,21 @@
   
   <url>
     <loc>/categories/nyckelsignering/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2020/09/17/nyckelsigneringsparty-oktober-2020/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-09-17T00:30:00+01:00</lastmod>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sm0rux/</loc>
+    <lastmod>2020-11-20T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020/09/17/nyckelsigneringsparty-oktober-2020/</loc>
     <lastmod>2020-09-17T00:30:00+01:00</lastmod>
   </url>
   
