@@ -6,11 +6,7 @@
     <description>Recent content in GPG on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:30:00 +0100</lastBuildDate>
-    
-	<atom:link href="/categories/gpg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 17 Sep 2020 00:30:00 +0100</lastBuildDate><atom:link href="/categories/gpg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nyckelsigneringsparty oktober 2020</title>
       <link>/blog/2020/09/17/nyckelsigneringsparty-oktober-2020/</link>
