@@ -9,8 +9,4 @@ För att bli medlem så vill vi be dig att fylla i följande formulär:
 Detta formulär ägs av UFS organisationskonto på Google Drive och inte en enskild
 privatpersons Google-konto.
 
-Medlemsavgiften för i år är 200kr/år för vuxna. Ungdommar är det gratis för.
-
-Man är ungdom fram till och med året man fyller 26 år.
-
-Medlemsavgiften kan skickas till IX bankkonto som finns dokumenterat på [Om Oss-sidan](https://ix.ufs.se/about/#viktiga-nummer).
+Vi har för närvarande ingen medlemsavgift.
