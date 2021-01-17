@@ -6,7 +6,11 @@
     <description>Recent content on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 20 Nov 2020 16:00:00 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 16:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Inställt: Nyckelsigneringsparty december 2020</title>
       <link>/blog/2020/11/20/inst%C3%A4llt-nyckelsigneringsparty-december-2020/</link>

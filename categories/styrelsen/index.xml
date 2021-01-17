@@ -6,7 +6,11 @@
     <description>Recent content in Styrelsen on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 08 Jan 2018 20:30:00 +0100</lastBuildDate><atom:link href="/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2018 20:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/styrelsen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Styrelsemöte januari</title>
       <link>/blog/2018/01/08/styrelsem%C3%B6te-januari/</link>

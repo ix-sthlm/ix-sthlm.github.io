@@ -6,7 +6,11 @@
     <description>Recent content in Grillafton on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 11 Aug 2020 19:30:00 +0100</lastBuildDate><atom:link href="/categories/grillafton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2020 19:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/grillafton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Grillafton i goda vänners lag</title>
       <link>/blog/2020/08/11/grillafton-i-goda-v%C3%A4nners-lag/</link>
