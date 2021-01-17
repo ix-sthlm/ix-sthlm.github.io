@@ -1,11 +1,13 @@
-with import <nixpkgs> {};
+{ pkgs ? (import (builtins.fetchTarball {
+  url = https://github.com/NixOS/nixpkgs/archive/nixos-20.09.tar.gz;
+}) {}) }:
 
 let
   my-theme = builtins.fetchTarball {
     url = "https://github.com/ix-sthlm/hyde-x/archive/master.tar.gz";
   };
-  my-texlive = with pkgs; texlive.combine {
-    inherit (texlive) scheme-basic
+  my-texlive = pkgs.texlive.combine {
+    inherit (pkgs.texlive) scheme-basic
       # Needed on top of scheme-basic
       babel-english
       babel-swedish
@@ -31,14 +33,14 @@ let
     ;
   };
 
-in stdenv.mkDerivation rec {
+in pkgs.stdenv.mkDerivation rec {
   name = "all";
   src = ./.;
 
   buildInputs = with pkgs; [
     gnumake
     hugo
-    emacs26-nox
+    emacs27-nox
     nodePackages.svgo
     my-texlive
   ];
