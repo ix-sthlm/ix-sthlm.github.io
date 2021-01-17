@@ -38,8 +38,8 @@ documents2pdf:
 	find static/documents/ -type f ! -name '*pdf' -delete
 
 dirlists:
-	./.travis/make_document_dirlist.sh static/documents/
-	./.travis/make_document_dirlist.sh static/img/
+	./.github/make_document_dirlist.sh static/documents/
+	./.github/make_document_dirlist.sh static/img/
 
 # Make target CNAME for github custom domain
 cname:

@@ -44,7 +44,7 @@ in stdenv.mkDerivation rec {
   ];
 
   patchPhase = ''
-    patchShebangs .travis/make_document_dirlist.sh
+    patchShebangs .github/make_document_dirlist.sh
   '';
 
   buildPhase = ''
