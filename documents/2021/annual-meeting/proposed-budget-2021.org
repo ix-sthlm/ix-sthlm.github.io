@@ -1,0 +1,23 @@
+#+TITLE: Budgetförslag för IX 2021
+#+DATE: 2021-03-01
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+| Inkomster         |          |
+|-------------------+----------|
+| Ingående balans   | 45389.01 |
+| UFS Direktbidrag  |     0.00 |
+| UFS Medlemsbidrag |     0.00 |
+|-------------------+----------|
+|                   |          |
+| Utgifter          |          |
+|-------------------+----------|
+| Nordea bankkonto  |   950.00 |
+| Domän             |   150.00 |
+| Hosting           |  1000.00 |
+|-------------------+----------|
+| Utgående balans   | 43289.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)

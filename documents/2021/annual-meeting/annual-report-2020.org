@@ -1,0 +1,11 @@
+#+TITLE: Verksamhetsberättelse 2020
+#+DATE: 2021-03-01
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi har:
+ - Måndagsträffar (mest på Jitsi)
+ - Grillning
