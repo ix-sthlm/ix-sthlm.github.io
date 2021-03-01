@@ -6,10 +6,28 @@
     <description>Recent content in Categories on IX Stockholm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 20 Nov 2020 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Möte</title>
+      <link>/categories/m%C3%B6te/</link>
+      <pubDate>Mon, 01 Mar 2021 18:00:00 +0100</pubDate>
+      
+      <guid>/categories/m%C3%B6te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Årsmöte</title>
+      <link>/categories/%C3%A5rsm%C3%B6te/</link>
+      <pubDate>Mon, 01 Mar 2021 18:00:00 +0100</pubDate>
+      
+      <guid>/categories/%C3%A5rsm%C3%B6te/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GPG</title>
@@ -71,24 +89,6 @@
       <pubDate>Tue, 11 Aug 2020 19:30:00 +0100</pubDate>
       
       <guid>/categories/uteaktivitet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Möte</title>
-      <link>/categories/m%C3%B6te/</link>
-      <pubDate>Fri, 20 Mar 2020 21:30:00 +0100</pubDate>
-      
-      <guid>/categories/m%C3%B6te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Årsmöte</title>
-      <link>/categories/%C3%A5rsm%C3%B6te/</link>
-      <pubDate>Fri, 20 Mar 2020 21:30:00 +0100</pubDate>
-      
-      <guid>/categories/%C3%A5rsm%C3%B6te/</guid>
       <description></description>
     </item>
     
