@@ -1,0 +1,14 @@
+#+TITLE: Föreslagen Verksamhetsplan 2021
+#+DATE: 2021-03-01
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi vill:
+ - Tömma våra saker ur lokalen
+ - Fortsätta att uppdatera vår hemsida
+ - Hålla måndagsträffar
+ - Migrera till proxxi.org
+ - Sätta upp en egen Matrix-instans på proxxi.org
