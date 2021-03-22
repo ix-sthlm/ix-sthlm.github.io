@@ -1,5 +1,5 @@
 #+TITLE: IX Årsmöteshandlingar 2021
-#+DATE: 2020-03-01
+#+DATE: 2021-03-01
 #+OPTIONS: toc:t author:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
