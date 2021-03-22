@@ -1,0 +1,143 @@
+#+TITLE: IX Årsmötesprotokoll 2021
+#+DATE: 2021-03-22
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Öppnande av mötet
+Elis Hirwing öppnar mötet 19:08.
+
+* Närvarolista
+ - Adam Chodorowski
+ - Caroline Hirwing
+ - Elis Hirwing
+ - Erik Welander
+ - Katarina Eriksson
+ - Kim Lindberger
+ - Molly Fischier
+ - Jonas Glanshed
+ - Sara Karlsson
+
+* Mötesfunktionärer
+** Val av mötesordförande
+Mötet väljer Katarina Eriksson till mötesordförande.
+
+** Val av mötessekreterare
+Mötet väljer Elis Hirwing till mötessekreterare.
+
+** Val av justeringspersoner tillika rösträknare
+Mötet väljer Kim Lindberger och Sara Karlsson till justerare och rösträknare.
+
+* Mötets behörighet
+Mötet finner mötet behörigt kallat.
+
+* Fastställande av röstlängd
+Alla närvarande har rösträtt.
+
+* Fastställande av dagordningen
+Mötet fastställer dagordningen.
+
+* Föredrag av Verksamhetsberättelse
+Katarina Eriksson föredrar verksamhetsberättelsen som skickats ut med
+kallelsen.
+
+Mötet lägger den till handlingarna.
+
+** Verksamhetsberättelse 2020
+#+INCLUDE: "./annual-report-2020.org" :lines "8-"
+
+* Föredrag av Ekonomisk berättelse
+Erik Welander föredrar den ekonomiska berättelsen som skickats ut med
+kallelsen.
+
+Mötet lägger den till handlingarna.
+
+** Ekonomisk berättelse 2020
+#+INCLUDE: "./financial-report-2020.org" :lines "8-"
+
+\clearpage
+
+* Föredrag av Revisionsberättelse
+Adam Chodorowski föredrar revisorsberättelsen.
+
+** Revisionsberättelse 2020
+#+INCLUDE: "./audit-report-2020.org" :lines "11-41"
+
+\clearpage
+
+* Fråga om styrelsens ansvarsfrihet
+Mötet beviljar styrelsen ansvarsfrihet.
+
+* Fastställande av medlemsavgift
+Medlemsavgiften fastställs till 0kr.
+
+* Verksamhetsplan
+Mötet beslutar om följande verksamhetsplan:
+ - Tömma våra saker ur lokalen
+ - Byta till billigare bankkonto
+ - Fortsätta att uppdatera vår hemsida
+ - Hålla måndagsträffar
+ - Migrera till proxxi.org
+ - Sätta upp en egen Matrix-instans på proxxi.org
+
+* Budget
+| Inkomster         |          |
+|-------------------+----------|
+| Ingående balans   | 45389.01 |
+| UFS Direktbidrag  |     0.00 |
+| UFS Medlemsbidrag |     0.00 |
+|-------------------+----------|
+|                   |          |
+| Utgifter          |          |
+|-------------------+----------|
+| Nordea bankkonto  |   950.00 |
+| Domän             |   150.00 |
+| Hosting           |  1000.00 |
+|-------------------+----------|
+| Utgående balans   | 43289.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)
+
+* Motioner
+Inga inkomna motioner.
+
+\clearpage
+
+* Förtroendeval
+** Val av ordförande
+Mötet väljer Katarina Eriksson till ordförande.
+
+** Val av styrelseledamöter
+Mötet väljer följande till ledamöter:
+ - Elis Hirwing
+ - Kim Lindberger
+ - Erik Welander
+
+** Val av revisorer
+Mötet väljer Adam Chodorowski till revisor.
+
+Vi väljer ingen suppleant.
+
+** Val av valberedning
+Mötet väljer att styrelsen agerar valberedning.
+
+* Övriga frågor
+Inga övriga frågor.
+
+* Mötets avslutande
+Katarina Eriksson avslutar mötet 19:58.
+
+* Signaturer
+** Ordförande
+\makebox[10cm]{\hrulefill}
+
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}
