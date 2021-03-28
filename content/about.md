@@ -47,3 +47,4 @@ nedan.
 
 ### WebbIRC
 <iframe src="https://webchat.oftc.net/?channels=ix" style="border: 1px solid black; width: 100%; height: 400px;"></iframe>
+<a href="https://webchat.oftc.net/?channels=ix" target="_blank">https://webchat.oftc.net/?channels=ix</a>
