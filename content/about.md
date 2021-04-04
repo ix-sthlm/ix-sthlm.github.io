@@ -42,9 +42,8 @@ Polhemsgatan 38
 
 ### Internet Relay Chat
 IX har en kanal vid namn [#ix på irc.oftc.net](irc://irc.oftc.net/ix). Det går
-utmärkt att ansluta sig dit med valfri IRC-Klient eller använda webbklienten
+utmärkt att ansluta sig dit med valfri IRC-Klient eller använda <a href="https://webchat.oftc.net/?channels=ix" target="_blank">webbklienten</a>
 nedan.
 
 ### WebbIRC
 <iframe src="https://webchat.oftc.net/?channels=ix" style="border: 1px solid black; width: 100%; height: 400px;"></iframe>
-<a href="https://webchat.oftc.net/?channels=ix" target="_blank">https://webchat.oftc.net/?channels=ix</a>
