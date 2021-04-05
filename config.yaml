@@ -1,0 +1,72 @@
+baseurl: /
+title: IX Stockholm
+theme: hyde-x
+paginate: 10
+DefaultContentLanguage: sv
+
+taxonomies:
+  category: categories
+  author: authors
+
+params:
+  embedLogoPath: static/img/logo/ix-drone-logo-spin-magenta.svg
+  github: https://github.com/ix-sthlm/
+  rss: true
+  sidebar_license_page: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  sv:
+    languageCode: sv-se
+
+    permalinks:
+      post: /blog/:year/:month/:day/:title/
+
+    params:
+      home: Blogg
+
+    menu:
+      main:
+        - name: Om oss
+          url: /about/
+          weight: 10
+
+        - name: About us
+          url: /en/about/
+          weight: 20
+
+        - name: Bli medlem
+          url: /membership/
+          weight: 30
+
+        - name: Integritetspolicy
+          url: /about_privacy/
+          weight: 40
+
+        - name: Projekt
+          url: /projects/
+          weight: 50
+
+        - name: Kalender
+          url: /calendar/
+          weight: 60
+
+        - name: Dokument
+          url: /documents/
+          weight: 70
+
+
+  en:
+    languageCode: en-us
+
+    params:
+      home: Swedish site
+
+    menu:
+      main:
+        - name: About us
+          url: /en/about/
