@@ -49,6 +49,10 @@ DefaultContentLanguage = "sv"
       name = "Bli medlem"
       url = "/membership/"
 
+    [[languages.sv.menu.main]]
+      name = "Dokument"
+      url = "/documents/"
+
   [languages.en]
     languageCode = "en-us"
 
