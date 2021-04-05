@@ -36,19 +36,19 @@
 \clearpage
 
 * Verksamhetsberättlse 2018
-#+INCLUDE: "./annual-report-2018.org" :lines "8-"
+#+INCLUDE: "./annual-report-2018.org" :lines "10-"
 
 \clearpage
 
 * Ekonomisk Berättelse för IX 2018
-#+INCLUDE: "./financial-report-2018.org" :lines "8-"
+#+INCLUDE: "./financial-report-2018.org" :lines "10-"
 
 \clearpage
 
 * Budgetförslag för IX 2019
-#+INCLUDE: "./proposed-budget-2019.org" :lines "8-"
+#+INCLUDE: "./proposed-budget-2019.org" :lines "10-"
 
 \clearpage
 
 * Föreslagen Verksamhetsplan 2019
-#+INCLUDE: "./proposed-operation-plan-2019.org" :lines "8-"
+#+INCLUDE: "./proposed-operation-plan-2019.org" :lines "10-"

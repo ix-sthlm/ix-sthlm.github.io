@@ -5,7 +5,8 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
-#+LATEX_HEADER: \usepackage[parfill]{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
 
 * Öppnande av mötet
 Elis Hirwing öppnar mötet 19:08.
@@ -64,7 +65,7 @@ Mötet lägger den till handlingarna.
 Adam Chodorowski föredrar revisorsberättelsen.
 
 ** Revisionsberättelse 2020
-#+INCLUDE: "./audit-report-2020.org" :lines "11-41"
+#+INCLUDE: "./audit-report-2020.org" :lines "12-44"
 
 \clearpage
 
@@ -128,6 +129,8 @@ Inga övriga frågor.
 
 * Mötets avslutande
 Katarina Eriksson avslutar mötet 19:58.
+
+\clearpage
 
 * Signaturer
 ** Ordförande

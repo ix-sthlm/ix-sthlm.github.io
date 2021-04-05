@@ -5,6 +5,8 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
 
 * Kontoutdrag
 |      Datum | Till/Från | Belopp | Utgående Saldo | Beskrivning              |

@@ -1,27 +1,27 @@
 #+TITLE: Stadgar för IX
-#+OPTIONS: toc:t author:nil date:nil
+#+OPTIONS: toc:nil author:nil date:nil num:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
 
-\clearpage
-
-* Förening
+* §1 Förening
 IX är en ideell ungdomsförening.
 
-* Syfte
+* §2 Syfte
 Föreningens syfte är att främja ungdomars intresse för datorer, naturvetenskap
 och teknik. Att ge medemmarna möjlighet att öka förståelsen för dessa ämnens
 betydelse i samhället samt att bruka kunskaperna inom relevanta områden.
 
-* Obundenhet
+* §3 Obundenhet
 Föreningen är religiöst och partipolitisk obunden.
 
-* Verksamhets­ och räkenskapsår
+* §4 Verksamhets­ och räkenskapsår
 Verksamhetsåret och räkenskapsåret omfattar tiden 1 januari till 31 december
 
-* Medlemskap
+* §5 Medlemskap
 Medlemskap kan erhållas av den som betalar eventuell medlemsavgift och
 verkar enligt föreningens syfte. Om en medlem missköter sig eller skadar
 föreningen kan personen uteslutas ur föreningen. Uteslutningen beslutas
@@ -29,7 +29,7 @@ av styrelsen och ska tas upp på årsmötet då den uteslutna har rätt att
 yttra sig och det är årsmötet som slutligen bestämmer om uteslutningen
 ska gälla eller hävas. Medlemskap måste förnyas varje kalenderår.
 
-* Årsmöte
+* §6 Årsmöte
 Årsmötet är föreningens högsta beslutande instans. Det ska hållas i
 verksamhetsårets början, dock senast i mars månad. Årsmötet är beslutsmässigt
 endast om skriftlig kallelse utgår senast fjorton dagar före mötet via brev
@@ -57,12 +57,12 @@ följande punkter alltid behandlas:
  - Motioner
  - Övriga frågor
 
-* Extra årsmöte
+* §7 Extra årsmöte
 Extra årsmöte sammankallas om styrelsen eller minst en fjärdedel av medlemmarna
 skriftligen begär det. Samma regler som för ordinarie årsmöte gäller men allt
 som ska behandlas på mötet måste framgå i kallelsen.
 
-* Styrelse
+* §8 Styrelse
 Styrelsen har sitt säte i Stockholm. Styrelsen ansvarar för den löpande
 verksamheten och verkställer årsmötets beslut. Styrelsen väljs av årsmötet och
 ska utöver ordförande bestå av tre (3) till åtta (8) ledamöter. Styrelsen
@@ -70,23 +70,23 @@ föredelar själv ledamöternas poster. Styrelsen ska sammanträda minst två g�
 per verksamhetsår. Styrelsen är beslutsmässig om kallelse utgått till samtliga
 ledamöter och hälften av styrelsens ledamöter är närvarande.
 
-* Föreningens firma
+* §9 Föreningens firma
 Styrelsen beslutar vem eller vilka som har rätt att teckna föreningens firma.
 
-* Revisorer
+* §10 Revisorer
 Årsmötet väljer en revisor och en revisorssuppleant.
 
-* Medlemsavgift
+* §11 Medlemsavgift
 Eventuell medlemsavgift fastställs av årsmötet.
 
-* Stadgeändring
+* §12 Stadgeändring
 Dessa stadgar kan ändras endast vid årsmöte eller extra årsmöte. I kallelsen
 måste det stå att stadgeändring kommer att behandlas. För att andra i stadgarna
 krävs att 2/3 av de avgivna rösterna bifaller ändringen. För ändring av stadgan
 om Föreningens syfte §2, Stadgeändring §12 och Upplösning §13 krävs att beslutet
 tas på två på varandra följande ordinarie årsmöten.
 
-* Upplösning
+* §13 Upplösning
 Upplösning av föreningen kan endast ske genom beslut på ordinarie årsmöte med
 2/3 majoritet. I kallelsen till årsmötet ska det stå att förlag om upplösning av
 föreningen kommer att behandlas. Mötet beslutar om hur föreningens tillgångar

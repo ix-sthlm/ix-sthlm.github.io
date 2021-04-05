@@ -5,6 +5,8 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
 
 * Kontoutdrag
 |      Datum | Till/Från |    Belopp | Utgående Saldo | Beskrivning   |
@@ -25,7 +27,6 @@ chassi (fel storlek) så gick vi tillbaka till Webhallen och gjorde retur på en
 chassit och köpte ett nytt chassi på en gång. Detta är anledningen till att det är
 en separat betalning för chassit då Webbhallen inte kunde lägga det nya chassit på
 samma faktura.
-
 
 Utöver det så fick vi en liten summa i direktbidrag och en ännu mindre summa i
 medlemsbidrag från UFS (då vårat medlemsantal är lågt.) Vi har också skaffat ett

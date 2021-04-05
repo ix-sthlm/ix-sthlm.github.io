@@ -6,7 +6,9 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
-#+LATEX_HEADER: \usepackage[margin=2.5cm]{geometry}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
+#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
 
 Jag har som lekmannarevisor granskat styrelsens arbete och föreningens
 ekonomi under verksamhetsåret 2020. Det innebär att jag försökt avgöra

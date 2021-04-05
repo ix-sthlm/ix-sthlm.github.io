@@ -5,7 +5,8 @@
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
 #+LATEX_HEADER: \usepackage[swedish]{babel}
-#+LATEX_HEADER: \usepackage[parfill]{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
 
 * Öppnande av mötet
 Elis Hirwing öppnar mötet 19:11.
@@ -28,8 +29,6 @@ Alla närvarande har rösträtt.
 
 * Fastställande av dagordningen
 Mötet fastställer dagordningen.
-
-\clearpage
 
 * Föredrag av Verksamhetsberättelse
 Kim Lindberger föredrar verksamhetsberättelsen som skickats ut med kallelsen.
@@ -103,8 +102,6 @@ Vi väljer ingen suppleant.
 
 ** Val av valberedning
 Mötet väljer att styrelsen agerar valberedning.
-
-\clearpage
 
 * Övriga frågor
 ** Lokalens framtid / UFS årsmöte
