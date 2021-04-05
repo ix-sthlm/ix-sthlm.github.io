@@ -1,6 +1,6 @@
 #+TITLE: Motion 1: Stadgerevision
 #+DATE: 2021-04-05
-#+OPTIONS: toc:nil author:nil
+#+OPTIONS: toc:nil author:nil num:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
