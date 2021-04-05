@@ -24,14 +24,9 @@ documents2pdf:
 	# Copy all source files
 	cp -vr documents/* static/documents/
 
-	# Compile all TeX files to PDF
-	for i in `find static/documents/ -type f -name '*.tex'`; do                \
-		pdflatex -output-directory `dirname $$i` $$i;                          \
-	done
-
 	# Compile all org files to PDF
-	for i in `find static/documents/ -type f -name '*.org'`; do                \
-		emacs $$i --batch -f org-latex-export-to-pdf --kill;                   \
+	for i in `find static/documents/ -type f -name '*.org'`; do \
+		emacs $$i --batch -f org-latex-export-to-pdf --kill;    \
 	done
 
 	# Remove non-pdf files from output
