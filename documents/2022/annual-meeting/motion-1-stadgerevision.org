@@ -1,0 +1,187 @@
+#+TITLE: Motion 1: Stadgerevision
+#+DATE: 2021-04-05
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
+
+Motionärer: Elis Hirwing
+
+Nuvarande stadga är gammal och konstig, vi har ändrat på den lite hit och dit
+genom åren. Det har genom åren pratats om att vi borde se över stadgarna lite
+mer ordentligt.
+
+Mitt förslag är att byta ut hela IX stadgar till något som liknar Sverok's
+standardstadgar. [[https://medlem.sverok.se/mallar-och-checklistor/][Hittade en länk till en mall här]].
+
+Jag har +strukit över+ saker som jag vill ta bort från Sverok's mall och
+_strukit under_ saker som jag lagt till.
+
+Detta är första läsningen av denna stadgeändring.
+
+* Förslag på nya stadgar
+
+** Stadgar för IX
+*** §1 Föreningen
+Föreningens namn är IX.
+
+Föreningen har sitt säte i Stockholm.
+
+Föreningen är en ideell förening som är religiöst och
+partipolitiskt oberoende.
+
++Föreningen är ansluten till Sverok.+
+
+Föreningens syfte är att syssla med och öka intresset för +[spelhobbyn]+
+_datorer, elektronik och teknik._
+
+Föreningen arbetar med likabehandling för att alla medlemmar ska ha samma
+möjligheter och förutsättningar för att delta i verksamheten och påverka den.
+
+Föreningens verksamhetsår är 1 januari till 31 december.
+
+*** §2 Bli medlem
+Alla personer som godkänner föreningens stadgar har rätt att bli medlemmar.
+
+Medlem blir den som skriftligt har anmält medlemskap till föreningen.
+
+Årsmötet kan bestämma att det är gratis att vara medlem, eller att föreningen
+ska ha en medlemsavgift. Om det finns en medlemsavgift måste den vara betald
+för att en person ska räknas som medlem.
+
+Medlemmar har rätt att få information om föreningen, delta i och rösta på
+årsmöten och kunna väljas till förtroendeuppdrag i föreningen (till exempel
+styrelse eller valberedning). Medlemmar är skyldiga att följa föreningens
+stadgar och regler, hålla sina kontaktuppgifter uppdaterade hos föreningen
+och behandla andra medlemmar med respekt.
+
+*** §3 Sluta vara medlem
+Medlemskapet gäller till och med det påföljande verksamhetsårets årsmöte.
+Efter detta måste medlemmen på nytt anmäla medlemskap om den vill fortsätta
+vara medlem i föreningen.
+
+En medlem som vill gå ur föreningen i förtid ska meddela det i text till
+föreningens styrelse. Då räknas personen inte som medlem längre.
+
+En medlem som missköter sig kan bli avstängd från föreningens verksamhet och
+utesluten ur föreningen. En person som blivit avstängd är fortfarande medlem
+i föreningen men har inte rätt att delta i verksamheten. Om personen utesluts
+är den inte längre medlem i föreningen. Beslut om avstängning fattas av
+styrelsen. Beslut om uteslutning fattas av årsmötet. Om en medlem blivit
+avstängd måste det kommande årsmötet besluta om medlemmen ska uteslutas eller
+inte. En avstängd medlem har rätt att gå på årsmötet, och får rösta i frågan
+om sin uteslutning. Styrelsen och årsmötet kan häva uteslutning
+och avstängning.
+
+*** §4 Styrelsen
+Styrelsen ska vara minst tre personer, där en är ordförande. Styrelsen ska
+dela på ansvaret.
+
+Styrelsen har ansvar för föreningens pengar, verksamhet, medlemslista,
+årsmöte och för att det som bestäms på årsmötet blir gjort.
+
+Styrelsen ska bestämma vilka som har rätt att skriva avtal i föreningens
+namn. De kallas för firmatecknare. Styrelsen kan alltid gemensamt
+teckna firman.
+
+Styrelsen väljs på föreningens årsmöte, och tillträder så fort mötet är slut.
+
+Alla som är medlemmar i föreningen kan väljas till styrelsen.
+
+*** §5 Revisorer
+Föreningen ska ha en eller två revisorer.
+
+Revisorns uppgift är att granska föreningens ekonomi och styrelsens arbete
+och redovisa det för nästa årsmöte.
+
+Revisorerna väljs på årsmötet, och tillträder så fort mötet är slut.
+
+En person som sitter i föreningens styrelse kan inte också väljas
+till revisor.
+
+Revisorn behöver inte vara medlem i föreningen.
+
+*** §6 Valberedning
+Föreningen kan ha en valberedning.
+
+Valberedningens uppgift är att föreslå personer till personvalen på årsmötet.
+
+Alla som är medlemmar i föreningen kan väljas till valberedning.
+
+Valberedningen väljs på årsmötet och tillträder så fort mötet är slut.
+
+Om ingen valberedning väljs, ansvarar föreningens medlemmar gemensamt för
+valberedningens uppgifter. Medlemmarna skickar då sina förslag till styrelsen
+och styrelsen ansvarar för att sammanställa och på årsmötet presentera alla
+som föreslagits.
+
+
+*** §7 Årsmöte
+Årsmötet ska hållas senast den 31 mars varje år.
+
+För att mötet ska vara giltigt måste föreningens medlemmar meddelas
+personligen minst två veckor i förväg. Medlemmarna ska få veta tid, plats och
+vad som ska tas upp på mötet. Om alla medlemmar i föreningen är närvarande på
+mötet och de enhälligt godkänner det kan mötet vara giltigt även om inbjudan
+kommit senare än två veckor innan mötet.
+
+Om det finns särskilda skäl kan årsmötet hållas senare än den 31 mars, under
+förutsättning att medlemmarna godkänner det.
+
+Detta ska alltid tas upp på ett ordinarie årsmöte:
+1) Mötets öppnande
+2) Beslut om mötets giltighet
+3) Val av mötets ordförande
+4) Val av mötets sekreterare
+5) Val av minst en person att granska protokollet efter mötet, samt vid behov vara rösträknare
+6) Fastställande av röstlängd
+7) Fastställande av dagordning
+8) Styrelsens redovisning av förra årets verksamhet
+9) Styrelsens redovisning av förra årets ekonomi
+10) Revisorernas redovisning av styrelsens arbete förra året
+11) Beslut om ansvarsfrihet för förra årets styrelse
+12) Behandling av förslag från styrelse och medlemmar
+13) Beslut om årets verksamhetsplan
+14) Beslut om årets budget och eventuell medlemsavgift
+15) Val av årets styrelse
+16) Val av årets revisor(er)
+17) Eventuellt val av årets valberedare
+18) Mötets avslutande
+
+Om styrelsen, revisorn eller minst en fjärdedel av föreningens medlemmar
+vill, ska föreningen hålla ett extra årsmöte. Det kan hållas när som helst på
+året. Samma krav på giltighet gäller för extra årsmöte som för ordinarie. På
+ett extra årsmöte kan bara det som står i inbjudan tas upp på mötet.
+
+*** §8 Omröstningar
+Alla medlemmar som är på årsmötet har en röst var. Röstning per post eller
+per fullmakt är inte tillåten. I omröstningar gäller att förslaget som fått
+flest röster vinner. Om en omröstning blir lika två gånger i rad räknas det
+som att förslaget inte går igenom. Om omröstningen gäller ett personval och
+resultatet blir lika två gånger i rad får slumpen avgöra. Röster som inte är
+för eller mot något förslag räknas inte.
+
+Alla i styrelsen som deltar på ett styrelsemöte har rösträtt. I omröstningar
+gäller att förslaget som fått flest röster vinner. Om en omröstning blir lika
+två gånger i rad räknas det som att förslaget inte går igenom. Röster som
+inte är för eller mot något förslag räknas inte.
+
+*** §9 Ändra stadgarna
+Föreningens stadgar kan bara ändras på ett årsmöte och om förslaget på
+ändring står med i inbjudan till mötet. För att ändringen ska gälla måste
+minst dubbelt så många rösta för ändringen, som de som röstar mot.
+
+*** §10 Nedläggning
+Årsmötet kan bestämma att föreningen ska läggas ned. Föreningen läggs inte
+ned så länge det finns minst tre medlemmar som vill driva föreningen vidare.
+
+Om föreningen läggs ned ska alla föreningens skulder betalas och konton
+avslutas. Om föreningen har pengar eller saker kvar när den läggs ned ska
+dessa skänkas till en ideell förening med liknande syfte +eller till Sverok+.
+
+En ansvarig ska utses av årsmötet för att avsluta föreningens konton, säga
+upp eventuella avtal, sköta överföring av tillgångar och avregistrering
++från Sverok+ _från Skatteverket_.
