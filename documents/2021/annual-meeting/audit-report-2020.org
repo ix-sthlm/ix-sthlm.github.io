@@ -1,0 +1,48 @@
+#+TITLE: IX Revisionsberättelse 2020
+#+DATE: 2021-03-21
+#+AUTHOR: Adam Chodorowski
+#+OPTIONS: toc:nil author:t
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[margin=2.5cm]{geometry}
+
+Jag har som lekmannarevisor granskat styrelsens arbete och föreningens
+ekonomi under verksamhetsåret 2020. Det innebär att jag försökt avgöra
+huruvida styrelsen har följt föreningens stadgar och årsmötets beslut
+utifrån protokoll, verksamhetsberättelse, ekonomisk redovisning, etc.
+
+* Uppföljning av verksamhetsplan
+Styrelsen har i stort genomfört dom beslut och den verksamhetsplan som
+årsmötet fastställde. Dom enda ej villkorade punkter som inte genomförts
+är 1) att byta ut Meetup mot något annat, samt 2) köp ett domännamn och
+sätta upp en VPS.
+
+* Uppföljning av budget
+Den ekonomiska redovisningen visar inga obudgeterade utgifter. Faktum är
+att den enda utgiften är bankens avgift, då dom budgeterade aktiviteterna
+inte genomfördes.
+
+* Ekonomisk redovisning
+Jag har inte kunnat kontrollera den ekonomiska berättelsen grundligt då
+jag inte kunnat se kontoutdrag från banken. Detta beror på att styrelsen
+inte kunnat logga in på internetbanken då deras konton av någon anledning
+har deaktiverats. Jag har dock ingen anledning att misstro styrelsens
+ekonomiska berättelse.
+
+* Styrelsemöten
+Enligt stadgarna ska styrelsen sammanträda minst två gånger per år men
+har under 2020 inte haft ett enda styrelsemöte. Detta är dock förståeligt
+då ingen verkar ha kännt till denna paragraf i stadgarna.
+
+* Rekommendation
+Jag rekommenderar att årsmötet beviljar styrelsen ansvarsfrihet för
+verksamhetsåret 2020.
+
+
+\vspace{2cm}
+Skogås 2021-03-21
+\vspace{1cm}\\
+\rule[-3pt]{6cm}{0.5pt}\\
+Adam Chodorowski (Lekmannarevisor)
