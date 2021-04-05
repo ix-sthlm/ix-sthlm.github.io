@@ -15,7 +15,8 @@ genom åren. Det har genom åren pratats om att vi borde se över stadgarna lite
 mer ordentligt.
 
 Mitt förslag är att byta ut hela IX stadgar till något som liknar Sverok's
-standardstadgar. [[https://medlem.sverok.se/mallar-och-checklistor/][Hittade en länk till en mall här]].
+standardstadgar. Hittade en länk till en mall här:
+https://medlem.sverok.se/mallar-och-checklistor/.
 
 Jag har +strukit över+ saker som jag vill ta bort från Sverok's mall och
 _strukit under_ saker som jag lagt till.
