@@ -14,6 +14,11 @@ DefaultContentLanguage = "sv"
   rss = true
   sidebar_license_page = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.sv]
     languageCode = "sv-se"
