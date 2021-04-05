@@ -6,7 +6,7 @@ title = "Projekt"
 Vi vill hålla i nyckelsigneringspartyn i lokalen med regelbundenhet för att öka
 kunskapen och medvetenheten kring GPG-Nycklar och bygga en större web of trust!
 
-Drivande personer: [etu](/authors/etu/)
+Drivande personer: [etu](/authors/etu/), [sm0rux](/authors/sm0rux/)
 
 Kategorier: [Nyckelsignering](/categories/nyckelsignering/), [GPG](/categories/gpg/)
 
