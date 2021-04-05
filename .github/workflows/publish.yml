@@ -29,19 +29,3 @@ jobs:
           BRANCH: gh-pages
           FOLDER: ./result
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Notify IRC
-      - name: Notify IRC
-        uses: rectalogic/notify-irc@v1
-        with:
-          server: irc.oftc.net
-          port: 6697
-          tls: true
-          channel: '#ix'
-          notice: true
-          nickname: ix-gh-deploy
-          message: |
-            ${{ github.actor }} pushed ${{ github.event.ref }} ${{ github.event.compare }} ${{ join(github.event.commits.*.message) }}
-
-          # Old travis template:
-          # "%{repository}#%{build_number} (%{commit} on %{branch} by %{author} with message \"%{commit_subject}\"): %{message} Details at %{build_url}"
