@@ -1,0 +1,26 @@
+#+TITLE: Budget för Ix 2017
+#+DATE: 2017-01-28
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+| Inkomster                       |          |
+|---------------------------------+----------|
+| Ingående balans                 | 47601.65 |
+| UFS Direktbidrag                |   750.00 |
+| UFS Medlemsbidrag               |    12.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgifter                        |          |
+|---------------------------------+----------|
+| Nordea bankkonto                |   750.00 |
+| Meetup                          |  3000.00 |
+| Förbättring av Elektronikhörnan |  5000.00 |
+| Styrelsens arbete               |  1500.00 |
+| 3D-skrivare                     |  6000.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgående balans                 | 32113.65 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)

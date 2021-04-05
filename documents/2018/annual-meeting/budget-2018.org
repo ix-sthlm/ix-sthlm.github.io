@@ -1,0 +1,26 @@
+#+TITLE: Budget för Ix 2018
+#+DATE: 2018-02-19
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+| Inkomster                       |          |
+|---------------------------------+----------|
+| Ingående balans                 | 46851.65 |
+| UFS Direktbidrag                |  1000.00 |
+| UFS Medlemsbidrag               |    50.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgifter                        |          |
+|---------------------------------+----------|
+| Nordea bankkonto                |   750.00 |
+| 3D-Printer                      |  5062.67 |
+| Förbättring av Elektronikhörnan |  5000.00 |
+| Styrelsens arbete               |  1500.00 |
+| Workshops                       |  2000.00 |
+|---------------------------------+----------|
+|                                 |          |
+| Utgånde balans                  | 33588.98 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)

@@ -1,0 +1,14 @@
+#+TITLE: Verksamhetsberättlse 2017
+#+DATE: 2017-01-28
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi har:
+ - Måndagsträffar
+ - Annordnat IX3C2
+ - Köpt 3D-Skrivare
+ - Printat random saker
+ - Keysigningparty två gånger och fler planerade

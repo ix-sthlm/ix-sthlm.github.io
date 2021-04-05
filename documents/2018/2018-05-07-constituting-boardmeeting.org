@@ -1,0 +1,60 @@
+#+TITLE: Ixs Konstituerande styrelsemöte för år 2018
+#+DATE: 2018-05-07
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+* Mötets öppning
+Mötet öppnades 19:10
+
+* Val av mötesordförande
+Elis Hirwing valdes till mötesordförande.
+
+* Val av mötessekreterare
+Michael Stahre valdes till mötessekreterare.
+
+* Val av justeringsperson tillika rösträknare
+Erik Welander valdes till justeringsperson tillika rösträknare.
+
+* Val av kassör
+Erik Welander valdes till kassör.
+
+* Val av firmatecknare
+Elis Hirwing (XXXXXX-XXXX) och Erik Welander (XXXXXX-XXXX) valdes att var för
+sig teckna föreningens firma.
+
+* Årsmötesprotokollet
+Protokollet är justerat och skall skrivas ut och justeras efter mötet.
+
+* GDPR-hantering
+Det beslutades att vi skall föra årets medlemslista fysiskt i en pärm, med
+ett papper per medlem där information om hur informationen kommer hanteras
+finns och kan godkännas när medlemmen skriver på. Elis ska ta fram
+denna lapp.
+
+
+Det beslutades att vi skall ta bort våran Drive-mapp.
+
+
+Martin Arnér utsågs till Dataskyddsombud och åtogs att gå igenom mappen,
+skriva ut de gamla dokument som skall sparas (såsom gamla årsmötesdokument
+samt förra årets medlemslista då vår medlemsrapport till Unga Forskare
+Stockholm görs först i höst), ta bort alla andra dokument och kontakta de som
+äger dokument med sina privata konton att ta bort dessa dokument.
+
+
+Det konstaterades att vi ska skriva en integritetspolicy samt ett inventarie
+över vilka personuppgifter vi lagrar, var vi lagrar dem och varför. Michael
+Stahre och Elis Hirwing åtog sig att skriva dessa.
+
+* Mötets avslutande
+Mötet avslutades 20:00
+
+* Signaturer
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}

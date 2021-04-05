@@ -1,20 +1,10 @@
-\documentclass[a4paper,11pt,oneside]{article}
-\usepackage[swedish]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{fancyhdr}
-\usepackage{verbatim}
-\usepackage{graphicx}
-\usepackage{booktabs}
-\pagestyle{fancy}
-\fancyfoot{}
-\lhead{Revisorsberättelse 2017}
-\rhead{2018--02--19}
-\fancyfoot{}
-\fancyfoot[LE, RO]{\thepage}
-
-\begin{document}
-\section{Revisorsberättelse 2017}
+#+TITLE: Revisorsberättelse 2017
+#+DATE: 2018-02-19
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
 
 Hej alla på IXs årsmötet!
 
@@ -29,5 +19,3 @@ ansvarsfrihet för räkneskapsåret.
 Stockholm 2018-02-19
 
 Erik Johansson
-
-\end{document}

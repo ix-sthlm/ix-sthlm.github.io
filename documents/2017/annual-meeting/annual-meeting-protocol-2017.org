@@ -1,0 +1,84 @@
+#+TITLE: IX Årsmötesprotokoll 2017
+#+DATE: 2017-02-20
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \usepackage[parfill]{parskip}
+
+* Öppnande av mötet
+Elis öppnar mötet 19:00
+
+* Val av mötsordförande
+Mötet väljer Elis Axelsson till mötesordförande
+
+* Val av mötessekreterare
+Mötet väljer Martin Arnér till mötessekreterare
+
+* Val av justeringspersoner tillika rösträknare
+Mötet väljer Roos till justerare
+
+* Fråga om mötet är stadgeenligt kallat
+Mötet beslutar att stadgeenliga kallelser har skickats.
+
+* Verksamhetsberättelse
+Mötet beslutar att lägga verksamhetsberättelsen till handlingarna.
+
+* Revisorsberättelse
+Mötet beslutar att lägga revisorsberättelsen till handlingarna.
+
+* Ekonomisk berättelse
+Mötet beslutar att lägga den ekonomiska berättelsen till handlingarna.
+
+* Fråga om styrelsens ansvarsfrihet
+Mötet belutar att bevilja avgående styrelse ansvarsfrihet
+
+* Val av ordförande
+Mötet väljer Elis Axelsson till ordförande.
+
+* Val av styrelseledamöter
+Mötet väljer Michael Stahre, Erik Welander, Martin Arnér, Kim Lindberger till styrelseledamöter.
+
+* Val av revisorer
+Mötet väljer Erik Johansson till revisor.
+
+* Val av valberedning
+Mötet väljer Sara Karlsson till valberedning.
+
+* Fastställande av medlemsavgift
+Mötet fastställer medlemsavgiften till =en frivillig donation=.
+
+* Motioner
+Inga motioner har inkommit innan mötets öppnande.
+
+* Övriga frågor
+** Verksamhetsplan
+ - Lägg till punkt om stadgeändringar.
+ - Lägg till punkt om 3D-skrivare.
+
+Mötet godkänner verksamhetsplanen med ovan nämnda ändringar.
+
+** Budgetförslag
+ - Stryka budgetposten Meetup-konto.
+ - Budgetera 6000 SEK till inköp av 3D-skrivare.
+
+Mötet godkänner budgetförslaget med ovan nämda ändringar.
+
+** Firmatecknare
+Mötet skippar frågan och ålägger det till styrelsens första styrelsemöte.
+
+* Informationspunkt från UFS valberedning
+
+* Mötets avslutande
+Elis Axelsson avslutar mötet 19:45.
+
+* Signaturer
+** Ordförande
+\makebox[10cm]{\hrulefill}
+
+** Sekreterare
+\makebox[10cm]{\hrulefill}
+
+** Justerare
+\makebox[10cm]{\hrulefill}

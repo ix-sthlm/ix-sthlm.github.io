@@ -1,0 +1,20 @@
+#+TITLE: Verksamhetsberättlse 2016
+#+DATE: 2017-01-28
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi har:
+ - Byggt ny webbsida
+ - Flugit drönare på Järvafältet
+ - Byggt och installerat en 3D/VR-dator
+ - Startat en Meetup-grupp för att annonsera ut events
+ - Anordnat IX3C
+ - Anordnat en Blender-workshop
+ - Anordnat en Emacs-workshop
+ - Organiserat en elektronikkurs
+ - Byggt och provat quadrakoptrar
+ - Fortsatt arbetet med vår 3D-skrivare
+ - Byggt en ny arbetsyta för programmerings- och elektronikrelaterade arbeten

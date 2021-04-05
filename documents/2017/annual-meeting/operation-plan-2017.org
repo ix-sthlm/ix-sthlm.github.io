@@ -1,0 +1,16 @@
+#+TITLE: Verksamhetsplan 2017
+#+DATE: 2017-01-28
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi vill:
+ - Fortsätta att uppdatera vår hemsida
+ - Organisera mera regelbunden aktivitet
+ - Annonsera flera aktiviteter på Meetup
+ - Anordna flera workshops
+ - Fortsätta att hålla måndagsaktiviteter
+ - Se över föreningens stadgar och lägg förslag för lämpliga ändringar till nästa årsmöte
+ - Införskaffa en ny 3D-skrivare

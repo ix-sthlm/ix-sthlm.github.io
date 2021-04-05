@@ -1,0 +1,38 @@
+#+TITLE: Stadgeändring kring medlemsavgift
+#+DATE: 2018-01-29
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Motionärer: Styrelsen
+
+Nuvarande stadga tillåter ej medlemsavgifter på 0 kronor, vi har i praktiken
+haft 0 kr i medlemsavgift i många år.
+
+* Nuvarande lydelse
+** 5. Medlemskap
+Medlemskap erhålls av den som betalar medlemsavgift och verkar enligt
+föreningens syfte. Medlemsavgiften är giltig från dess att avgiften betalas
+fram till nästa årsmöte. Om en medlem missköter sig eller skadar föreningen
+kan personen uteslutas ur föreningen. Uteslutningen beslutas av styrelsen och
+ska tas upp på årsmötet då den uteslutne har rätt att yttra sig och det är
+årsmötet som slutligen bestämmer om uteslutningen ska gälla eller hävas.
+
+** 11. Medlemsavgift
+Medlemsavgiften fastställs av årsmötet. Den är giltig från dessa att
+betalning sker fram till och med nästa årsmöte. Medlemsavgiften måste vara
+större än noll (0) kronor.
+
+* Att ändra till
+** 5. Medlemskap
+Medlemskap kan erhållas av den som betalar eventuell medlemsavgift och verkar
+enligt föreningens syfte. Om en medlem missköter sig eller skadar föreningen
+kan personen uteslutas ur föreningen. Uteslutningen beslutas av styrelsen och
+ska tas upp på årsmötet då den uteslutna har rätt att yttra sig och det är
+årsmötet som slutligen bestämmer om uteslutningen ska gälla eller hävas.
+
+** 11. Medlemsavgift
+Eventuell medlemsavgift fastställs av årsmötet. Den är giltig från det att
+betalning sker fram till och med nästa årsmöte.

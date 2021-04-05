@@ -1,0 +1,17 @@
+#+TITLE: Stadgeändring kring dagordning på årsmöte
+#+DATE: 2018-01-29
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Motionärer: Styrelsen
+
+Nuvarande dagordning saknar två punkter som alltid bör tas upp. Dessa punkter
+är Verksamhetsplan samt Budget.
+
+* Att lägga till
+** 6. Årsmöte
+Lägga till punkterna Verksamhetsplan samt Budget efter fastställande
+av medlemsavgift.

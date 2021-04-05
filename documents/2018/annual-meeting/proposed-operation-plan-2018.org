@@ -1,0 +1,15 @@
+#+TITLE: Föreslagen Verksamhetsplan 2018
+#+DATE: 2018-01-29
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+Vi vill:
+ - Fortsätta att uppdatera vår hemsida
+ - Organisera mera regelbunden aktivitet
+ - Annonsera flera aktiviteter på Meetup
+ - Anordna flera workshops
+ - Fortsätta att hålla måndagsaktiviteter
+ - Flyga drönare

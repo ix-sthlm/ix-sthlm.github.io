@@ -1,0 +1,24 @@
+#+TITLE: Ekonomisk Berättelse för Ix 2017
+#+DATE: 2018-01-29
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+* Kontoutdrag
+|      Datum | Till/Från |  Belopp | Utgående Saldo | Beskrivning          |
+|------------+-----------+---------+----------------+----------------------|
+| 2017-01-01 |           |    0.00 |       46001.65 |                      |
+| 2017-01-24 | Nordea    | -750.00 |       45251.65 | PRIS ENL SPEC        |
+| 2017-11-23 | IX        |  100.00 |       45351.65 | Donation från medlem |
+| 2017-11-10 | UFS       |   50.00 |       45401.65 | Medlemsbidrag        |
+#+TBLFM: @3$4..@>$4=@-1 + $3
+
+* Sammanfattning
+Under 2017 var det väldigt lite rörelse ekonomiskt. Vi fick den vanliga
+kontoavgiften på 750kr från Nordea, 50 kr i bidrag från UFS och 100kr i
+donation från en medlem.
+
+Det köptes en 3D-skrivare i början av 2017 men den utbetalningen missades och
+den betalningen kommer att ske i år istället.

@@ -1,0 +1,84 @@
+#+TITLE: Årsmötesprotokoll 2018
+#+DATE: 2018-02-19
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+* Öppnande av mötet
+Elis öppnar mötet 19:06.
+
+* Val av mötsordförande
+Mötet väljer Elis Hirwing till mötesordförande.
+
+* Val av mötessekreterare
+Mötet väljer Michael Stahre till mötessekreterare.
+
+* Val av justeringspersoner tillika rösträknare
+Mötet väljer Kim Lindberger och Erik Welander till justeringspersoner
+tillika rösträknare.
+
+* Fråga om mötet är stadgeenligt kallat
+Mötet finner att mötet är stadgeenligt kallat.
+
+* Verksamhetsberättelse
+Verksamhetsberättelsen föredras och mötet beslutar att lägga till punkten om
+=Måndagsträffar= till verksamhetsberättelsen, och sedan lägga den
+till handlingarna.
+
+* Revisorsberättelse
+Revisorsberättelsen föredras och mötet beslutar att lägga den till handlingarna.
+
+* Ekonomisk berättelse
+Den ekonomiska berättelsen föredras och mötet beslutar att lägga den till handlingarna.
+
+* Fråga om styrelsens ansvarsfrihet
+Mötet beslutar att bevilja styrelsen för 2017 ansvarsfrihet.
+
+* Val av ordförande
+Mötet beslutar att välja Elis Hirwing som ordförande för 2018.
+
+* Val av styrelseledamöter
+Mötet beslutar att välja Kim Lindberger, Michael Stahre, Erik Welander samt
+Martin Arnér till styrelseledamöter.
+
+* Val av revisorer
+Mötet väljer Erik Johansson till revisor.
+
+* Val av valberedning
+Mötet väljer Sara Karlsson till valberedning.
+
+* Fastställande av medlemsavgift
+Mötet fastställer medlemsavgiften till =en frivillig donation=.
+
+* Verksamhetsplan
+Mötet beslutar att lägga till =Använda vår 3D-skrivare= samt
+=Hitta fler sätt att använda vår dator på= till den föreslagna
+verksamhetsplanen samt att lägga den till handlingarna.
+
+* Budget
+Mötet beslutar att lägga till budgetposten =Workshops= på 2000kr under
+Utgifter till den föreslagna budgeten samt att lägga den till handlingarna.
+
+* Motioner
+** Motion 1 Stadgeändring kring medlemsavgift
+Michael Stahre yrkade på att den sista meningen i paragraf 11
+(=Den är giltig från det att betalning sker fram till och med nästa årsmöte=)
+ska strykas samt att lägga till meningen
+=Medlemskap måste förnyas varje kalenderår.= till slutet av paragraf 5.
+
+Motionärerna (Styrelsen) jämkar sig med yrkandet.
+
+Mötet beslutar att godkänna stadgeändringen, med ändringsyrkandet, i sin helhet.
+
+** Motion 2 Stadgeändring kring dagordning på årsmöte
+Mötet beslutar att godkänna stadgeändringen.
+
+* Övriga frågor
+** Stadgerevision till nästa år
+Mötet beslutar att ålägga styrelsen att under året se över föreningens stadgar och lägga
+förslag på ändringar för att öka tydligheten och ta bort konstigheter till nästa årsmöte.
+
+* Mötets avslutande
+Elis Hirwing avslutar mötet 20:00:59.
