@@ -8,12 +8,6 @@ Stockholm.
 ### Email
 You can send emails to the board at [ix@ufs.se](mailto:ix@ufs.se).
 
-### Phone
-There's a phone in UFS that you can call to. If you want to reach IX it's best
-to call during Monday evenings.
-
-The number there is [+46 8-10 77 00](tel:+468-10-77-00).
-
 ### Postal address
 To send letters to IX, you can do it to:
 ```
