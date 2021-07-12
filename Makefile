@@ -38,7 +38,7 @@ dirlists:
 
 # Make target CNAME for github custom domain
 cname:
-	echo 'ix.ufs.se' > ./public/CNAME
+	echo 'proxxi.org' > ./public/CNAME
 
 # Make a copy of the logos and replace all blacks with other colors
 color-logos:
