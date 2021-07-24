@@ -6,7 +6,7 @@ title = "Hockeypuck OpenPGP keyserver"
 +++
 Hej,
 
-[etu](authors/etu/) har nu bytt programvara på vår
+[etu](/authors/etu/) har nu bytt programvara på vår
 [nyckelserver](https://keys.proxxi.org/) till Hockeypuck.
 
 Servern används mest när vi har haft våra nyckelsigneringspartyn, men
