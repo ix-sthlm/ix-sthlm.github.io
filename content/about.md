@@ -7,7 +7,7 @@ IX är en Dator/Elektronik-förening med säte i Stockholm.
 ### Viktiga nummer
 Organisationsnummer: 802404-4102.
 
-Bankkonto: PlusGiro, Nordea, 189 97-7i
+Bankkonto: PlusGiro, Nordea, 189 97-7
 
 ### Epost
 Det går att eposta till styrelsen samt revisor på [ix@ufs.se](mailto:ix@ufs.se).
