@@ -8,16 +8,6 @@ Stockholm.
 ### Email
 You can send emails to the board at [ix@ufs.se](mailto:ix@ufs.se).
 
-### Postal address
-To send letters to IX, you can do it to:
-```
-IX
-C/O Unga Forskare Stockholm
-Box 8006
-104 20 Stockholm
-Sweden
-```
-
 ### Internet Relay Chat
 IX has a channel by the name [#ix on irc.oftc.net](irc://irc.oftc.net/ix). You're
 free to join with any IRC-client or use the <a href="https://webchat.oftc.net/?channels=ix" target="_blank">webclient</a> below.
