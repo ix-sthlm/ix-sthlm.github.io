@@ -1,0 +1,21 @@
+#+TITLE: Budgetförslag för IX 2024
+#+DATE: 2021-03-01
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
+
+| Inkomster        |          |
+|------------------+----------|
+| Ingående balans  | 46677.01 |
+|------------------+----------|
+|                  |          |
+| Utgifter         |          |
+|------------------+----------|
+| Nordea bankkonto |   950.00 |
+|------------------+----------|
+| Utgånde balans   | 45727.01 |
+#+TBLFM: @>$2=vsum(@I..@II) - vsum(@III..@IIII)

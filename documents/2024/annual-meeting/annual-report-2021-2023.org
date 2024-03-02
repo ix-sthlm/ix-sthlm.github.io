@@ -1,0 +1,14 @@
+#+TITLE: Verksamhetsberättelse 2021-2023
+#+DATE: 2024-03-02
+#+OPTIONS: toc:nil author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
+
+Vi har:
+- Vi tömde våra saker ur lokalen
+- Vi hade måndagsträffar så länge lokalen fanns kvar
+- Vi migrerade vår hemsida till proxxi.org
