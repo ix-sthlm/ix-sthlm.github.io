@@ -1,0 +1,17 @@
+#+TITLE: Proposition 1: Upplösning av föreningen
+#+DATE: 2024-03-02
+#+OPTIONS: toc:nil author:nil num:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \setlength{\parskip}{6pt}
+
+Motionärer: Elis Hirwing
+
+Då föreningen inte har haft någon verksamhet på länge så skulle jag vilja
+lägga ner föreningen.
+
+Föreningen sitter på en summa pengar som behöver disponeras men har i övrigt
+inga tillgångar.

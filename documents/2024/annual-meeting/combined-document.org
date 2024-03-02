@@ -1,0 +1,61 @@
+#+TITLE: IX Årsmöteshandlingar 2024
+#+DATE: 2024-03-02
+#+OPTIONS: toc:t author:nil
+#+LANGUAGE: sv
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage[swedish]{babel}
+
+\clearpage
+
+* Dagordning
+1. Öppnande av mötet
+2. Mötesfunktionärer
+  1. Val av mötesordförande
+  2. Val av mötessekreterare
+  3. Val av justeringspersoner tillika rösträknare
+3. Mötets behörighet
+4. Fastställande av röstlängd
+5. Fastställande av dagordningen
+6. Föredrag av Verksamhetsberättelse
+7. Föredrag av Ekonomisk berättelse
+8. Föredrag av Revisionsberättelse
+9. Fråga om styrelsens ansvarsfrihet
+10. Propositioner
+  1. Proposition 1: Upplösning av föreningen
+11. Fastställande av medlemsavgift
+12. Verksamhetsplan
+13. Budget
+14. Motioner
+15. Förtroendeval
+  1. Val av ordförande
+  2. Val av styrelseledamöter
+  3. Val av revisorer
+  4. Val av valberedning
+16. Övriga frågor
+17. Mötets avslutande
+
+\clearpage
+
+* Verksamhetsberättelse 2021-2023
+#+INCLUDE: "./annual-report-2021-2023.org" :lines "10-"
+
+\clearpage
+
+* Ekonomisk Berättelse för IX 2021-2023
+#+INCLUDE: "./financial-report-2021-2023.org" :lines "10-"
+
+\clearpage
+
+* Budgetförslag för IX 2024
+#+INCLUDE: "./proposed-budget-2024.org" :lines "10-"
+
+\clearpage
+
+* Föreslagen Verksamhetsplan 2024
+#+INCLUDE: "./proposed-operation-plan-2024.org" :lines "10-"
+
+\clearpage
+
+* Proposition 1: Upplösning av föreningen
+#+INCLUDE: "./proposition-1-disband-the-organization.org" :lines "10-"
