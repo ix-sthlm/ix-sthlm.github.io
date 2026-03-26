@@ -1,4 +1,4 @@
-#+TITLE: Stadgar för IX
+#+TITLE: Stadgar för HACKSTHLM
 #+OPTIONS: toc:nil author:nil date:nil num:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
@@ -8,12 +8,12 @@
 #+LATEX_HEADER: \setlength{\parskip}{6pt}
 
 * §1 Förening
-IX är en ideell ungdomsförening.
+HACKSTHLM är en ideell förening.
 
 * §2 Syfte
-Föreningens syfte är att främja ungdomars intresse för datorer, naturvetenskap
-och teknik. Att ge medemmarna möjlighet att öka förståelsen för dessa ämnens
-betydelse i samhället samt att bruka kunskaperna inom relevanta områden.
+Föreningens syfte är att främja intresse för datorer, naturvetenskap,
+teknik och konst genom att tillhandahålla gemensamma lokaler, verktyg
+och resurser.
 
 * §3 Obundenhet
 Föreningen är religiöst och partipolitisk obunden.
@@ -79,14 +79,18 @@ Styrelsen beslutar vem eller vilka som har rätt att teckna föreningens firma.
 * §11 Medlemsavgift
 Eventuell medlemsavgift fastställs av årsmötet.
 
-* §12 Stadgeändring
+* §12 Lokalavgift
+För att nyttja lokaler och verktyg kan ytterligare avgift behöva
+erläggas. Hur detta sköts, samt storleken på avgiften beslutas av styrelsen.
+
+* §13 Stadgeändring
 Dessa stadgar kan ändras endast vid årsmöte eller extra årsmöte. I kallelsen
 måste det stå att stadgeändring kommer att behandlas. För att andra i stadgarna
 krävs att 2/3 av de avgivna rösterna bifaller ändringen. För ändring av stadgan
 om Föreningens syfte §2, Stadgeändring §12 och Upplösning §13 krävs att beslutet
 tas på två på varandra följande ordinarie årsmöten.
 
-* §13 Upplösning
+* §14 Upplösning
 Upplösning av föreningen kan endast ske genom beslut på ordinarie årsmöte med
 2/3 majoritet. I kallelsen till årsmötet ska det stå att förlag om upplösning av
 föreningen kommer att behandlas. Mötet beslutar om hur föreningens tillgångar
