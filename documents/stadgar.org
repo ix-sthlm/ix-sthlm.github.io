@@ -1,5 +1,5 @@
 #+TITLE: Stadgar för HACKSTHLM
-#+OPTIONS: toc:nil author:nil date:nil num:nil
+#+OPTIONS: toc:nil author:nil date:nil
 #+LANGUAGE: sv
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [a4paper]
@@ -7,91 +7,260 @@
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
 #+LATEX_HEADER: \setlength{\parskip}{6pt}
 
-* §1 Förening
-HACKSTHLM är en ideell förening.
+* Föreningens namn
 
-* §2 Syfte
-Föreningens syfte är att främja intresse för datorer, naturvetenskap,
-teknik och konst genom att tillhandahålla gemensamma lokaler, verktyg
-och resurser.
+1. Föreningens namn är HACKSTHLM.
 
-* §3 Obundenhet
-Föreningen är religiöst och partipolitisk obunden.
+* Föreningens säte
 
-* §4 Verksamhets­ och räkenskapsår
-Verksamhetsåret och räkenskapsåret omfattar tiden 1 januari till 31 december
+1. Styrelsen har sitt säte i Stockholm.
 
-* §5 Medlemskap
-Medlemskap kan erhållas av den som betalar eventuell medlemsavgift och
-verkar enligt föreningens syfte. Om en medlem missköter sig eller skadar
-föreningen kan personen uteslutas ur föreningen. Uteslutningen beslutas
-av styrelsen och ska tas upp på årsmötet då den uteslutna har rätt att
-yttra sig och det är årsmötet som slutligen bestämmer om uteslutningen
-ska gälla eller hävas. Medlemskap måste förnyas varje kalenderår.
+* Föreningens form
 
-* §6 Årsmöte
-Årsmötet är föreningens högsta beslutande instans. Det ska hållas i
-verksamhetsårets början, dock senast i mars månad. Årsmötet är beslutsmässigt
-endast om skriftlig kallelse utgår senast fjorton dagar före mötet via brev
-eller epost. Kallelsen ska skickas till alla medlemmar eller anslås så att alla
-kan ta del av kallelsen. Möteshandlingar ska finnas medlemmarna tillhanda före
-mötet. Tidpunkt och plats för mötet bestäms av styrelsen. Alla medlemmar är
-röstberättigade vid årsmötet. Varje medlem har en röst och röstning genom
-fullmakt är inte tillåten. Alla beslut fattas genom enkel majoritet utom frågan
-om upplösning enligt §13. Vid årsmötet har ordförande, styrelse, revisorer och
-medlemmar rätt att närvara, yttra sig samt lägga förslag. På årsmötet ska
-följande punkter alltid behandlas:
+1. Föreningen är en ideell förening.
 
- - Fråga om mötet är stadgeenligt kallat
- - Verksamhetsberättelse
- - Revisionsberättelse
- - Ekonomisk berättelse
- - Fråga om styrelsens ansvarsfrihet
- - Val av ordförande
- - Val av styrelseledamöter
- - Val av revisorer
- - Val av valberedning
- - Fastställande av medlemsavgift
- - Verksamhetsplan
- - Budget
- - Motioner
- - Övriga frågor
+* Syfte
 
-* §7 Extra årsmöte
-Extra årsmöte sammankallas om styrelsen eller minst en fjärdedel av medlemmarna
-skriftligen begär det. Samma regler som för ordinarie årsmöte gäller men allt
-som ska behandlas på mötet måste framgå i kallelsen.
+1. Föreningens syfte är att främja intresse för datorer, naturvetenskap, teknik
+   och konst, samt underlätta skapande inom dessa områden genom att
+   tillhandahålla gemensamma lokaler, verktyg och resurser.
 
-* §8 Styrelse
-Styrelsen har sitt säte i Stockholm. Styrelsen ansvarar för den löpande
-verksamheten och verkställer årsmötets beslut. Styrelsen väljs av årsmötet och
-ska utöver ordförande bestå av tre (3) till åtta (8) ledamöter. Styrelsen
-föredelar själv ledamöternas poster. Styrelsen ska sammanträda minst två gånger
-per verksamhetsår. Styrelsen är beslutsmässig om kallelse utgått till samtliga
-ledamöter och hälften av styrelsens ledamöter är närvarande.
+2. Föreningens grundsyn är att öppenhet, jämställdhet och gränsöverskridande
+   samarbete är förutsättningar för att detta skall kunna ske.
 
-* §9 Föreningens firma
-Styrelsen beslutar vem eller vilka som har rätt att teckna föreningens firma.
+* Obundenhet
 
-* §10 Revisorer
-Årsmötet väljer en revisor och en revisorssuppleant.
+1. Föreningen är religiöst och partipolitiskt obunden.
 
-* §11 Medlemsavgift
-Eventuell medlemsavgift fastställs av årsmötet.
+* Verksamhetsår
 
-* §12 Lokalavgift
-För att nyttja lokaler och verktyg kan ytterligare avgift behöva
-erläggas. Hur detta sköts, samt storleken på avgiften beslutas av styrelsen.
+1. Verksamhetsåret är 1 januari till 31 december.
 
-* §13 Stadgeändring
-Dessa stadgar kan ändras endast vid årsmöte eller extra årsmöte. I kallelsen
-måste det stå att stadgeändring kommer att behandlas. För att andra i stadgarna
-krävs att 2/3 av de avgivna rösterna bifaller ändringen. För ändring av stadgan
-om Föreningens syfte §2, Stadgeändring §12 och Upplösning §13 krävs att beslutet
-tas på två på varandra följande ordinarie årsmöten.
+2. Mandatperiod för förtroendevalda i föreningen är, om inget annat anges i
+   stadgan, verksamhetsår.
 
-* §14 Upplösning
-Upplösning av föreningen kan endast ske genom beslut på ordinarie årsmöte med
-2/3 majoritet. I kallelsen till årsmötet ska det stå att förlag om upplösning av
-föreningen kommer att behandlas. Mötet beslutar om hur föreningens tillgångar
-ska disponeras.
+* Medlemmar
+
+1. Som medlem antas intresserad som godkänner dessa stadgar och aktivt tar
+   ställning för ett medlemskap genom att årsvis betala föreningens
+   medlemsavgift. Avgiftens storlek beslutas på årsmöte.
+
+2. En medlem som på ett allvarligt eller upprepat sätt bryter mot föreningens
+   stadga, medlemsavtal eller regler, skadar dess anseende eller motarbetar dess
+   syfte kan avstängas av styrelsen eller årsmöte. I beslutet ska skälen
+   redovisas.
+
+3. Om styrelsen inte har skäl för omedelbar avstängning så har medlemmen rätt
+   att yttra sig kring omständigheterna inom viss av styrelsen angiven tid,
+   minst 14 dagar.
+
+4. Beslut om avstängning får begränsas till att omfatta viss tid, dock max 6
+   månader från beslutsdagen.
+
+5. Ej tidsbegränsad avstängning av medlem måste diskuteras på nästa ordinarie
+   årsmöte om medlem begär det. I annat fall ska det rapporteras i anonymiserad
+   form till årsmötet om uteslutningen. Det är också möjligt behandla ärendet
+   på extra årsmöte som behandlas enligt stadgarna för extra årsmöte. Antingen
+   så upphävs då avstängningen eller så utesluts medlemmen ur
+   föreningen. Uteslutning gäller tills vidare.
+
+6. Styrelsen och årsmöte kan upphäva avstängning och uteslutning. Även
+   utesluten medlem kan skicka in motion om detta.
+
+* Styrelsen
+
+1. Styrelsen ansvarar för föreningens medlemslista, bidragsansökningar,
+   medlemsvärvning, beslut som tas på årsmöten och övrig verksamhet som sker i
+   föreningens namn.
+
+2. Föreningens styrelse består av minst tre ledamöter varav en (1) ordförande
+   och en (1) kassör. Samma person får inte ha flera poster i
+   styrelsen. Styrelsen består av max nio (9) personer.
+
+3. Styrelsen väljs i klump om årsmötet inte beslutar annat.
+
+4. Vid ordinarie årsmöte väljs styrelsen för det nästkommande verksamhetsåret.
+
+5. Vid extra årsmöte där val av styrelse kommer att behandlas ska det framkomma
+   i kallelsen om det rör innevarande eller nästa verksamhetsår.
+
+6. Valbar är medlem i föreningen.
+
+7. Styrelsen är beslutsmässig då samtliga styrelsemedlemmar är skriftligen
+   kallade minst en (1) vecka före styrelsemötet. För att vara behörig att
+   fatta beslut ska fler ledamöter vara närvarande än frånvarande och minst tre
+   (3) måste närvara. Om kallelse utgår mindre än (1) vecka före mötet måste en
+   kvalificerad majoritet (minst ¾ av ledamöter) av styrelsen närvara för att
+   mötet ska anses behörigt att fatta beslut.
+
+8. På styrelsemöten har endast närvarande styrelsemedlemmar rösträtt.
+
+9. Styrelsemedlem som vill avsäga sitt uppdrag meddelar styrelsen detta
+   skriftligt. Styrelsemedlemmen anses då ha avgått. Detta ska noteras i
+   nästkommande styrelsemötesprotokoll. Styrelsen skall informera medlemmarna
+   om styrelseledamots utträde senast 30 dagar efter styrelsemöte där ärendet
+   behandlats.
+
+10. Ansvarsfrihet för avgående styrelsemedlem behandlas på nästkommande årsmöte.
+
+* Revisorer
+
+1. Årsmöte utser en eller två revisorer inför varje verksamhetsår.
+
+2. Revisorn tillträder efter ordinarie årsmöte, och dess mandat sträcker sig
+   tills revisionsberättelsen är klar.
+
+3. Revisorerna granskar föreningens räkenskaper och handlingar, och upprättar
+   en revisionsberättelse.
+
+4. Revisor har närvarorätt på och ska informeras om tid och plats för
+   styrelsemöten.
+
+5. Revisionsberättelsen skall vara styrelsen tillhanda senast två veckor före
+   årsmöte.
+
+6. Valbar till revisor är myndig person bosatt i Sverige och som ej är satt i
+   konkurs, har näringsförbud eller invald i styrelsen för det verksamhetsår
+   revisorsuppdraget gäller. Revisor behöver inte vara medlem i föreningen.
+
+* Valberedning
+
+1. Årsmöte kan välja att antingen utse valberedare eller ålägga styrelsen att
+   sköta valberedning.
+
+2. Valberedningen föreslår personer till de av stadgan fastställda valen.
+
+3. Valbar till valberedare är medlem i föreningen och som inte är invald i
+   styrelsen.
+
+* Årsmöte
+
+1. Årsmötet är föreningens högsta beslutande organ.
+
+2. Styrelsen handhar kallelse och genomförande av årsmötet, om inget annat
+   anges i stadgarna.
+
+3. Styrelsen beslutar om årsmötets tid och plats.
+
+4. Årsmöte kan anordnas antingen på fysisk mötesplats eller digitalt.
+
+5. I det fall årsmöte sker på fysisk plats ska denna vara inom Stockholms län.
+
+6. Föreningsmedlem, styrelse, revisor och valberedning har rätt att närvara,
+   yttra sig och ställa förslag på årsmöte. Mötet kan ge rätt att närvara och
+   yttra sig till andra personer.
+
+7. Endast betalande närvarande medlem har rösträtt på årsmöte.
+
+8. Alla frågor som behandlas på årsmöte eller styrelsemöte avgörs med enkel
+   röstövervikt om inget annat står i stadgarna. Varje person med rösträtt har
+   en röst. Nedlagda röster räknas ej. Vid lika röstetal genomförs en kort
+   debatt i frågan om omröstningen gäller och sedan genomförs en ny
+   omröstning. Om lika röstetal kvarstår efter totalt två omröstningar avgör
+   föreningsordförande.
+
+9. Möteshandlingar för årsmöte ska vara tillgängliga för föreningens medlemmar
+   senast två veckor före mötet.
+
+* Ordinarie årsmöte
+
+1. Ordinarie årsmöte ska hållas varje år, tidigast den 1 januari och senast 31
+   mars.
+
+2. För att mötet ska vara behörigt utlyst måste föreningens medlemmar kallas
+   senast två veckor före mötet med uppgift om tid och plats för mötet.
+
+3. I möteshandlingarna ska ingå: dagordning, styrelsens förslag till budget och
+   verksamhetsplan, styrelsens förslag för medlemsavgift, samt inkomna
+   motioner.
+
+4. Följande ärenden ska alltid behandlas på ordinarie årsmöte:
+   1. Mötets öppnande
+   2. Mötets behörighet
+   3. Val av mötets ordförande
+   4. Val av mötets sekreterare
+   5. Val av två personer att justera protokollet
+   6. Val av två rösträknare
+   7. Godkännande av dagordning
+   8. Preliminär verksamhetsberättelse för innevarande verksamhetsår
+   9. Ekonomisk rapport för innevarande verksamhetsår
+   10. Fastställande av medlemsavgift
+   11. Motioner
+   12. Nästa års verksamhetsplan
+   13. Nästa års budget
+   14. Val av nästa års styrelse
+   15. Val nästa års revisor
+   16. Val av nästa års valberedning
+   17. Mötets avslutande
+
+* Extra årsmöte
+
+1. Om styrelsen, minst en revisor eller minst en tredjedel av föreningens
+   medlemmar avrundat nedåt önskar det skall styrelsen kalla till extra
+   årsmöte.
+
+2. Vid giltigt krav på extra årsmöte kan den som krävt det sköta handhavandet.
+
+3. För att mötet ska vara behörigt utlyst måste föreningens medlemmar kallas
+   minst fyra veckor i förväg med uppgift om tid och plats för mötet.
+
+4. Om föreningens styrelse under minst en veckas tid har saknat ordförande
+   eller kassör, eller omöjligen kan uppfylla stadgans krav för att vara
+   beslutsmässiga, kan ett nytt årsmöte kallas av vem som helst som är medlem.
+
+5. På extra årsmöte kan bara de ärenden som delgetts i kallelsen behandlas.
+
+6. I möteshandlingarna ska ingå dagordning och ärenden som ska behandlas.
+
+* Motioner
+
+1. Inför ordinarie årsmöte har föreningens medlemmar rätt att lämna in
+   motioner.
+
+2. Motioner måste ha inkommit till styrelsen senast tre veckor före årsmötet.
+
+* Firmateckning
+
+1. Föreningens firma tecknas av ordförande och kassör var för sig. Om särskilda
+   skäl föreligger kan annan person utses av styrelsen att teckna föreningens
+   firma.
+
+* Lokalanvändning
+
+1. För att använda HACKSTHLM’s lokaler kan viss avgift behöva erläggas. I det
+   fall då HACKSTHLM har flera lokaler kan separata avgifter användas. Hur
+   detta hanteras lämnas till styrelsen att bestämma.
+
+* Stadgeändring
+
+1. Ändring av dessa stadgar sker med två tredjedels majoritet avrundat nedåt på
+   årsmöte.
+
+2. Ändring av dessa stadgar kräver likalydande beslut på två på varandra
+   följande årsmöten varav minst ett ordinarie med minst tre månader mellan
+   mötena.
+
+3. Då stadgeändring ska ske måste antingen förslaget eller vilken paragraf som
+   berörs delges medlemmarna i kallelsen till mötet.
+
+* Upplösning
+
+1. Förslag om föreningens upplösning får endast framläggas på årsmöte. Att
+   upplösning ska behandlas måste framgå av kallelsen.
+
+2. Föreningen kan inte upplösas så länge minst fem medlemmar inte godkänner
+   upplösningen.
+
+3. Beslut om upplösning kräver likalydande beslut på två på varandra följande
+   årsmöte varav minst ett ordinarie med minst tre månader mellan mötena.
+
+4. Vid upplösning ska alla föreningens skulder betalas. Därefter ska
+   föreningens tillgångar gå till verksamhet i enlighet med föreningens
+   syfte. Hur detta ska ske beslutas på det sista årsmötet.
+
+5. Årsmötet väljer två likvidatorer vid upplösningen av
+   föreningen. Likvidatorerna genomför likvidationen i samband med föreningens
+   upplösning.
+
+6. Till likvidator är myndig person som inte är satt i konkurs eller har
+   näringsförbud, bosatt i Sverige valbar.
