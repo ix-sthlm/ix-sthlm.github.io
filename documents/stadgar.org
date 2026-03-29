@@ -182,15 +182,15 @@
    5. Val av två personer att justera protokollet
    6. Val av två rösträknare
    7. Godkännande av dagordning
-   8. Preliminär verksamhetsberättelse för innevarande verksamhetsår
-   9. Ekonomisk rapport för innevarande verksamhetsår
+   8. Verksamhetsberättelse
+   9. Ekonomisk rapport
    10. Fastställande av medlemsavgift
    11. Motioner
-   12. Nästa års verksamhetsplan
-   13. Nästa års budget
-   14. Val av nästa års styrelse
-   15. Val nästa års revisor
-   16. Val av nästa års valberedning
+   12. Verksamhetsplan
+   13. Budget
+   14. Val av styrelse
+   15. Val av revisor
+   16. Val av valberedning
    17. Mötets avslutande
 
 * Extra årsmöte
@@ -202,7 +202,7 @@
 2. Vid giltigt krav på extra årsmöte kan den som krävt det sköta handhavandet.
 
 3. För att mötet ska vara behörigt utlyst måste föreningens medlemmar kallas
-   minst fyra veckor i förväg med uppgift om tid och plats för mötet.
+   minst två veckor i förväg med uppgift om tid och plats för mötet.
 
 4. Om föreningens styrelse under minst en veckas tid har saknat ordförande
    eller kassör, eller omöjligen kan uppfylla stadgans krav för att vara
@@ -217,18 +217,16 @@
 1. Inför ordinarie årsmöte har föreningens medlemmar rätt att lämna in
    motioner.
 
-2. Motioner måste ha inkommit till styrelsen senast tre veckor före årsmötet.
+2. Motioner måste ha inkommit till styrelsen senast en vecka före årsmötet.
 
 * Firmateckning
 
-1. Föreningens firma tecknas av ordförande och kassör var för sig. Om särskilda
-   skäl föreligger kan annan person utses av styrelsen att teckna föreningens
-   firma.
+1. Föreningens firmatecknare utses av och inom styrelsen.
 
 * Lokalanvändning
 
-1. För att använda HACKSTHLM’s lokaler kan viss avgift behöva erläggas. I det
-   fall då HACKSTHLM har flera lokaler kan separata avgifter användas. Hur
+1. För att använda föreningens lokaler kan viss avgift behöva erläggas. I det
+   fall då föreningen har flera lokaler kan separata avgifter användas. Hur
    detta hanteras lämnas till styrelsen att bestämma.
 
 * Stadgeändring
@@ -262,5 +260,5 @@
    föreningen. Likvidatorerna genomför likvidationen i samband med föreningens
    upplösning.
 
-6. Till likvidator är myndig person som inte är satt i konkurs eller har
-   näringsförbud, bosatt i Sverige valbar.
+6. Valbar till likvidator är myndig person som inte är satt i konkurs eller har
+   näringsförbud samt är bosatt i Sverige.
